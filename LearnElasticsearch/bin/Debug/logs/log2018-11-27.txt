@@ -1,0 +1,510 @@
+[20181127 13:52:12][a69d1d2d59ab44aa88049ea847d69ecb][Info] Build internal component...
+[20181127 13:52:13][a69d1d2d59ab44aa88049ea847d69ecb][Info] Add start urls to scheduler, count 100.
+[20181127 13:52:13][a69d1d2d59ab44aa88049ea847d69ecb][Trace] Left 100 Success 0 Error 0 Total 100 Dowload 0 Extract 0 Pipeline 0
+[20181127 16:00:54][737bc409a7d841deb833bf854a0d45fa][Info] Build internal component...
+[20181127 16:00:55][737bc409a7d841deb833bf854a0d45fa][Info] Add start urls to scheduler, count 100.
+[20181127 16:00:55][737bc409a7d841deb833bf854a0d45fa][Trace] Left 100 Success 0 Error 0 Total 100 Dowload 0 Extract 0 Pipeline 0
+[20181127 16:07:45][977390597aae41d9b4c088c2a7c0cd34][Info] Build internal component...
+[20181127 16:07:45][977390597aae41d9b4c088c2a7c0cd34][Info] Add start urls to scheduler, count 100.
+[20181127 16:07:45][977390597aae41d9b4c088c2a7c0cd34][Trace] Left 100 Success 0 Error 0 Total 100 Dowload 0 Extract 0 Pipeline 0
+[20181127 16:15:22][4e5988d96ad54f0982db612da590015e][Info] Build internal component...
+[20181127 16:15:23][4e5988d96ad54f0982db612da590015e][Info] Add start urls to scheduler, count 100.
+[20181127 16:15:23][4e5988d96ad54f0982db612da590015e][Trace] Left 100 Success 0 Error 0 Total 100 Dowload 0 Extract 0 Pipeline 0
+[20181127 16:17:48][c426c219aa364362a4867add3a1c2939][Info] Build internal component...
+[20181127 16:17:48][c426c219aa364362a4867add3a1c2939][Info] Add start urls to scheduler, count 100.
+[20181127 16:17:48][c426c219aa364362a4867add3a1c2939][Trace] Left 100 Success 0 Error 0 Total 100 Dowload 0 Extract 0 Pipeline 0
+[20181127 16:17:51][c426c219aa364362a4867add3a1c2939][Info] Crawl: https://zz.lianjia.com/ershoufang/pg93/ success.
+[20181127 16:17:51][c426c219aa364362a4867add3a1c2939][Info] Crawl: https://zz.lianjia.com/ershoufang/pg89/ success.
+[20181127 16:17:51][c426c219aa364362a4867add3a1c2939][Info] Crawl: https://zz.lianjia.com/ershoufang/pg97/ success.
+[20181127 16:17:51][c426c219aa364362a4867add3a1c2939][Info] Crawl: https://zz.lianjia.com/ershoufang/pg100/ success.
+[20181127 16:17:51][c426c219aa364362a4867add3a1c2939][Info] Crawl: https://zz.lianjia.com/ershoufang/pg87/ success.
+[20181127 16:17:51][c426c219aa364362a4867add3a1c2939][Info] Crawl: https://zz.lianjia.com/ershoufang/pg86/ success.
+[20181127 16:17:51][c426c219aa364362a4867add3a1c2939][Info] Crawl: https://zz.lianjia.com/ershoufang/pg94/ success.
+[20181127 16:17:51][c426c219aa364362a4867add3a1c2939][Info] Crawl: https://zz.lianjia.com/ershoufang/pg98/ success.
+[20181127 16:17:51][c426c219aa364362a4867add3a1c2939][Info] Crawl: https://zz.lianjia.com/ershoufang/pg95/ success.
+[20181127 16:17:51][c426c219aa364362a4867add3a1c2939][Info] Crawl: https://zz.lianjia.com/ershoufang/pg91/ success.
+[20181127 16:17:51][c426c219aa364362a4867add3a1c2939][Info] Crawl: https://zz.lianjia.com/ershoufang/pg90/ success.
+[20181127 16:17:51][c426c219aa364362a4867add3a1c2939][Info] Crawl: https://zz.lianjia.com/ershoufang/pg96/ success.
+[20181127 16:17:51][c426c219aa364362a4867add3a1c2939][Info] Crawl: https://zz.lianjia.com/ershoufang/pg88/ success.
+[20181127 16:17:51][c426c219aa364362a4867add3a1c2939][Info] Crawl: https://zz.lianjia.com/ershoufang/pg92/ success.
+[20181127 16:17:51][c426c219aa364362a4867add3a1c2939][Info] Crawl: https://zz.lianjia.com/ershoufang/pg99/ success.
+[20181127 16:17:52][c426c219aa364362a4867add3a1c2939][Trace] Left 76 Success 15 Error 0 Total 100 Dowload 2093 Extract 1067 Pipeline 7
+[20181127 16:17:52][c426c219aa364362a4867add3a1c2939][Info] Crawl: https://zz.lianjia.com/ershoufang/pg73/ success.
+[20181127 16:17:53][c426c219aa364362a4867add3a1c2939][Info] Crawl: https://zz.lianjia.com/ershoufang/pg72/ success.
+[20181127 16:17:53][c426c219aa364362a4867add3a1c2939][Info] Crawl: https://zz.lianjia.com/ershoufang/pg85/ success.
+[20181127 16:17:53][c426c219aa364362a4867add3a1c2939][Info] Crawl: https://zz.lianjia.com/ershoufang/pg79/ success.
+[20181127 16:17:53][c426c219aa364362a4867add3a1c2939][Info] Crawl: https://zz.lianjia.com/ershoufang/pg82/ success.
+[20181127 16:17:53][c426c219aa364362a4867add3a1c2939][Info] Crawl: https://zz.lianjia.com/ershoufang/pg83/ success.
+[20181127 16:17:53][c426c219aa364362a4867add3a1c2939][Info] Crawl: https://zz.lianjia.com/ershoufang/pg78/ success.
+[20181127 16:17:53][c426c219aa364362a4867add3a1c2939][Info] Crawl: https://zz.lianjia.com/ershoufang/pg71/ success.
+[20181127 16:17:53][c426c219aa364362a4867add3a1c2939][Info] Crawl: https://zz.lianjia.com/ershoufang/pg84/ success.
+[20181127 16:17:53][c426c219aa364362a4867add3a1c2939][Info] Crawl: https://zz.lianjia.com/ershoufang/pg74/ success.
+[20181127 16:17:53][c426c219aa364362a4867add3a1c2939][Info] Crawl: https://zz.lianjia.com/ershoufang/pg75/ success.
+[20181127 16:17:53][c426c219aa364362a4867add3a1c2939][Trace] Left 66 Success 26 Error 0 Total 100 Dowload 1019 Extract 744 Pipeline 0
+[20181127 16:17:53][c426c219aa364362a4867add3a1c2939][Info] Crawl: https://zz.lianjia.com/ershoufang/pg80/ success.
+[20181127 16:17:53][c426c219aa364362a4867add3a1c2939][Info] Crawl: https://zz.lianjia.com/ershoufang/pg77/ success.
+[20181127 16:17:53][c426c219aa364362a4867add3a1c2939][Info] Crawl: https://zz.lianjia.com/ershoufang/pg81/ success.
+[20181127 16:17:53][c426c219aa364362a4867add3a1c2939][Info] Crawl: https://zz.lianjia.com/ershoufang/pg76/ success.
+[20181127 16:17:53][c426c219aa364362a4867add3a1c2939][Trace] Left 56 Success 30 Error 0 Total 100 Dowload 1019 Extract 754 Pipeline 1
+[20181127 16:17:54][c426c219aa364362a4867add3a1c2939][Info] Crawl: https://zz.lianjia.com/ershoufang/pg70/ success.
+[20181127 16:17:54][c426c219aa364362a4867add3a1c2939][Info] Crawl: https://zz.lianjia.com/ershoufang/pg69/ success.
+[20181127 16:17:55][c426c219aa364362a4867add3a1c2939][Info] Crawl: https://zz.lianjia.com/ershoufang/pg60/ success.
+[20181127 16:17:55][c426c219aa364362a4867add3a1c2939][Info] Crawl: https://zz.lianjia.com/ershoufang/pg68/ success.
+[20181127 16:17:56][c426c219aa364362a4867add3a1c2939][Info] Crawl: https://zz.lianjia.com/ershoufang/pg66/ success.
+[20181127 16:17:56][c426c219aa364362a4867add3a1c2939][Info] Crawl: https://zz.lianjia.com/ershoufang/pg62/ success.
+[20181127 16:17:56][c426c219aa364362a4867add3a1c2939][Info] Crawl: https://zz.lianjia.com/ershoufang/pg58/ success.
+[20181127 16:17:56][c426c219aa364362a4867add3a1c2939][Info] Crawl: https://zz.lianjia.com/ershoufang/pg55/ success.
+[20181127 16:17:56][c426c219aa364362a4867add3a1c2939][Info] Crawl: https://zz.lianjia.com/ershoufang/pg56/ success.
+[20181127 16:17:56][c426c219aa364362a4867add3a1c2939][Info] Crawl: https://zz.lianjia.com/ershoufang/pg67/ success.
+[20181127 16:17:56][c426c219aa364362a4867add3a1c2939][Info] Crawl: https://zz.lianjia.com/ershoufang/pg59/ success.
+[20181127 16:17:56][c426c219aa364362a4867add3a1c2939][Info] Crawl: https://zz.lianjia.com/ershoufang/pg65/ success.
+[20181127 16:17:56][c426c219aa364362a4867add3a1c2939][Info] Crawl: https://zz.lianjia.com/ershoufang/pg63/ success.
+[20181127 16:17:56][c426c219aa364362a4867add3a1c2939][Info] Crawl: https://zz.lianjia.com/ershoufang/pg57/ success.
+[20181127 16:17:56][c426c219aa364362a4867add3a1c2939][Info] Crawl: https://zz.lianjia.com/ershoufang/pg61/ success.
+[20181127 16:17:56][c426c219aa364362a4867add3a1c2939][Info] Crawl: https://zz.lianjia.com/ershoufang/pg64/ success.
+[20181127 16:17:56][c426c219aa364362a4867add3a1c2939][Trace] Left 46 Success 46 Error 0 Total 100 Dowload 1300 Extract 761 Pipeline 0
+[20181127 16:17:56][c426c219aa364362a4867add3a1c2939][Info] Crawl: https://zz.lianjia.com/ershoufang/pg54/ success.
+[20181127 16:17:56][c426c219aa364362a4867add3a1c2939][Info] Crawl: https://zz.lianjia.com/ershoufang/pg52/ success.
+[20181127 16:17:57][c426c219aa364362a4867add3a1c2939][Info] Crawl: https://zz.lianjia.com/ershoufang/pg53/ success.
+[20181127 16:17:57][c426c219aa364362a4867add3a1c2939][Info] Crawl: https://zz.lianjia.com/ershoufang/pg48/ success.
+[20181127 16:17:57][c426c219aa364362a4867add3a1c2939][Info] Crawl: https://zz.lianjia.com/ershoufang/pg49/ success.
+[20181127 16:17:57][c426c219aa364362a4867add3a1c2939][Trace] Left 36 Success 50 Error 0 Total 100 Dowload 1038 Extract 365 Pipeline 0
+[20181127 16:17:57][c426c219aa364362a4867add3a1c2939][Info] Crawl: https://zz.lianjia.com/ershoufang/pg51/ success.
+[20181127 16:17:57][c426c219aa364362a4867add3a1c2939][Info] Crawl: https://zz.lianjia.com/ershoufang/pg50/ success.
+[20181127 16:17:57][c426c219aa364362a4867add3a1c2939][Info] Crawl: https://zz.lianjia.com/ershoufang/pg43/ success.
+[20181127 16:17:57][c426c219aa364362a4867add3a1c2939][Info] Crawl: https://zz.lianjia.com/ershoufang/pg45/ success.
+[20181127 16:17:57][c426c219aa364362a4867add3a1c2939][Info] Crawl: https://zz.lianjia.com/ershoufang/pg41/ success.
+[20181127 16:17:57][c426c219aa364362a4867add3a1c2939][Info] Crawl: https://zz.lianjia.com/ershoufang/pg47/ success.
+[20181127 16:17:57][c426c219aa364362a4867add3a1c2939][Info] Crawl: https://zz.lianjia.com/ershoufang/pg44/ success.
+[20181127 16:17:57][c426c219aa364362a4867add3a1c2939][Info] Crawl: https://zz.lianjia.com/ershoufang/pg40/ success.
+[20181127 16:17:57][c426c219aa364362a4867add3a1c2939][Info] Crawl: https://zz.lianjia.com/ershoufang/pg42/ success.
+[20181127 16:17:57][c426c219aa364362a4867add3a1c2939][Info] Crawl: https://zz.lianjia.com/ershoufang/pg46/ success.
+[20181127 16:17:58][c426c219aa364362a4867add3a1c2939][Trace] Left 26 Success 61 Error 0 Total 100 Dowload 1038 Extract 687 Pipeline 2
+[20181127 16:17:58][c426c219aa364362a4867add3a1c2939][Info] Crawl: https://zz.lianjia.com/ershoufang/pg37/ success.
+[20181127 16:17:58][c426c219aa364362a4867add3a1c2939][Info] Crawl: https://zz.lianjia.com/ershoufang/pg38/ success.
+[20181127 16:17:58][c426c219aa364362a4867add3a1c2939][Info] Crawl: https://zz.lianjia.com/ershoufang/pg39/ success.
+[20181127 16:17:58][c426c219aa364362a4867add3a1c2939][Info] Crawl: https://zz.lianjia.com/ershoufang/pg35/ success.
+[20181127 16:17:59][c426c219aa364362a4867add3a1c2939][Info] Crawl: https://zz.lianjia.com/ershoufang/pg29/ success.
+[20181127 16:17:59][c426c219aa364362a4867add3a1c2939][Info] Crawl: https://zz.lianjia.com/ershoufang/pg31/ success.
+[20181127 16:17:59][c426c219aa364362a4867add3a1c2939][Info] Crawl: https://zz.lianjia.com/ershoufang/pg33/ success.
+[20181127 16:17:59][c426c219aa364362a4867add3a1c2939][Info] Crawl: https://zz.lianjia.com/ershoufang/pg25/ success.
+[20181127 16:17:59][c426c219aa364362a4867add3a1c2939][Info] Crawl: https://zz.lianjia.com/ershoufang/pg30/ success.
+[20181127 16:18:27][b72c5a6d433a4ee4addee9033f20bba1][Info] Build internal component...
+[20181127 16:18:27][b72c5a6d433a4ee4addee9033f20bba1][Info] Add start urls to scheduler, count 1.
+[20181127 16:18:27][b72c5a6d433a4ee4addee9033f20bba1][Trace] Left 1 Success 0 Error 0 Total 1 Dowload 0 Extract 0 Pipeline 0
+[20181127 16:18:28][b72c5a6d433a4ee4addee9033f20bba1][Info] Crawl: https://zz.lianjia.com/ershoufang/pg1/ success.
+[20181127 16:18:28][b72c5a6d433a4ee4addee9033f20bba1][Trace] Left 0 Success 1 Error 0 Total 1 Dowload 423 Extract 77 Pipeline 2
+[20181127 16:18:56][1bed387b7c1844508908cb5e83c0d2d1][Info] Build internal component...
+[20181127 16:18:56][1bed387b7c1844508908cb5e83c0d2d1][Info] Add start urls to scheduler, count 1.
+[20181127 16:18:56][1bed387b7c1844508908cb5e83c0d2d1][Trace] Left 1 Success 0 Error 0 Total 1 Dowload 0 Extract 0 Pipeline 0
+[20181127 16:18:57][1bed387b7c1844508908cb5e83c0d2d1][Info] Crawl: https://zz.lianjia.com/ershoufang/pg1/ success.
+[20181127 16:18:57][1bed387b7c1844508908cb5e83c0d2d1][Trace] Left 0 Success 1 Error 0 Total 1 Dowload 281 Extract 94 Pipeline 2
+[20181127 16:19:17][985c523ada834540bc27345dcb0a5242][Info] Build internal component...
+[20181127 16:19:17][985c523ada834540bc27345dcb0a5242][Info] Add start urls to scheduler, count 1.
+[20181127 16:19:17][985c523ada834540bc27345dcb0a5242][Trace] Left 1 Success 0 Error 0 Total 1 Dowload 0 Extract 0 Pipeline 0
+[20181127 16:19:18][985c523ada834540bc27345dcb0a5242][Info] Crawl: https://zz.lianjia.com/ershoufang/pg1/ success.
+[20181127 16:19:19][985c523ada834540bc27345dcb0a5242][Trace] Left 0 Success 1 Error 0 Total 1 Dowload 330 Extract 173 Pipeline 2
+[20181127 16:19:53][815cb9b85d384a3cb67c4be6c551f941][Info] Build internal component...
+[20181127 16:19:53][815cb9b85d384a3cb67c4be6c551f941][Info] Add start urls to scheduler, count 1.
+[20181127 16:19:53][815cb9b85d384a3cb67c4be6c551f941][Trace] Left 1 Success 0 Error 0 Total 1 Dowload 0 Extract 0 Pipeline 0
+[20181127 16:19:54][815cb9b85d384a3cb67c4be6c551f941][Info] Crawl: https://zz.lianjia.com/ershoufang/pg1/ success.
+[20181127 16:19:54][815cb9b85d384a3cb67c4be6c551f941][Trace] Left 0 Success 1 Error 0 Total 1 Dowload 377 Extract 89 Pipeline 2
+[20181127 16:42:48][418f56e180d8427ca8e2c1efaf408c8d][Info] Build internal component...
+[20181127 16:42:48][418f56e180d8427ca8e2c1efaf408c8d][Info] Add start urls to scheduler, count 1.
+[20181127 16:42:48][418f56e180d8427ca8e2c1efaf408c8d][Trace] Left 1 Success 0 Error 0 Total 1 Dowload 0 Extract 0 Pipeline 0
+[20181127 16:42:49][418f56e180d8427ca8e2c1efaf408c8d][Info] Crawl: https://zz.lianjia.com/ershoufang/pg1/ success.
+[20181127 16:42:49][418f56e180d8427ca8e2c1efaf408c8d][Trace] Left 0 Success 1 Error 0 Total 1 Dowload 346 Extract 102 Pipeline 2
+[20181127 16:43:37][1c08befc1f224be5b952d6127104c327][Info] Build internal component...
+[20181127 16:43:37][1c08befc1f224be5b952d6127104c327][Info] Add start urls to scheduler, count 1.
+[20181127 16:43:37][1c08befc1f224be5b952d6127104c327][Trace] Left 1 Success 0 Error 0 Total 1 Dowload 0 Extract 0 Pipeline 0
+[20181127 16:43:37][1c08befc1f224be5b952d6127104c327][Info] Crawl: https://zz.lianjia.com/ershoufang/pg1/ success.
+[20181127 16:43:38][1c08befc1f224be5b952d6127104c327][Trace] Left 0 Success 1 Error 0 Total 1 Dowload 283 Extract 88 Pipeline 2
+[20181127 16:43:52][cae34c6398c64b52b5a8b919f2b2a100][Info] Build internal component...
+[20181127 16:43:52][cae34c6398c64b52b5a8b919f2b2a100][Info] Add start urls to scheduler, count 1.
+[20181127 16:43:52][cae34c6398c64b52b5a8b919f2b2a100][Trace] Left 1 Success 0 Error 0 Total 1 Dowload 0 Extract 0 Pipeline 0
+[20181127 16:43:53][cae34c6398c64b52b5a8b919f2b2a100][Info] Crawl: https://zz.lianjia.com/ershoufang/pg1/ success.
+[20181127 16:43:53][cae34c6398c64b52b5a8b919f2b2a100][Trace] Left 0 Success 1 Error 0 Total 1 Dowload 338 Extract 92 Pipeline 2
+[20181127 16:45:06][e175bdcbdaa44548b18205ff8842d86d][Info] Build internal component...
+[20181127 16:45:06][e175bdcbdaa44548b18205ff8842d86d][Info] Add start urls to scheduler, count 1.
+[20181127 16:45:06][e175bdcbdaa44548b18205ff8842d86d][Trace] Left 1 Success 0 Error 0 Total 1 Dowload 0 Extract 0 Pipeline 0
+[20181127 16:45:07][e175bdcbdaa44548b18205ff8842d86d][Info] Crawl: https://zz.lianjia.com/ershoufang/pg1/ success.
+[20181127 16:45:07][e175bdcbdaa44548b18205ff8842d86d][Trace] Left 0 Success 1 Error 0 Total 1 Dowload 373 Extract 88 Pipeline 2
+[20181127 16:45:39][d054b9bf4fd842158919e5d733772e32][Info] Build internal component...
+[20181127 16:45:39][d054b9bf4fd842158919e5d733772e32][Info] Add start urls to scheduler, count 1.
+[20181127 16:45:39][d054b9bf4fd842158919e5d733772e32][Trace] Left 1 Success 0 Error 0 Total 1 Dowload 0 Extract 0 Pipeline 0
+[20181127 16:45:40][d054b9bf4fd842158919e5d733772e32][Info] Crawl: https://zz.lianjia.com/ershoufang/pg1/ success.
+[20181127 16:45:40][d054b9bf4fd842158919e5d733772e32][Trace] Left 0 Success 1 Error 0 Total 1 Dowload 261 Extract 87 Pipeline 2
+[20181127 16:45:48][ed0d363dd2994f7987fccc8a61808413][Info] Build internal component...
+[20181127 16:45:48][ed0d363dd2994f7987fccc8a61808413][Info] Add start urls to scheduler, count 1.
+[20181127 16:45:48][ed0d363dd2994f7987fccc8a61808413][Trace] Left 1 Success 0 Error 0 Total 1 Dowload 0 Extract 0 Pipeline 0
+[20181127 16:45:49][ed0d363dd2994f7987fccc8a61808413][Info] Crawl: https://zz.lianjia.com/ershoufang/pg1/ success.
+[20181127 16:45:49][ed0d363dd2994f7987fccc8a61808413][Trace] Left 0 Success 1 Error 0 Total 1 Dowload 280 Extract 97 Pipeline 3
+[20181127 16:46:03][ed0d363dd2994f7987fccc8a61808413][Trace] Left 0 Success 1 Error 0 Total 1 Dowload 280 Extract 97 Pipeline 3
+[20181127 16:46:03][ed0d363dd2994f7987fccc8a61808413][Info] Crawl complete, cost: 15.1608671 seconds.
+[20181127 16:47:25][5fbe0dbdba29456fbcecbdd8c121e2bb][Info] Build internal component...
+[20181127 16:47:25][5fbe0dbdba29456fbcecbdd8c121e2bb][Info] Add start urls to scheduler, count 1.
+[20181127 16:47:25][5fbe0dbdba29456fbcecbdd8c121e2bb][Trace] Left 1 Success 0 Error 0 Total 1 Dowload 0 Extract 0 Pipeline 0
+[20181127 16:47:26][5fbe0dbdba29456fbcecbdd8c121e2bb][Info] Crawl: https://zz.lianjia.com/ershoufang/pg1/ success.
+[20181127 16:47:26][5fbe0dbdba29456fbcecbdd8c121e2bb][Trace] Left 0 Success 1 Error 0 Total 1 Dowload 310 Extract 91 Pipeline 2
+[20181127 17:00:28][1c2479af15124eaeab8bcb55d4f731e6][Info] Build internal component...
+[20181127 17:00:28][1c2479af15124eaeab8bcb55d4f731e6][Info] Add start urls to scheduler, count 1.
+[20181127 17:00:28][1c2479af15124eaeab8bcb55d4f731e6][Trace] Left 1 Success 0 Error 0 Total 1 Dowload 0 Extract 0 Pipeline 0
+[20181127 17:01:37][647cd53c43b74c77b6dc70d52e218bde][Info] Build internal component...
+[20181127 17:01:37][647cd53c43b74c77b6dc70d52e218bde][Info] Add start urls to scheduler, count 1.
+[20181127 17:01:37][647cd53c43b74c77b6dc70d52e218bde][Trace] Left 1 Success 0 Error 0 Total 1 Dowload 0 Extract 0 Pipeline 0
+[20181127 17:01:49][28b273fb50ac4b49a85a65bddc098d8e][Info] Build internal component...
+[20181127 17:01:49][28b273fb50ac4b49a85a65bddc098d8e][Info] Add start urls to scheduler, count 1.
+[20181127 17:01:49][28b273fb50ac4b49a85a65bddc098d8e][Trace] Left 1 Success 0 Error 0 Total 1 Dowload 0 Extract 0 Pipeline 0
+[20181127 17:01:54][28b273fb50ac4b49a85a65bddc098d8e][Info] Crawl: https://zz.lianjia.com/ershoufang/pg1/ success.
+[20181127 17:01:54][28b273fb50ac4b49a85a65bddc098d8e][Trace] Left 0 Success 1 Error 0 Total 1 Dowload 341 Extract 2287 Pipeline 3
+[20181127 17:02:04][28b273fb50ac4b49a85a65bddc098d8e][Trace] Left 0 Success 1 Error 0 Total 1 Dowload 341 Extract 2287 Pipeline 3
+[20181127 17:02:04][28b273fb50ac4b49a85a65bddc098d8e][Info] Crawl complete, cost: 15.5538896 seconds.
+[20181127 17:02:50][b40ed00106424c209d093d99f61a1390][Info] Build internal component...
+[20181127 17:02:50][b40ed00106424c209d093d99f61a1390][Info] Add start urls to scheduler, count 1.
+[20181127 17:02:50][b40ed00106424c209d093d99f61a1390][Trace] Left 1 Success 0 Error 0 Total 1 Dowload 0 Extract 0 Pipeline 0
+[20181127 17:02:52][b40ed00106424c209d093d99f61a1390][Info] Crawl: https://zz.lianjia.com/ershoufang/pg1/ success.
+[20181127 17:02:52][b40ed00106424c209d093d99f61a1390][Trace] Left 0 Success 1 Error 0 Total 1 Dowload 380 Extract 447 Pipeline 2
+[20181127 17:03:06][b40ed00106424c209d093d99f61a1390][Trace] Left 0 Success 1 Error 0 Total 1 Dowload 380 Extract 447 Pipeline 2
+[20181127 17:03:06][b40ed00106424c209d093d99f61a1390][Info] Crawl complete, cost: 15.3258766 seconds.
+[20181127 17:33:08][0484451399234deebd808708fbe68cf3][Info] Build internal component...
+[20181127 17:33:08][0484451399234deebd808708fbe68cf3][Info] Add start urls to scheduler, count 1.
+[20181127 17:33:08][0484451399234deebd808708fbe68cf3][Trace] Left 1 Success 0 Error 0 Total 1 Dowload 0 Extract 0 Pipeline 0
+[20181127 17:34:01][92dd2124362d45aba00e84d4b7fc7f99][Info] Build internal component...
+[20181127 17:34:01][92dd2124362d45aba00e84d4b7fc7f99][Info] Add start urls to scheduler, count 1.
+[20181127 17:34:01][92dd2124362d45aba00e84d4b7fc7f99][Trace] Left 1 Success 0 Error 0 Total 1 Dowload 0 Extract 0 Pipeline 0
+[20181127 17:34:51][8ac9339f7a7a44b9ac28feef8334f697][Info] Build internal component...
+[20181127 17:34:51][8ac9339f7a7a44b9ac28feef8334f697][Info] Add start urls to scheduler, count 1.
+[20181127 17:34:51][8ac9339f7a7a44b9ac28feef8334f697][Trace] Left 1 Success 0 Error 0 Total 1 Dowload 0 Extract 0 Pipeline 0
+[20181127 17:34:53][System][Error] Execute pipeline failed [1]: System.Data.SqlClient.SqlException (0x80131904): 将截断字符串或二进制数据。
+语句已终止。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteScalar()
+   在 Dos.ORM.Database.DoExecuteScalar(DbCommand command)
+   在 Dos.ORM.Database.ExecuteScalar(DbCommand command, DbTransaction transaction)
+   在 Dos.ORM.DbSession.ExecuteScalar(DbCommand cmd, DbTransaction tran)
+   在 Dos.ORM.DbSession.insertExecute[TEntity](DbCommand cmd, DbTransaction tran)
+   在 Dos.ORM.DbSession.Insert[TEntity](DbTransaction tran, TEntity[] entities)
+   在 Dos.ORM.DbSession.Insert[TEntity](TEntity[] entities)
+   在 Dos.ORM.DbSession.Insert[TEntity](IEnumerable`1 entities)
+   在 LearnElasticsearch.DataBase.DAL.Repository`1.Insert(IEnumerable`1 entities) 位置 d:\code\elasticsearch\LearnElasticsearch\LearnElasticsearch\DataModel\DAL\Repository.cs:行号 230
+   在 LearnElasticsearch.Program.AutoHomePipe.Process(IEnumerable`1 resultItems, ISpider spider) 位置 d:\code\elasticsearch\LearnElasticsearch\LearnElasticsearch\Program.cs:行号 47
+   在 DotnetSpider.Core.Spider.<>c__DisplayClass162_1.<HandleRequest>b__0()
+   在 Polly.Policy.<>c__DisplayClass109_0.<Execute>b__0(Context ctx, CancellationToken ct) 位置 C:\projects\polly\src\Polly.Shared\Policy.cs:行号 41
+   在 Polly.RetrySyntax.<>c__DisplayClass5_1.<Retry>b__1(Context ctx, CancellationToken ct) 位置 C:\projects\polly\src\Polly.Shared\Retry\RetrySyntax.cs:行号 98
+   在 Polly.Retry.RetryEngine.Implementation[TResult](Func`3 action, Context context, CancellationToken cancellationToken, IEnumerable`1 shouldRetryExceptionPredicates, IEnumerable`1 shouldRetryResultPredicates, Func`1 policyStateFactory) 位置 C:\projects\polly\src\Polly.Shared\Retry\RetryEngine.cs:行号 31
+ClientConnectionId:23c71fcb-58e0-4af2-b1c9-8389c5c1d578
+Error Number:8152,State:2,Class:16
+[20181127 17:34:53][System][Error] Execute pipeline failed [2]: System.Data.SqlClient.SqlException (0x80131904): 将截断字符串或二进制数据。
+语句已终止。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteScalar()
+   在 Dos.ORM.Database.DoExecuteScalar(DbCommand command)
+   在 Dos.ORM.Database.ExecuteScalar(DbCommand command, DbTransaction transaction)
+   在 Dos.ORM.DbSession.ExecuteScalar(DbCommand cmd, DbTransaction tran)
+   在 Dos.ORM.DbSession.insertExecute[TEntity](DbCommand cmd, DbTransaction tran)
+   在 Dos.ORM.DbSession.Insert[TEntity](DbTransaction tran, TEntity[] entities)
+   在 Dos.ORM.DbSession.Insert[TEntity](TEntity[] entities)
+   在 Dos.ORM.DbSession.Insert[TEntity](IEnumerable`1 entities)
+   在 LearnElasticsearch.DataBase.DAL.Repository`1.Insert(IEnumerable`1 entities) 位置 d:\code\elasticsearch\LearnElasticsearch\LearnElasticsearch\DataModel\DAL\Repository.cs:行号 230
+   在 LearnElasticsearch.Program.AutoHomePipe.Process(IEnumerable`1 resultItems, ISpider spider) 位置 d:\code\elasticsearch\LearnElasticsearch\LearnElasticsearch\Program.cs:行号 47
+   在 DotnetSpider.Core.Spider.<>c__DisplayClass162_1.<HandleRequest>b__0()
+   在 Polly.Policy.<>c__DisplayClass109_0.<Execute>b__0(Context ctx, CancellationToken ct) 位置 C:\projects\polly\src\Polly.Shared\Policy.cs:行号 41
+   在 Polly.RetrySyntax.<>c__DisplayClass5_1.<Retry>b__1(Context ctx, CancellationToken ct) 位置 C:\projects\polly\src\Polly.Shared\Retry\RetrySyntax.cs:行号 98
+   在 Polly.Retry.RetryEngine.Implementation[TResult](Func`3 action, Context context, CancellationToken cancellationToken, IEnumerable`1 shouldRetryExceptionPredicates, IEnumerable`1 shouldRetryResultPredicates, Func`1 policyStateFactory) 位置 C:\projects\polly\src\Polly.Shared\Retry\RetryEngine.cs:行号 31
+ClientConnectionId:23c71fcb-58e0-4af2-b1c9-8389c5c1d578
+Error Number:8152,State:2,Class:16
+[20181127 17:36:11][e3f87fffaff84ea0bbeeb4db6a456dc8][Info] Build internal component...
+[20181127 17:36:11][e3f87fffaff84ea0bbeeb4db6a456dc8][Info] Add start urls to scheduler, count 1.
+[20181127 17:36:11][e3f87fffaff84ea0bbeeb4db6a456dc8][Trace] Left 1 Success 0 Error 0 Total 1 Dowload 0 Extract 0 Pipeline 0
+[20181127 17:36:13][System][Error] Execute pipeline failed [1]: System.Data.SqlClient.SqlException (0x80131904): 将截断字符串或二进制数据。
+语句已终止。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteScalar()
+   在 Dos.ORM.Database.DoExecuteScalar(DbCommand command)
+   在 Dos.ORM.Database.ExecuteScalar(DbCommand command, DbTransaction transaction)
+   在 Dos.ORM.DbSession.ExecuteScalar(DbCommand cmd, DbTransaction tran)
+   在 Dos.ORM.DbSession.insertExecute[TEntity](DbCommand cmd, DbTransaction tran)
+   在 Dos.ORM.DbSession.Insert[TEntity](DbTransaction tran, TEntity[] entities)
+   在 Dos.ORM.DbSession.Insert[TEntity](TEntity[] entities)
+   在 Dos.ORM.DbSession.Insert[TEntity](IEnumerable`1 entities)
+   在 LearnElasticsearch.DataBase.DAL.Repository`1.Insert(IEnumerable`1 entities) 位置 d:\code\elasticsearch\LearnElasticsearch\LearnElasticsearch\DataModel\DAL\Repository.cs:行号 230
+   在 LearnElasticsearch.Program.AutoHomePipe.Process(IEnumerable`1 resultItems, ISpider spider) 位置 d:\code\elasticsearch\LearnElasticsearch\LearnElasticsearch\Program.cs:行号 47
+   在 DotnetSpider.Core.Spider.<>c__DisplayClass162_1.<HandleRequest>b__0()
+   在 Polly.Policy.<>c__DisplayClass109_0.<Execute>b__0(Context ctx, CancellationToken ct) 位置 C:\projects\polly\src\Polly.Shared\Policy.cs:行号 41
+   在 Polly.RetrySyntax.<>c__DisplayClass5_1.<Retry>b__1(Context ctx, CancellationToken ct) 位置 C:\projects\polly\src\Polly.Shared\Retry\RetrySyntax.cs:行号 98
+   在 Polly.Retry.RetryEngine.Implementation[TResult](Func`3 action, Context context, CancellationToken cancellationToken, IEnumerable`1 shouldRetryExceptionPredicates, IEnumerable`1 shouldRetryResultPredicates, Func`1 policyStateFactory) 位置 C:\projects\polly\src\Polly.Shared\Retry\RetryEngine.cs:行号 31
+ClientConnectionId:218cf4e0-fd8d-4088-8889-cf4c0842c0b0
+Error Number:8152,State:2,Class:16
+[20181127 17:36:13][System][Error] Execute pipeline failed [2]: System.Data.SqlClient.SqlException (0x80131904): 将截断字符串或二进制数据。
+语句已终止。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteScalar()
+   在 Dos.ORM.Database.DoExecuteScalar(DbCommand command)
+   在 Dos.ORM.Database.ExecuteScalar(DbCommand command, DbTransaction transaction)
+   在 Dos.ORM.DbSession.ExecuteScalar(DbCommand cmd, DbTransaction tran)
+   在 Dos.ORM.DbSession.insertExecute[TEntity](DbCommand cmd, DbTransaction tran)
+   在 Dos.ORM.DbSession.Insert[TEntity](DbTransaction tran, TEntity[] entities)
+   在 Dos.ORM.DbSession.Insert[TEntity](TEntity[] entities)
+   在 Dos.ORM.DbSession.Insert[TEntity](IEnumerable`1 entities)
+   在 LearnElasticsearch.DataBase.DAL.Repository`1.Insert(IEnumerable`1 entities) 位置 d:\code\elasticsearch\LearnElasticsearch\LearnElasticsearch\DataModel\DAL\Repository.cs:行号 230
+   在 LearnElasticsearch.Program.AutoHomePipe.Process(IEnumerable`1 resultItems, ISpider spider) 位置 d:\code\elasticsearch\LearnElasticsearch\LearnElasticsearch\Program.cs:行号 47
+   在 DotnetSpider.Core.Spider.<>c__DisplayClass162_1.<HandleRequest>b__0()
+   在 Polly.Policy.<>c__DisplayClass109_0.<Execute>b__0(Context ctx, CancellationToken ct) 位置 C:\projects\polly\src\Polly.Shared\Policy.cs:行号 41
+   在 Polly.RetrySyntax.<>c__DisplayClass5_1.<Retry>b__1(Context ctx, CancellationToken ct) 位置 C:\projects\polly\src\Polly.Shared\Retry\RetrySyntax.cs:行号 98
+   在 Polly.Retry.RetryEngine.Implementation[TResult](Func`3 action, Context context, CancellationToken cancellationToken, IEnumerable`1 shouldRetryExceptionPredicates, IEnumerable`1 shouldRetryResultPredicates, Func`1 policyStateFactory) 位置 C:\projects\polly\src\Polly.Shared\Retry\RetryEngine.cs:行号 31
+ClientConnectionId:218cf4e0-fd8d-4088-8889-cf4c0842c0b0
+Error Number:8152,State:2,Class:16
+[20181127 17:37:38][da525c9642c6406bb3af2c583a23d8bc][Info] Build internal component...
+[20181127 17:37:38][da525c9642c6406bb3af2c583a23d8bc][Info] Add start urls to scheduler, count 1.
+[20181127 17:37:38][da525c9642c6406bb3af2c583a23d8bc][Trace] Left 1 Success 0 Error 0 Total 1 Dowload 0 Extract 0 Pipeline 0
+[20181127 17:37:39][da525c9642c6406bb3af2c583a23d8bc][Info] Crawl: https://zz.lianjia.com/ershoufang/pg1/ success.
+[20181127 17:37:40][da525c9642c6406bb3af2c583a23d8bc][Trace] Left 0 Success 1 Error 0 Total 1 Dowload 334 Extract 91 Pipeline 459
+[20181127 17:38:07][94a283c002b241d9ade8cd0aba450ecd][Info] Build internal component...
+[20181127 17:38:07][94a283c002b241d9ade8cd0aba450ecd][Info] Add start urls to scheduler, count 1.
+[20181127 17:38:07][94a283c002b241d9ade8cd0aba450ecd][Trace] Left 1 Success 0 Error 0 Total 1 Dowload 0 Extract 0 Pipeline 0
+[20181127 17:38:08][94a283c002b241d9ade8cd0aba450ecd][Info] Crawl: https://zz.lianjia.com/ershoufang/pg1/ success.
+[20181127 17:38:08][94a283c002b241d9ade8cd0aba450ecd][Trace] Left 0 Success 1 Error 0 Total 1 Dowload 343 Extract 84 Pipeline 340
+[20181127 17:38:22][94a283c002b241d9ade8cd0aba450ecd][Trace] Left 0 Success 1 Error 0 Total 1 Dowload 343 Extract 84 Pipeline 340
+[20181127 17:38:22][94a283c002b241d9ade8cd0aba450ecd][Info] Crawl complete, cost: 15.367879 seconds.
+[20181127 17:54:26][9a7fccab47734e1681f4d85258b89059][Info] Build internal component...
+[20181127 17:54:26][9a7fccab47734e1681f4d85258b89059][Info] Add start urls to scheduler, count 1.
+[20181127 17:54:26][9a7fccab47734e1681f4d85258b89059][Trace] Left 1 Success 0 Error 0 Total 1 Dowload 0 Extract 0 Pipeline 0
+[20181127 17:54:28][9a7fccab47734e1681f4d85258b89059][Info] Crawl: https://zz.lianjia.com/ershoufang/pg1/ success.
+[20181127 17:54:28][9a7fccab47734e1681f4d85258b89059][Trace] Left 0 Success 1 Error 0 Total 1 Dowload 330 Extract 97 Pipeline 408
+[20181127 17:55:56][09f7a1d8b64240bcb7cd307f66ea00d8][Info] Build internal component...
+[20181127 17:55:56][09f7a1d8b64240bcb7cd307f66ea00d8][Info] Add start urls to scheduler, count 1.
+[20181127 17:55:56][09f7a1d8b64240bcb7cd307f66ea00d8][Trace] Left 1 Success 0 Error 0 Total 1 Dowload 0 Extract 0 Pipeline 0
+[20181127 17:55:58][09f7a1d8b64240bcb7cd307f66ea00d8][Info] Crawl: https://zz.lianjia.com/ershoufang/pg1/ success.
+[20181127 17:55:58][09f7a1d8b64240bcb7cd307f66ea00d8][Trace] Left 0 Success 1 Error 0 Total 1 Dowload 345 Extract 99 Pipeline 340
+[20181127 17:57:22][b9f292fed66849f98b9aa5ae5768cdda][Info] Build internal component...
+[20181127 17:57:22][b9f292fed66849f98b9aa5ae5768cdda][Info] Add start urls to scheduler, count 1.
+[20181127 17:57:22][b9f292fed66849f98b9aa5ae5768cdda][Trace] Left 1 Success 0 Error 0 Total 1 Dowload 0 Extract 0 Pipeline 0
+[20181127 17:57:23][b9f292fed66849f98b9aa5ae5768cdda][Info] Crawl: https://zz.lianjia.com/ershoufang/pg1/ success.
+[20181127 17:57:24][b9f292fed66849f98b9aa5ae5768cdda][Trace] Left 0 Success 1 Error 0 Total 1 Dowload 314 Extract 95 Pipeline 340
+[20181127 17:57:38][de11da5418104249ac03f0226421e91c][Info] Build internal component...
+[20181127 17:57:38][de11da5418104249ac03f0226421e91c][Info] Add start urls to scheduler, count 1.
+[20181127 17:57:38][de11da5418104249ac03f0226421e91c][Trace] Left 1 Success 0 Error 0 Total 1 Dowload 0 Extract 0 Pipeline 0
+[20181127 17:57:40][de11da5418104249ac03f0226421e91c][Info] Crawl: https://zz.lianjia.com/ershoufang/pg1/ success.
+[20181127 17:57:40][de11da5418104249ac03f0226421e91c][Trace] Left 0 Success 1 Error 0 Total 1 Dowload 405 Extract 97 Pipeline 340
+[20181127 17:58:07][6d54645729684115beb0545e0ff3ade4][Info] Build internal component...
+[20181127 17:58:07][6d54645729684115beb0545e0ff3ade4][Info] Add start urls to scheduler, count 1.
+[20181127 17:58:07][6d54645729684115beb0545e0ff3ade4][Trace] Left 1 Success 0 Error 0 Total 1 Dowload 0 Extract 0 Pipeline 0
+[20181127 17:58:08][6d54645729684115beb0545e0ff3ade4][Info] Crawl: https://zz.lianjia.com/ershoufang/pg1/ success.
+[20181127 17:58:08][6d54645729684115beb0545e0ff3ade4][Trace] Left 0 Success 1 Error 0 Total 1 Dowload 294 Extract 91 Pipeline 281
+[20181127 17:58:19][ed0f06d3dced4739a1e7c90fb2f340b2][Info] Build internal component...
+[20181127 17:58:19][ed0f06d3dced4739a1e7c90fb2f340b2][Info] Add start urls to scheduler, count 1.
+[20181127 17:58:19][ed0f06d3dced4739a1e7c90fb2f340b2][Trace] Left 1 Success 0 Error 0 Total 1 Dowload 0 Extract 0 Pipeline 0
+[20181127 17:58:21][ed0f06d3dced4739a1e7c90fb2f340b2][Info] Crawl: https://zz.lianjia.com/ershoufang/pg1/ success.
+[20181127 17:58:21][ed0f06d3dced4739a1e7c90fb2f340b2][Trace] Left 0 Success 1 Error 0 Total 1 Dowload 276 Extract 93 Pipeline 342
+[20181127 17:58:43][2985f1625c6744ff96246c81a28284fd][Info] Build internal component...
+[20181127 17:58:43][2985f1625c6744ff96246c81a28284fd][Info] Add start urls to scheduler, count 1.
+[20181127 17:58:43][2985f1625c6744ff96246c81a28284fd][Trace] Left 1 Success 0 Error 0 Total 1 Dowload 0 Extract 0 Pipeline 0
+[20181127 17:58:45][2985f1625c6744ff96246c81a28284fd][Info] Crawl: https://zz.lianjia.com/ershoufang/pg1/ success.
+[20181127 17:58:45][2985f1625c6744ff96246c81a28284fd][Trace] Left 0 Success 1 Error 0 Total 1 Dowload 311 Extract 229 Pipeline 340
+[20181127 17:59:02][1028870549444bbfa7635088b38dafe4][Info] Build internal component...
+[20181127 17:59:02][1028870549444bbfa7635088b38dafe4][Info] Add start urls to scheduler, count 1.
+[20181127 17:59:02][1028870549444bbfa7635088b38dafe4][Trace] Left 1 Success 0 Error 0 Total 1 Dowload 0 Extract 0 Pipeline 0
+[20181127 17:59:04][1028870549444bbfa7635088b38dafe4][Info] Crawl: https://zz.lianjia.com/ershoufang/pg1/ success.
+[20181127 17:59:04][1028870549444bbfa7635088b38dafe4][Trace] Left 0 Success 1 Error 0 Total 1 Dowload 267 Extract 178 Pipeline 363
+[20181127 17:59:42][86fbd66da0c84013b9f24f9518c4a6b0][Info] Build internal component...
+[20181127 17:59:42][86fbd66da0c84013b9f24f9518c4a6b0][Info] Add start urls to scheduler, count 1.
+[20181127 17:59:42][86fbd66da0c84013b9f24f9518c4a6b0][Trace] Left 1 Success 0 Error 0 Total 1 Dowload 0 Extract 0 Pipeline 0
+[20181127 17:59:43][86fbd66da0c84013b9f24f9518c4a6b0][Info] Crawl: https://zz.lianjia.com/ershoufang/pg1/ success.
+[20181127 17:59:43][86fbd66da0c84013b9f24f9518c4a6b0][Trace] Left 0 Success 1 Error 0 Total 1 Dowload 372 Extract 94 Pipeline 3
+[20181127 18:00:11][a1b248a493924815bf34f224c0298abe][Info] Build internal component...
+[20181127 18:00:12][a1b248a493924815bf34f224c0298abe][Info] Add start urls to scheduler, count 1.
+[20181127 18:00:12][a1b248a493924815bf34f224c0298abe][Trace] Left 1 Success 0 Error 0 Total 1 Dowload 0 Extract 0 Pipeline 0
+[20181127 18:00:12][a1b248a493924815bf34f224c0298abe][Info] Crawl: https://zz.lianjia.com/ershoufang/pg1/ success.
+[20181127 18:00:13][a1b248a493924815bf34f224c0298abe][Trace] Left 0 Success 1 Error 0 Total 1 Dowload 356 Extract 103 Pipeline 3
+[20181127 18:00:31][d3b3c0116f5f4b578963fef019b4268a][Info] Build internal component...
+[20181127 18:00:31][d3b3c0116f5f4b578963fef019b4268a][Info] Add start urls to scheduler, count 1.
+[20181127 18:00:31][d3b3c0116f5f4b578963fef019b4268a][Trace] Left 1 Success 0 Error 0 Total 1 Dowload 0 Extract 0 Pipeline 0
+[20181127 18:00:32][d3b3c0116f5f4b578963fef019b4268a][Info] Crawl: https://zz.lianjia.com/ershoufang/pg1/ success.
+[20181127 18:00:32][d3b3c0116f5f4b578963fef019b4268a][Trace] Left 0 Success 1 Error 0 Total 1 Dowload 306 Extract 103 Pipeline 3
+[20181127 18:01:24][68aebec15c1f466eb5a3765cd485338b][Info] Build internal component...
+[20181127 18:01:24][68aebec15c1f466eb5a3765cd485338b][Info] Add start urls to scheduler, count 1.
+[20181127 18:01:24][68aebec15c1f466eb5a3765cd485338b][Trace] Left 1 Success 0 Error 0 Total 1 Dowload 0 Extract 0 Pipeline 0
+[20181127 18:01:25][68aebec15c1f466eb5a3765cd485338b][Info] Crawl: https://zz.lianjia.com/ershoufang/pg1/ success.
+[20181127 18:01:26][68aebec15c1f466eb5a3765cd485338b][Trace] Left 0 Success 1 Error 0 Total 1 Dowload 419 Extract 226 Pipeline 3
+[20181127 18:01:39][68aebec15c1f466eb5a3765cd485338b][Trace] Left 0 Success 1 Error 0 Total 1 Dowload 419 Extract 226 Pipeline 3
+[20181127 18:01:39][68aebec15c1f466eb5a3765cd485338b][Info] Crawl complete, cost: 15.0958635 seconds.
+[20181127 18:04:23][775b2c8813824456a1b41247afa08060][Info] Build internal component...
+[20181127 18:04:23][775b2c8813824456a1b41247afa08060][Info] Add start urls to scheduler, count 1.
+[20181127 18:04:23][775b2c8813824456a1b41247afa08060][Trace] Left 1 Success 0 Error 0 Total 1 Dowload 0 Extract 0 Pipeline 0
+[20181127 18:04:24][775b2c8813824456a1b41247afa08060][Info] Crawl: https://zz.lianjia.com/ershoufang/pg1/ success.
+[20181127 18:04:24][775b2c8813824456a1b41247afa08060][Trace] Left 0 Success 1 Error 0 Total 1 Dowload 385 Extract 101 Pipeline 3
+[20181127 18:04:40][54d8b7c0c92b4d46a2c5157a07d1a15f][Info] Build internal component...
+[20181127 18:04:40][54d8b7c0c92b4d46a2c5157a07d1a15f][Info] Add start urls to scheduler, count 1.
+[20181127 18:04:40][54d8b7c0c92b4d46a2c5157a07d1a15f][Trace] Left 1 Success 0 Error 0 Total 1 Dowload 0 Extract 0 Pipeline 0
+[20181127 18:04:41][54d8b7c0c92b4d46a2c5157a07d1a15f][Info] Crawl: https://zz.lianjia.com/ershoufang/pg1/ success.
+[20181127 18:04:41][54d8b7c0c92b4d46a2c5157a07d1a15f][Trace] Left 0 Success 1 Error 0 Total 1 Dowload 273 Extract 99 Pipeline 2
+[20181127 18:05:08][2d78646ab18347439f54c0d86fa85b03][Info] Build internal component...
+[20181127 18:05:08][2d78646ab18347439f54c0d86fa85b03][Info] Add start urls to scheduler, count 1.
+[20181127 18:05:08][2d78646ab18347439f54c0d86fa85b03][Trace] Left 1 Success 0 Error 0 Total 1 Dowload 0 Extract 0 Pipeline 0
+[20181127 18:05:09][2d78646ab18347439f54c0d86fa85b03][Info] Crawl: https://zz.lianjia.com/ershoufang/pg1/ success.
+[20181127 18:05:09][2d78646ab18347439f54c0d86fa85b03][Trace] Left 0 Success 1 Error 0 Total 1 Dowload 288 Extract 102 Pipeline 3
+[20181127 18:05:23][2d78646ab18347439f54c0d86fa85b03][Trace] Left 0 Success 1 Error 0 Total 1 Dowload 288 Extract 102 Pipeline 3
+[20181127 18:05:23][2d78646ab18347439f54c0d86fa85b03][Info] Crawl complete, cost: 15.1158646 seconds.
+[20181127 18:08:53][68339ea3389f4d189c71b424e481e228][Info] Build internal component...
+[20181127 18:08:53][68339ea3389f4d189c71b424e481e228][Info] Add start urls to scheduler, count 100.
+[20181127 18:08:53][68339ea3389f4d189c71b424e481e228][Trace] Left 100 Success 0 Error 0 Total 100 Dowload 0 Extract 0 Pipeline 0
+[20181127 18:09:00][68339ea3389f4d189c71b424e481e228][Info] Crawl: https://zz.lianjia.com/ershoufang/pg87/ success.
+[20181127 18:09:00][68339ea3389f4d189c71b424e481e228][Info] Crawl: https://zz.lianjia.com/ershoufang/pg86/ success.
+[20181127 18:09:01][68339ea3389f4d189c71b424e481e228][Info] Crawl: https://zz.lianjia.com/ershoufang/pg93/ success.
+[20181127 18:09:01][68339ea3389f4d189c71b424e481e228][Info] Crawl: https://zz.lianjia.com/ershoufang/pg90/ success.
+[20181127 18:09:01][68339ea3389f4d189c71b424e481e228][Info] Crawl: https://zz.lianjia.com/ershoufang/pg89/ success.
+[20181127 18:09:01][68339ea3389f4d189c71b424e481e228][Info] Crawl: https://zz.lianjia.com/ershoufang/pg88/ success.
+[20181127 18:09:01][68339ea3389f4d189c71b424e481e228][Info] Crawl: https://zz.lianjia.com/ershoufang/pg94/ success.
+[20181127 18:09:02][68339ea3389f4d189c71b424e481e228][Info] Crawl: https://zz.lianjia.com/ershoufang/pg95/ success.
+[20181127 18:09:02][68339ea3389f4d189c71b424e481e228][Info] Crawl: https://zz.lianjia.com/ershoufang/pg96/ success.
+[20181127 18:09:02][68339ea3389f4d189c71b424e481e228][Info] Crawl: https://zz.lianjia.com/ershoufang/pg91/ success.
+[20181127 18:09:02][68339ea3389f4d189c71b424e481e228][Info] Crawl: https://zz.lianjia.com/ershoufang/pg92/ success.
+[20181127 18:09:02][68339ea3389f4d189c71b424e481e228][Trace] Left 76 Success 11 Error 0 Total 100 Dowload 911 Extract 1173 Pipeline 6159
+[20181127 18:09:02][68339ea3389f4d189c71b424e481e228][Info] Crawl: https://zz.lianjia.com/ershoufang/pg99/ success.
+[20181127 18:09:03][68339ea3389f4d189c71b424e481e228][Info] Crawl: https://zz.lianjia.com/ershoufang/pg97/ success.
+[20181127 18:09:03][68339ea3389f4d189c71b424e481e228][Info] Crawl: https://zz.lianjia.com/ershoufang/pg98/ success.
+[20181127 18:09:04][68339ea3389f4d189c71b424e481e228][Info] Crawl: https://zz.lianjia.com/ershoufang/pg100/ success.
+[20181127 18:09:04][68339ea3389f4d189c71b424e481e228][Info] Crawl: https://zz.lianjia.com/ershoufang/pg85/ success.
+[20181127 18:09:05][68339ea3389f4d189c71b424e481e228][Info] Crawl: https://zz.lianjia.com/ershoufang/pg84/ success.
+[20181127 18:09:07][68339ea3389f4d189c71b424e481e228][Info] Crawl: https://zz.lianjia.com/ershoufang/pg83/ success.
+[20181127 18:09:08][68339ea3389f4d189c71b424e481e228][Info] Crawl: https://zz.lianjia.com/ershoufang/pg81/ success.
+[20181127 18:09:08][68339ea3389f4d189c71b424e481e228][Info] Crawl: https://zz.lianjia.com/ershoufang/pg80/ success.
+[20181127 18:09:44][49ddfa7101de4d8295a403c974b5d18a][Info] Build internal component...
+[20181127 18:09:44][49ddfa7101de4d8295a403c974b5d18a][Info] Add start urls to scheduler, count 100.
+[20181127 18:09:44][49ddfa7101de4d8295a403c974b5d18a][Trace] Left 100 Success 0 Error 0 Total 100 Dowload 0 Extract 0 Pipeline 0
+[20181127 18:09:50][49ddfa7101de4d8295a403c974b5d18a][Info] Crawl: https://zz.lianjia.com/ershoufang/pg87/ success.
+[20181127 18:09:51][49ddfa7101de4d8295a403c974b5d18a][Info] Crawl: https://zz.lianjia.com/ershoufang/pg90/ success.
+[20181127 18:09:51][49ddfa7101de4d8295a403c974b5d18a][Info] Crawl: https://zz.lianjia.com/ershoufang/pg86/ success.
+[20181127 18:09:52][49ddfa7101de4d8295a403c974b5d18a][Info] Crawl: https://zz.lianjia.com/ershoufang/pg92/ success.
+[20181127 18:09:52][49ddfa7101de4d8295a403c974b5d18a][Info] Crawl: https://zz.lianjia.com/ershoufang/pg88/ success.
+[20181127 18:09:52][49ddfa7101de4d8295a403c974b5d18a][Info] Crawl: https://zz.lianjia.com/ershoufang/pg94/ success.
+[20181127 18:09:52][49ddfa7101de4d8295a403c974b5d18a][Info] Crawl: https://zz.lianjia.com/ershoufang/pg99/ success.
+[20181127 18:09:52][49ddfa7101de4d8295a403c974b5d18a][Info] Crawl: https://zz.lianjia.com/ershoufang/pg89/ success.
+[20181127 18:09:52][49ddfa7101de4d8295a403c974b5d18a][Info] Crawl: https://zz.lianjia.com/ershoufang/pg91/ success.
+[20181127 18:09:52][49ddfa7101de4d8295a403c974b5d18a][Info] Crawl: https://zz.lianjia.com/ershoufang/pg98/ success.
+[20181127 18:09:52][49ddfa7101de4d8295a403c974b5d18a][Info] Crawl: https://zz.lianjia.com/ershoufang/pg97/ success.
+[20181127 18:09:52][49ddfa7101de4d8295a403c974b5d18a][Info] Crawl: https://zz.lianjia.com/ershoufang/pg95/ success.
+[20181127 18:09:53][49ddfa7101de4d8295a403c974b5d18a][Trace] Left 76 Success 12 Error 0 Total 100 Dowload 922 Extract 829 Pipeline 6224
+[20181127 18:09:53][49ddfa7101de4d8295a403c974b5d18a][Info] Crawl: https://zz.lianjia.com/ershoufang/pg93/ success.
+[20181127 18:09:54][49ddfa7101de4d8295a403c974b5d18a][Info] Crawl: https://zz.lianjia.com/ershoufang/pg96/ success.
+[20181127 18:09:54][49ddfa7101de4d8295a403c974b5d18a][Info] Crawl: https://zz.lianjia.com/ershoufang/pg100/ success.
+[20181127 18:09:55][49ddfa7101de4d8295a403c974b5d18a][Info] Crawl: https://zz.lianjia.com/ershoufang/pg85/ success.
+[20181127 18:09:56][49ddfa7101de4d8295a403c974b5d18a][Info] Crawl: https://zz.lianjia.com/ershoufang/pg83/ success.
+[20181127 18:09:57][49ddfa7101de4d8295a403c974b5d18a][Info] Crawl: https://zz.lianjia.com/ershoufang/pg84/ success.
+[20181127 18:09:57][49ddfa7101de4d8295a403c974b5d18a][Info] Crawl: https://zz.lianjia.com/ershoufang/pg81/ success.
+[20181127 18:09:58][49ddfa7101de4d8295a403c974b5d18a][Info] Crawl: https://zz.lianjia.com/ershoufang/pg82/ success.
+[20181127 18:09:59][49ddfa7101de4d8295a403c974b5d18a][Info] Crawl: https://zz.lianjia.com/ershoufang/pg77/ success.
+[20181127 18:09:59][49ddfa7101de4d8295a403c974b5d18a][Trace] Left 66 Success 20 Error 0 Total 100 Dowload 877 Extract 2378 Pipeline 3763
+[20181127 18:09:59][49ddfa7101de4d8295a403c974b5d18a][Info] Crawl: https://zz.lianjia.com/ershoufang/pg80/ success.
+[20181127 18:10:00][49ddfa7101de4d8295a403c974b5d18a][Info] Crawl: https://zz.lianjia.com/ershoufang/pg74/ success.
+[20181127 18:10:00][49ddfa7101de4d8295a403c974b5d18a][Info] Crawl: https://zz.lianjia.com/ershoufang/pg78/ success.
+[20181127 18:10:01][49ddfa7101de4d8295a403c974b5d18a][Info] Crawl: https://zz.lianjia.com/ershoufang/pg75/ success.
+[20181127 18:10:01][49ddfa7101de4d8295a403c974b5d18a][Info] Crawl: https://zz.lianjia.com/ershoufang/pg79/ success.
+[20181127 18:10:01][49ddfa7101de4d8295a403c974b5d18a][Info] Crawl: https://zz.lianjia.com/ershoufang/pg76/ success.
+[20181127 18:10:02][49ddfa7101de4d8295a403c974b5d18a][Info] Crawl: https://zz.lianjia.com/ershoufang/pg70/ success.
+[20181127 18:10:03][49ddfa7101de4d8295a403c974b5d18a][Info] Crawl: https://zz.lianjia.com/ershoufang/pg69/ success.
+[20181127 18:10:03][49ddfa7101de4d8295a403c974b5d18a][Info] Crawl: https://zz.lianjia.com/ershoufang/pg67/ success.
+[20181127 18:10:03][49ddfa7101de4d8295a403c974b5d18a][Trace] Left 56 Success 30 Error 0 Total 100 Dowload 1128 Extract 2369 Pipeline 3475
+[20181127 18:10:03][49ddfa7101de4d8295a403c974b5d18a][Info] Crawl: https://zz.lianjia.com/ershoufang/pg73/ success.
+[20181127 18:11:34][1d9dabe9ec1d438ebaa992dd20db6d1d][Info] Build internal component...
+[20181127 18:11:34][1d9dabe9ec1d438ebaa992dd20db6d1d][Info] Add start urls to scheduler, count 100.
+[20181127 18:11:34][1d9dabe9ec1d438ebaa992dd20db6d1d][Trace] Left 100 Success 0 Error 0 Total 100 Dowload 0 Extract 0 Pipeline 0
+[20181127 18:11:40][1d9dabe9ec1d438ebaa992dd20db6d1d][Info] Crawl: https://zz.lianjia.com/ershoufang/pg87/ success.
+[20181127 18:11:40][1d9dabe9ec1d438ebaa992dd20db6d1d][Info] Crawl: https://zz.lianjia.com/ershoufang/pg86/ success.
+[20181127 18:11:40][1d9dabe9ec1d438ebaa992dd20db6d1d][Info] Crawl: https://zz.lianjia.com/ershoufang/pg89/ success.
+[20181127 18:11:40][1d9dabe9ec1d438ebaa992dd20db6d1d][Info] Crawl: https://zz.lianjia.com/ershoufang/pg91/ success.
+[20181127 18:11:40][1d9dabe9ec1d438ebaa992dd20db6d1d][Info] Crawl: https://zz.lianjia.com/ershoufang/pg94/ success.
+[20181127 18:11:41][1d9dabe9ec1d438ebaa992dd20db6d1d][Info] Crawl: https://zz.lianjia.com/ershoufang/pg88/ success.
+[20181127 18:11:41][1d9dabe9ec1d438ebaa992dd20db6d1d][Info] Crawl: https://zz.lianjia.com/ershoufang/pg97/ success.
+[20181127 18:11:41][1d9dabe9ec1d438ebaa992dd20db6d1d][Info] Crawl: https://zz.lianjia.com/ershoufang/pg90/ success.
+[20181127 18:11:41][1d9dabe9ec1d438ebaa992dd20db6d1d][Info] Crawl: https://zz.lianjia.com/ershoufang/pg95/ success.
+[20181127 18:11:41][1d9dabe9ec1d438ebaa992dd20db6d1d][Info] Crawl: https://zz.lianjia.com/ershoufang/pg93/ success.
+[20181127 18:11:41][1d9dabe9ec1d438ebaa992dd20db6d1d][Info] Crawl: https://zz.lianjia.com/ershoufang/pg92/ success.
+[20181127 18:11:42][1d9dabe9ec1d438ebaa992dd20db6d1d][Info] Crawl: https://zz.lianjia.com/ershoufang/pg96/ success.
+[20181127 18:11:42][1d9dabe9ec1d438ebaa992dd20db6d1d][Trace] Left 76 Success 11 Error 0 Total 100 Dowload 733 Extract 1236 Pipeline 5834
+[20181127 18:11:43][1d9dabe9ec1d438ebaa992dd20db6d1d][Info] Crawl: https://zz.lianjia.com/ershoufang/pg99/ success.
+[20181127 18:11:43][1d9dabe9ec1d438ebaa992dd20db6d1d][Info] Crawl: https://zz.lianjia.com/ershoufang/pg100/ success.
+[20181127 18:11:43][1d9dabe9ec1d438ebaa992dd20db6d1d][Info] Crawl: https://zz.lianjia.com/ershoufang/pg98/ success.
+[20181127 18:11:44][1d9dabe9ec1d438ebaa992dd20db6d1d][Info] Crawl: https://zz.lianjia.com/ershoufang/pg84/ success.
+[20181127 18:11:45][1d9dabe9ec1d438ebaa992dd20db6d1d][Info] Crawl: https://zz.lianjia.com/ershoufang/pg85/ success.
+[20181127 18:11:46][1d9dabe9ec1d438ebaa992dd20db6d1d][Info] Crawl: https://zz.lianjia.com/ershoufang/pg83/ success.
+[20181127 18:11:47][1d9dabe9ec1d438ebaa992dd20db6d1d][Info] Crawl: https://zz.lianjia.com/ershoufang/pg82/ success.
+[20181127 18:11:47][1d9dabe9ec1d438ebaa992dd20db6d1d][Info] Crawl: https://zz.lianjia.com/ershoufang/pg80/ success.
+[20181127 18:11:47][1d9dabe9ec1d438ebaa992dd20db6d1d][Info] Crawl: https://zz.lianjia.com/ershoufang/pg76/ success.
+[20181127 18:11:47][1d9dabe9ec1d438ebaa992dd20db6d1d][Trace] Left 66 Success 21 Error 0 Total 100 Dowload 1160 Extract 2230 Pipeline 3420
+[20181127 18:11:47][1d9dabe9ec1d438ebaa992dd20db6d1d][Info] Crawl: https://zz.lianjia.com/ershoufang/pg79/ success.
+[20181127 18:11:48][1d9dabe9ec1d438ebaa992dd20db6d1d][Info] Crawl: https://zz.lianjia.com/ershoufang/pg78/ success.
+[20181127 18:11:48][1d9dabe9ec1d438ebaa992dd20db6d1d][Info] Crawl: https://zz.lianjia.com/ershoufang/pg81/ success.
+[20181127 18:11:49][1d9dabe9ec1d438ebaa992dd20db6d1d][Info] Crawl: https://zz.lianjia.com/ershoufang/pg74/ success.
+[20181127 18:11:49][1d9dabe9ec1d438ebaa992dd20db6d1d][Info] Crawl: https://zz.lianjia.com/ershoufang/pg75/ success.
+[20181127 18:11:50][1d9dabe9ec1d438ebaa992dd20db6d1d][Info] Crawl: https://zz.lianjia.com/ershoufang/pg70/ success.
+[20181127 18:11:51][1d9dabe9ec1d438ebaa992dd20db6d1d][Info] Crawl: https://zz.lianjia.com/ershoufang/pg77/ success.
+[20181127 18:11:51][1d9dabe9ec1d438ebaa992dd20db6d1d][Info] Crawl: https://zz.lianjia.com/ershoufang/pg69/ success.
+[20181127 18:11:52][1d9dabe9ec1d438ebaa992dd20db6d1d][Info] Crawl: https://zz.lianjia.com/ershoufang/pg68/ success.
+[20181127 18:11:53][1d9dabe9ec1d438ebaa992dd20db6d1d][Trace] Left 56 Success 30 Error 0 Total 100 Dowload 1240 Extract 2303 Pipeline 3406
+[20181127 18:11:54][1d9dabe9ec1d438ebaa992dd20db6d1d][Info] Crawl: https://zz.lianjia.com/ershoufang/pg65/ success.
+[20181127 18:11:54][1d9dabe9ec1d438ebaa992dd20db6d1d][Info] Crawl: https://zz.lianjia.com/ershoufang/pg71/ success.
+[20181127 18:11:54][1d9dabe9ec1d438ebaa992dd20db6d1d][Info] Crawl: https://zz.lianjia.com/ershoufang/pg72/ success.
+[20181127 18:11:55][1d9dabe9ec1d438ebaa992dd20db6d1d][Info] Crawl: https://zz.lianjia.com/ershoufang/pg66/ success.
+[20181127 18:11:55][1d9dabe9ec1d438ebaa992dd20db6d1d][Info] Crawl: https://zz.lianjia.com/ershoufang/pg67/ success.
+[20181127 18:11:55][1d9dabe9ec1d438ebaa992dd20db6d1d][Info] Crawl: https://zz.lianjia.com/ershoufang/pg73/ success.
+[20181127 18:11:55][1d9dabe9ec1d438ebaa992dd20db6d1d][Info] Crawl: https://zz.lianjia.com/ershoufang/pg63/ success.
+[20181127 18:11:56][1d9dabe9ec1d438ebaa992dd20db6d1d][Info] Crawl: https://zz.lianjia.com/ershoufang/pg64/ success.
+[20181127 18:11:57][1d9dabe9ec1d438ebaa992dd20db6d1d][Info] Crawl: https://zz.lianjia.com/ershoufang/pg59/ success.
+[20181127 18:11:57][1d9dabe9ec1d438ebaa992dd20db6d1d][Info] Crawl: https://zz.lianjia.com/ershoufang/pg57/ success.
+[20181127 18:11:58][1d9dabe9ec1d438ebaa992dd20db6d1d][Info] Crawl: https://zz.lianjia.com/ershoufang/pg61/ success.
+[20181127 18:11:58][1d9dabe9ec1d438ebaa992dd20db6d1d][Trace] Left 46 Success 41 Error 0 Total 100 Dowload 1352 Extract 1761 Pipeline 3959
+[20181127 18:11:58][1d9dabe9ec1d438ebaa992dd20db6d1d][Info] Crawl: https://zz.lianjia.com/ershoufang/pg60/ success.
+[20181127 18:11:58][1d9dabe9ec1d438ebaa992dd20db6d1d][Info] Crawl: https://zz.lianjia.com/ershoufang/pg56/ success.
+[20181127 18:11:58][1d9dabe9ec1d438ebaa992dd20db6d1d][Info] Crawl: https://zz.lianjia.com/ershoufang/pg62/ success.
+[20181127 18:11:59][1d9dabe9ec1d438ebaa992dd20db6d1d][Info] Crawl: https://zz.lianjia.com/ershoufang/pg58/ success.
+[20181127 18:12:00][1d9dabe9ec1d438ebaa992dd20db6d1d][Info] Crawl: https://zz.lianjia.com/ershoufang/pg55/ success.
+[20181127 18:12:01][1d9dabe9ec1d438ebaa992dd20db6d1d][Info] Crawl: https://zz.lianjia.com/ershoufang/pg51/ success.
+[20181127 18:12:01][1d9dabe9ec1d438ebaa992dd20db6d1d][Info] Crawl: https://zz.lianjia.com/ershoufang/pg52/ success.
+[20181127 18:12:02][1d9dabe9ec1d438ebaa992dd20db6d1d][Info] Crawl: https://zz.lianjia.com/ershoufang/pg48/ success.
+[20181127 18:12:03][1d9dabe9ec1d438ebaa992dd20db6d1d][Info] Crawl: https://zz.lianjia.com/ershoufang/pg54/ success.
+[20181127 18:12:03][1d9dabe9ec1d438ebaa992dd20db6d1d][Info] Crawl: https://zz.lianjia.com/ershoufang/pg49/ success.
+[20181127 18:12:03][1d9dabe9ec1d438ebaa992dd20db6d1d][Trace] Left 36 Success 51 Error 0 Total 100 Dowload 1155 Extract 2825 Pipeline 4157
+[20181127 18:12:03][1d9dabe9ec1d438ebaa992dd20db6d1d][Info] Crawl: https://zz.lianjia.com/ershoufang/pg47/ success.
+[20181127 18:12:04][1d9dabe9ec1d438ebaa992dd20db6d1d][Info] Crawl: https://zz.lianjia.com/ershoufang/pg43/ success.
+[20181127 18:12:05][1d9dabe9ec1d438ebaa992dd20db6d1d][Info] Crawl: https://zz.lianjia.com/ershoufang/pg46/ success.
+[20181127 18:12:05][1d9dabe9ec1d438ebaa992dd20db6d1d][Info] Crawl: https://zz.lianjia.com/ershoufang/pg53/ success.
+[20181127 18:12:06][1d9dabe9ec1d438ebaa992dd20db6d1d][Info] Crawl: https://zz.lianjia.com/ershoufang/pg45/ success.
+[20181127 18:12:06][1d9dabe9ec1d438ebaa992dd20db6d1d][Info] Crawl: https://zz.lianjia.com/ershoufang/pg50/ success.
+[20181127 18:12:06][1d9dabe9ec1d438ebaa992dd20db6d1d][Info] Crawl: https://zz.lianjia.com/ershoufang/pg42/ success.
+[20181127 18:12:07][1d9dabe9ec1d438ebaa992dd20db6d1d][Info] Crawl: https://zz.lianjia.com/ershoufang/pg44/ success.
+[20181127 18:12:08][1d9dabe9ec1d438ebaa992dd20db6d1d][Info] Crawl: https://zz.lianjia.com/ershoufang/pg39/ success.
+[20181127 18:12:08][1d9dabe9ec1d438ebaa992dd20db6d1d][Info] Crawl: https://zz.lianjia.com/ershoufang/pg40/ success.
+                                                                                                                                                                                                                                                                

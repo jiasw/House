@@ -1,0 +1,737 @@
+[20181128 10:32:29][ee5503a454644c609dc3e5caa32cc7d4][Info] Build internal component...
+[20181128 10:32:29][ee5503a454644c609dc3e5caa32cc7d4][Info] Add start urls to scheduler, count 1.
+[20181128 10:32:29][ee5503a454644c609dc3e5caa32cc7d4][Trace] Left 1 Success 0 Error 0 Total 1 Dowload 0 Extract 0 Pipeline 0
+[20181128 10:32:30][System][Error] Execute pipeline failed [1]: System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 LearnElasticsearch.Program.HouseDetailsPipe.Process(IEnumerable`1 resultItems, ISpider spider) 位置 d:\code\elasticsearch\LearnElasticsearch\LearnElasticsearch\Program.cs:行号 156
+   在 DotnetSpider.Core.Spider.<>c__DisplayClass162_1.<HandleRequest>b__0()
+   在 Polly.Policy.<>c__DisplayClass109_0.<Execute>b__0(Context ctx, CancellationToken ct) 位置 C:\projects\polly\src\Polly.Shared\Policy.cs:行号 41
+   在 Polly.RetrySyntax.<>c__DisplayClass5_1.<Retry>b__1(Context ctx, CancellationToken ct) 位置 C:\projects\polly\src\Polly.Shared\Retry\RetrySyntax.cs:行号 98
+   在 Polly.Retry.RetryEngine.Implementation[TResult](Func`3 action, Context context, CancellationToken cancellationToken, IEnumerable`1 shouldRetryExceptionPredicates, IEnumerable`1 shouldRetryResultPredicates, Func`1 policyStateFactory) 位置 C:\projects\polly\src\Polly.Shared\Retry\RetryEngine.cs:行号 31
+[20181128 10:32:30][System][Error] Execute pipeline failed [2]: System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 LearnElasticsearch.Program.HouseDetailsPipe.Process(IEnumerable`1 resultItems, ISpider spider) 位置 d:\code\elasticsearch\LearnElasticsearch\LearnElasticsearch\Program.cs:行号 156
+   在 DotnetSpider.Core.Spider.<>c__DisplayClass162_1.<HandleRequest>b__0()
+   在 Polly.Policy.<>c__DisplayClass109_0.<Execute>b__0(Context ctx, CancellationToken ct) 位置 C:\projects\polly\src\Polly.Shared\Policy.cs:行号 41
+   在 Polly.RetrySyntax.<>c__DisplayClass5_1.<Retry>b__1(Context ctx, CancellationToken ct) 位置 C:\projects\polly\src\Polly.Shared\Retry\RetrySyntax.cs:行号 98
+   在 Polly.Retry.RetryEngine.Implementation[TResult](Func`3 action, Context context, CancellationToken cancellationToken, IEnumerable`1 shouldRetryExceptionPredicates, IEnumerable`1 shouldRetryResultPredicates, Func`1 policyStateFactory) 位置 C:\projects\polly\src\Polly.Shared\Retry\RetryEngine.cs:行号 31
+[20181128 10:34:06][cc168b356787449dabf01cbcebdf3f63][Info] Build internal component...
+[20181128 10:34:06][cc168b356787449dabf01cbcebdf3f63][Info] Add start urls to scheduler, count 1.
+[20181128 10:34:06][cc168b356787449dabf01cbcebdf3f63][Trace] Left 1 Success 0 Error 0 Total 1 Dowload 0 Extract 0 Pipeline 0
+[20181128 10:34:07][System][Error] Execute pipeline failed [1]: System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 LearnElasticsearch.Program.HouseDetailsPipe.Process(IEnumerable`1 resultItems, ISpider spider) 位置 d:\code\elasticsearch\LearnElasticsearch\LearnElasticsearch\Program.cs:行号 156
+   在 DotnetSpider.Core.Spider.<>c__DisplayClass162_1.<HandleRequest>b__0()
+   在 Polly.Policy.<>c__DisplayClass109_0.<Execute>b__0(Context ctx, CancellationToken ct) 位置 C:\projects\polly\src\Polly.Shared\Policy.cs:行号 41
+   在 Polly.RetrySyntax.<>c__DisplayClass5_1.<Retry>b__1(Context ctx, CancellationToken ct) 位置 C:\projects\polly\src\Polly.Shared\Retry\RetrySyntax.cs:行号 98
+   在 Polly.Retry.RetryEngine.Implementation[TResult](Func`3 action, Context context, CancellationToken cancellationToken, IEnumerable`1 shouldRetryExceptionPredicates, IEnumerable`1 shouldRetryResultPredicates, Func`1 policyStateFactory) 位置 C:\projects\polly\src\Polly.Shared\Retry\RetryEngine.cs:行号 31
+[20181128 10:34:07][System][Error] Execute pipeline failed [2]: System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 LearnElasticsearch.Program.HouseDetailsPipe.Process(IEnumerable`1 resultItems, ISpider spider) 位置 d:\code\elasticsearch\LearnElasticsearch\LearnElasticsearch\Program.cs:行号 156
+   在 DotnetSpider.Core.Spider.<>c__DisplayClass162_1.<HandleRequest>b__0()
+   在 Polly.Policy.<>c__DisplayClass109_0.<Execute>b__0(Context ctx, CancellationToken ct) 位置 C:\projects\polly\src\Polly.Shared\Policy.cs:行号 41
+   在 Polly.RetrySyntax.<>c__DisplayClass5_1.<Retry>b__1(Context ctx, CancellationToken ct) 位置 C:\projects\polly\src\Polly.Shared\Retry\RetrySyntax.cs:行号 98
+   在 Polly.Retry.RetryEngine.Implementation[TResult](Func`3 action, Context context, CancellationToken cancellationToken, IEnumerable`1 shouldRetryExceptionPredicates, IEnumerable`1 shouldRetryResultPredicates, Func`1 policyStateFactory) 位置 C:\projects\polly\src\Polly.Shared\Retry\RetryEngine.cs:行号 31
+[20181128 10:36:24][bf3d97a5d64a41249228a66b9403b385][Info] Build internal component...
+[20181128 10:36:24][bf3d97a5d64a41249228a66b9403b385][Info] Add start urls to scheduler, count 1.
+[20181128 10:36:24][bf3d97a5d64a41249228a66b9403b385][Trace] Left 1 Success 0 Error 0 Total 1 Dowload 0 Extract 0 Pipeline 0
+[20181128 10:36:25][System][Error] Execute pipeline failed [1]: System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 LearnElasticsearch.Program.HouseDetailsPipe.Process(IEnumerable`1 resultItems, ISpider spider) 位置 d:\code\elasticsearch\LearnElasticsearch\LearnElasticsearch\Program.cs:行号 156
+   在 DotnetSpider.Core.Spider.<>c__DisplayClass162_1.<HandleRequest>b__0()
+   在 Polly.Policy.<>c__DisplayClass109_0.<Execute>b__0(Context ctx, CancellationToken ct) 位置 C:\projects\polly\src\Polly.Shared\Policy.cs:行号 41
+   在 Polly.RetrySyntax.<>c__DisplayClass5_1.<Retry>b__1(Context ctx, CancellationToken ct) 位置 C:\projects\polly\src\Polly.Shared\Retry\RetrySyntax.cs:行号 98
+   在 Polly.Retry.RetryEngine.Implementation[TResult](Func`3 action, Context context, CancellationToken cancellationToken, IEnumerable`1 shouldRetryExceptionPredicates, IEnumerable`1 shouldRetryResultPredicates, Func`1 policyStateFactory) 位置 C:\projects\polly\src\Polly.Shared\Retry\RetryEngine.cs:行号 31
+[20181128 10:36:25][System][Error] Execute pipeline failed [2]: System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 LearnElasticsearch.Program.HouseDetailsPipe.Process(IEnumerable`1 resultItems, ISpider spider) 位置 d:\code\elasticsearch\LearnElasticsearch\LearnElasticsearch\Program.cs:行号 156
+   在 DotnetSpider.Core.Spider.<>c__DisplayClass162_1.<HandleRequest>b__0()
+   在 Polly.Policy.<>c__DisplayClass109_0.<Execute>b__0(Context ctx, CancellationToken ct) 位置 C:\projects\polly\src\Polly.Shared\Policy.cs:行号 41
+   在 Polly.RetrySyntax.<>c__DisplayClass5_1.<Retry>b__1(Context ctx, CancellationToken ct) 位置 C:\projects\polly\src\Polly.Shared\Retry\RetrySyntax.cs:行号 98
+   在 Polly.Retry.RetryEngine.Implementation[TResult](Func`3 action, Context context, CancellationToken cancellationToken, IEnumerable`1 shouldRetryExceptionPredicates, IEnumerable`1 shouldRetryResultPredicates, Func`1 policyStateFactory) 位置 C:\projects\polly\src\Polly.Shared\Retry\RetryEngine.cs:行号 31
+[20181128 10:38:00][c4c7b0c97d3a4a2ab9350e81c0df3c2a][Info] Build internal component...
+[20181128 10:38:00][c4c7b0c97d3a4a2ab9350e81c0df3c2a][Info] Add start urls to scheduler, count 1.
+[20181128 10:38:00][c4c7b0c97d3a4a2ab9350e81c0df3c2a][Trace] Left 1 Success 0 Error 0 Total 1 Dowload 0 Extract 0 Pipeline 0
+[20181128 10:38:02][System][Error] Execute pipeline failed [1]: System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 LearnElasticsearch.Program.HouseDetailsPipe.Process(IEnumerable`1 resultItems, ISpider spider) 位置 d:\code\elasticsearch\LearnElasticsearch\LearnElasticsearch\Program.cs:行号 156
+   在 DotnetSpider.Core.Spider.<>c__DisplayClass162_1.<HandleRequest>b__0()
+   在 Polly.Policy.<>c__DisplayClass109_0.<Execute>b__0(Context ctx, CancellationToken ct) 位置 C:\projects\polly\src\Polly.Shared\Policy.cs:行号 41
+   在 Polly.RetrySyntax.<>c__DisplayClass5_1.<Retry>b__1(Context ctx, CancellationToken ct) 位置 C:\projects\polly\src\Polly.Shared\Retry\RetrySyntax.cs:行号 98
+   在 Polly.Retry.RetryEngine.Implementation[TResult](Func`3 action, Context context, CancellationToken cancellationToken, IEnumerable`1 shouldRetryExceptionPredicates, IEnumerable`1 shouldRetryResultPredicates, Func`1 policyStateFactory) 位置 C:\projects\polly\src\Polly.Shared\Retry\RetryEngine.cs:行号 31
+[20181128 10:38:02][System][Error] Execute pipeline failed [2]: System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 LearnElasticsearch.Program.HouseDetailsPipe.Process(IEnumerable`1 resultItems, ISpider spider) 位置 d:\code\elasticsearch\LearnElasticsearch\LearnElasticsearch\Program.cs:行号 156
+   在 DotnetSpider.Core.Spider.<>c__DisplayClass162_1.<HandleRequest>b__0()
+   在 Polly.Policy.<>c__DisplayClass109_0.<Execute>b__0(Context ctx, CancellationToken ct) 位置 C:\projects\polly\src\Polly.Shared\Policy.cs:行号 41
+   在 Polly.RetrySyntax.<>c__DisplayClass5_1.<Retry>b__1(Context ctx, CancellationToken ct) 位置 C:\projects\polly\src\Polly.Shared\Retry\RetrySyntax.cs:行号 98
+   在 Polly.Retry.RetryEngine.Implementation[TResult](Func`3 action, Context context, CancellationToken cancellationToken, IEnumerable`1 shouldRetryExceptionPredicates, IEnumerable`1 shouldRetryResultPredicates, Func`1 policyStateFactory) 位置 C:\projects\polly\src\Polly.Shared\Retry\RetryEngine.cs:行号 31
+[20181128 10:40:02][ac9c4d608da14ecf80ae3245fe05ee2a][Info] Build internal component...
+[20181128 10:40:02][ac9c4d608da14ecf80ae3245fe05ee2a][Info] Add start urls to scheduler, count 1.
+[20181128 10:40:02][ac9c4d608da14ecf80ae3245fe05ee2a][Trace] Left 1 Success 0 Error 0 Total 1 Dowload 0 Extract 0 Pipeline 0
+[20181128 10:40:04][ac9c4d608da14ecf80ae3245fe05ee2a][Info] Crawl: https://zz.lianjia.com/ershoufang/104101035494.html success.
+[20181128 10:40:04][ac9c4d608da14ecf80ae3245fe05ee2a][Trace] Left 0 Success 1 Error 0 Total 1 Dowload 529 Extract 79 Pipeline 278
+[20181128 10:40:17][ac9c4d608da14ecf80ae3245fe05ee2a][Trace] Left 0 Success 1 Error 0 Total 1 Dowload 529 Extract 79 Pipeline 278
+[20181128 10:40:17][ac9c4d608da14ecf80ae3245fe05ee2a][Info] Crawl complete, cost: 15.2308712 seconds.
+[20181128 10:41:29][9f2a1a1de18b4968bf337adbb4efa3a3][Info] Build internal component...
+[20181128 10:41:29][9f2a1a1de18b4968bf337adbb4efa3a3][Info] Add start urls to scheduler, count 1.
+[20181128 10:41:29][9f2a1a1de18b4968bf337adbb4efa3a3][Trace] Left 1 Success 0 Error 0 Total 1 Dowload 0 Extract 0 Pipeline 0
+[20181128 10:41:30][9f2a1a1de18b4968bf337adbb4efa3a3][Info] Crawl: https://zz.lianjia.com/ershoufang/104101035494.html success.
+[20181128 10:41:31][9f2a1a1de18b4968bf337adbb4efa3a3][Trace] Left 0 Success 1 Error 0 Total 1 Dowload 639 Extract 70 Pipeline 30
+[20181128 10:41:52][705fb445103f432f85f64f10a849f8ca][Info] Build internal component...
+[20181128 10:41:52][705fb445103f432f85f64f10a849f8ca][Info] Add start urls to scheduler, count 1.
+[20181128 10:41:52][705fb445103f432f85f64f10a849f8ca][Trace] Left 1 Success 0 Error 0 Total 1 Dowload 0 Extract 0 Pipeline 0
+[20181128 10:41:54][705fb445103f432f85f64f10a849f8ca][Info] Crawl: https://zz.lianjia.com/ershoufang/104101035494.html success.
+[20181128 10:41:54][705fb445103f432f85f64f10a849f8ca][Trace] Left 0 Success 1 Error 0 Total 1 Dowload 932 Extract 69 Pipeline 25
+[20181128 10:42:02][224cd9c8c3d740b7bc5affa6d2637579][Info] Build internal component...
+[20181128 10:42:03][224cd9c8c3d740b7bc5affa6d2637579][Info] Add start urls to scheduler, count 1.
+[20181128 10:42:03][224cd9c8c3d740b7bc5affa6d2637579][Trace] Left 1 Success 0 Error 0 Total 1 Dowload 0 Extract 0 Pipeline 0
+[20181128 10:42:04][224cd9c8c3d740b7bc5affa6d2637579][Info] Crawl: https://zz.lianjia.com/ershoufang/104101035494.html success.
+[20181128 10:42:05][224cd9c8c3d740b7bc5affa6d2637579][Trace] Left 0 Success 1 Error 0 Total 1 Dowload 806 Extract 69 Pipeline 25
+[20181128 10:42:19][e0dd237a0ca24564b8c66a5098a1bf4c][Info] Build internal component...
+[20181128 10:42:19][e0dd237a0ca24564b8c66a5098a1bf4c][Info] Add start urls to scheduler, count 1.
+[20181128 10:42:19][e0dd237a0ca24564b8c66a5098a1bf4c][Trace] Left 1 Success 0 Error 0 Total 1 Dowload 0 Extract 0 Pipeline 0
+[20181128 10:42:20][e0dd237a0ca24564b8c66a5098a1bf4c][Info] Crawl: https://zz.lianjia.com/ershoufang/104101035494.html success.
+[20181128 10:42:21][e0dd237a0ca24564b8c66a5098a1bf4c][Trace] Left 0 Success 1 Error 0 Total 1 Dowload 474 Extract 64 Pipeline 26
+[20181128 10:52:27][19778785552040da809c121f708b8daf][Info] Build internal component...
+[20181128 10:52:27][19778785552040da809c121f708b8daf][Info] Add start urls to scheduler, count 1.
+[20181128 10:52:27][19778785552040da809c121f708b8daf][Trace] Left 1 Success 0 Error 0 Total 1 Dowload 0 Extract 0 Pipeline 0
+[20181128 10:52:29][19778785552040da809c121f708b8daf][Info] Crawl: https://zz.lianjia.com/ershoufang/104101035494.html success.
+[20181128 10:52:29][19778785552040da809c121f708b8daf][Trace] Left 0 Success 1 Error 0 Total 1 Dowload 1030 Extract 65 Pipeline 22
+[20181128 14:04:42][248dfeb974ab41ee96c8c4e153a96108][Info] Build internal component...
+[20181128 14:04:42][248dfeb974ab41ee96c8c4e153a96108][Info] Add start urls to scheduler, count 0.
+[20181128 14:04:42][248dfeb974ab41ee96c8c4e153a96108][Trace] Left 0 Success 0 Error 0 Total 0 Dowload 0 Extract 0 Pipeline 0
+[20181128 14:04:57][248dfeb974ab41ee96c8c4e153a96108][Trace] Left 0 Success 0 Error 0 Total 0 Dowload 0 Extract 0 Pipeline 0
+[20181128 14:04:57][248dfeb974ab41ee96c8c4e153a96108][Info] Crawl complete, cost: 15.0408603 seconds.
+[20181128 14:05:53][842dac65da174e71a38345875cd9cee0][Info] Build internal component...
+[20181128 14:05:53][842dac65da174e71a38345875cd9cee0][Info] Add start urls to scheduler, count 2.
+[20181128 14:05:53][842dac65da174e71a38345875cd9cee0][Trace] Left 2 Success 0 Error 0 Total 2 Dowload 0 Extract 0 Pipeline 0
+[20181128 14:07:21][10dea9a5f88040b98a47ca606987b874][Info] Build internal component...
+[20181128 14:07:21][10dea9a5f88040b98a47ca606987b874][Info] Add start urls to scheduler, count 2.
+[20181128 14:07:21][10dea9a5f88040b98a47ca606987b874][Trace] Left 2 Success 0 Error 0 Total 2 Dowload 0 Extract 0 Pipeline 0
+[20181128 14:08:58][fd9d56181d1d43fab736ac9c89a20df1][Info] Build internal component...
+[20181128 14:08:58][fd9d56181d1d43fab736ac9c89a20df1][Info] Add start urls to scheduler, count 2.
+[20181128 14:08:58][fd9d56181d1d43fab736ac9c89a20df1][Trace] Left 2 Success 0 Error 0 Total 2 Dowload 0 Extract 0 Pipeline 0
+[20181128 14:08:59][System][Error] Execute pipeline failed [1]: System.Data.SqlClient.SqlException (0x80131904): 从数据类型 nvarchar 转换为 numeric 时出错。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 Dos.ORM.Database.DoExecuteNonQuery(DbCommand command)
+   在 Dos.ORM.Database.ExecuteNonQuery(DbCommand command)
+   在 Dos.ORM.DbSession.ExecuteNonQuery(DbCommand cmd)
+   在 Dos.ORM.DbSession.Update[TEntity](TEntity entity, WhereClip where)
+   在 Dos.ORM.DbSession.Update[TEntity](TEntity entity, Expression`1 lambdaWhere)
+   在 LearnElasticsearch.DataBase.DAL.Repository`1.Update(T entity, Expression`1 lambdaWhere) 位置 d:\code\elasticsearch\LearnElasticsearch\LearnElasticsearch\DataModel\DAL\Repository.cs:行号 259
+   在 LearnElasticsearch.Program.HouseDetailsPipe.Process(IEnumerable`1 resultItems, ISpider spider) 位置 d:\code\elasticsearch\LearnElasticsearch\LearnElasticsearch\Program.cs:行号 296
+   在 DotnetSpider.Core.Spider.<>c__DisplayClass162_1.<HandleRequest>b__0()
+   在 Polly.Policy.<>c__DisplayClass109_0.<Execute>b__0(Context ctx, CancellationToken ct) 位置 C:\projects\polly\src\Polly.Shared\Policy.cs:行号 41
+   在 Polly.RetrySyntax.<>c__DisplayClass5_1.<Retry>b__1(Context ctx, CancellationToken ct) 位置 C:\projects\polly\src\Polly.Shared\Retry\RetrySyntax.cs:行号 98
+   在 Polly.Retry.RetryEngine.Implementation[TResult](Func`3 action, Context context, CancellationToken cancellationToken, IEnumerable`1 shouldRetryExceptionPredicates, IEnumerable`1 shouldRetryResultPredicates, Func`1 policyStateFactory) 位置 C:\projects\polly\src\Polly.Shared\Retry\RetryEngine.cs:行号 31
+ClientConnectionId:e7a07323-ec75-442d-b74d-dc3f4d2567ac
+Error Number:8114,State:5,Class:16
+[20181128 14:08:59][System][Error] Execute pipeline failed [1]: System.Data.SqlClient.SqlException (0x80131904): 从数据类型 nvarchar 转换为 numeric 时出错。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 Dos.ORM.Database.DoExecuteNonQuery(DbCommand command)
+   在 Dos.ORM.Database.ExecuteNonQuery(DbCommand command)
+   在 Dos.ORM.DbSession.ExecuteNonQuery(DbCommand cmd)
+   在 Dos.ORM.DbSession.Update[TEntity](TEntity entity, WhereClip where)
+   在 Dos.ORM.DbSession.Update[TEntity](TEntity entity, Expression`1 lambdaWhere)
+   在 LearnElasticsearch.DataBase.DAL.Repository`1.Update(T entity, Expression`1 lambdaWhere) 位置 d:\code\elasticsearch\LearnElasticsearch\LearnElasticsearch\DataModel\DAL\Repository.cs:行号 259
+   在 LearnElasticsearch.Program.HouseDetailsPipe.Process(IEnumerable`1 resultItems, ISpider spider) 位置 d:\code\elasticsearch\LearnElasticsearch\LearnElasticsearch\Program.cs:行号 296
+   在 DotnetSpider.Core.Spider.<>c__DisplayClass162_1.<HandleRequest>b__0()
+   在 Polly.Policy.<>c__DisplayClass109_0.<Execute>b__0(Context ctx, CancellationToken ct) 位置 C:\projects\polly\src\Polly.Shared\Policy.cs:行号 41
+   在 Polly.RetrySyntax.<>c__DisplayClass5_1.<Retry>b__1(Context ctx, CancellationToken ct) 位置 C:\projects\polly\src\Polly.Shared\Retry\RetrySyntax.cs:行号 98
+   在 Polly.Retry.RetryEngine.Implementation[TResult](Func`3 action, Context context, CancellationToken cancellationToken, IEnumerable`1 shouldRetryExceptionPredicates, IEnumerable`1 shouldRetryResultPredicates, Func`1 policyStateFactory) 位置 C:\projects\polly\src\Polly.Shared\Retry\RetryEngine.cs:行号 31
+ClientConnectionId:602f2102-b51a-4ae6-8d70-2c3eeacfb5af
+Error Number:8114,State:5,Class:16
+[20181128 14:09:00][System][Error] Execute pipeline failed [2]: System.Data.SqlClient.SqlException (0x80131904): 从数据类型 nvarchar 转换为 numeric 时出错。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 Dos.ORM.Database.DoExecuteNonQuery(DbCommand command)
+   在 Dos.ORM.Database.ExecuteNonQuery(DbCommand command)
+   在 Dos.ORM.DbSession.ExecuteNonQuery(DbCommand cmd)
+   在 Dos.ORM.DbSession.Update[TEntity](TEntity entity, WhereClip where)
+   在 Dos.ORM.DbSession.Update[TEntity](TEntity entity, Expression`1 lambdaWhere)
+   在 LearnElasticsearch.DataBase.DAL.Repository`1.Update(T entity, Expression`1 lambdaWhere) 位置 d:\code\elasticsearch\LearnElasticsearch\LearnElasticsearch\DataModel\DAL\Repository.cs:行号 259
+   在 LearnElasticsearch.Program.HouseDetailsPipe.Process(IEnumerable`1 resultItems, ISpider spider) 位置 d:\code\elasticsearch\LearnElasticsearch\LearnElasticsearch\Program.cs:行号 296
+   在 DotnetSpider.Core.Spider.<>c__DisplayClass162_1.<HandleRequest>b__0()
+   在 Polly.Policy.<>c__DisplayClass109_0.<Execute>b__0(Context ctx, CancellationToken ct) 位置 C:\projects\polly\src\Polly.Shared\Policy.cs:行号 41
+   在 Polly.RetrySyntax.<>c__DisplayClass5_1.<Retry>b__1(Context ctx, CancellationToken ct) 位置 C:\projects\polly\src\Polly.Shared\Retry\RetrySyntax.cs:行号 98
+   在 Polly.Retry.RetryEngine.Implementation[TResult](Func`3 action, Context context, CancellationToken cancellationToken, IEnumerable`1 shouldRetryExceptionPredicates, IEnumerable`1 shouldRetryResultPredicates, Func`1 policyStateFactory) 位置 C:\projects\polly\src\Polly.Shared\Retry\RetryEngine.cs:行号 31
+ClientConnectionId:e7a07323-ec75-442d-b74d-dc3f4d2567ac
+Error Number:8114,State:5,Class:16
+[20181128 14:09:00][System][Error] Execute pipeline failed [2]: System.Data.SqlClient.SqlException (0x80131904): 从数据类型 nvarchar 转换为 numeric 时出错。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 Dos.ORM.Database.DoExecuteNonQuery(DbCommand command)
+   在 Dos.ORM.Database.ExecuteNonQuery(DbCommand command)
+   在 Dos.ORM.DbSession.ExecuteNonQuery(DbCommand cmd)
+   在 Dos.ORM.DbSession.Update[TEntity](TEntity entity, WhereClip where)
+   在 Dos.ORM.DbSession.Update[TEntity](TEntity entity, Expression`1 lambdaWhere)
+   在 LearnElasticsearch.DataBase.DAL.Repository`1.Update(T entity, Expression`1 lambdaWhere) 位置 d:\code\elasticsearch\LearnElasticsearch\LearnElasticsearch\DataModel\DAL\Repository.cs:行号 259
+   在 LearnElasticsearch.Program.HouseDetailsPipe.Process(IEnumerable`1 resultItems, ISpider spider) 位置 d:\code\elasticsearch\LearnElasticsearch\LearnElasticsearch\Program.cs:行号 296
+   在 DotnetSpider.Core.Spider.<>c__DisplayClass162_1.<HandleRequest>b__0()
+   在 Polly.Policy.<>c__DisplayClass109_0.<Execute>b__0(Context ctx, CancellationToken ct) 位置 C:\projects\polly\src\Polly.Shared\Policy.cs:行号 41
+   在 Polly.RetrySyntax.<>c__DisplayClass5_1.<Retry>b__1(Context ctx, CancellationToken ct) 位置 C:\projects\polly\src\Polly.Shared\Retry\RetrySyntax.cs:行号 98
+   在 Polly.Retry.RetryEngine.Implementation[TResult](Func`3 action, Context context, CancellationToken cancellationToken, IEnumerable`1 shouldRetryExceptionPredicates, IEnumerable`1 shouldRetryResultPredicates, Func`1 policyStateFactory) 位置 C:\projects\polly\src\Polly.Shared\Retry\RetryEngine.cs:行号 31
+ClientConnectionId:602f2102-b51a-4ae6-8d70-2c3eeacfb5af
+Error Number:8114,State:5,Class:16
+[20181128 14:10:28][87f5d58ddb554982bd5a2b44a1245f31][Info] Build internal component...
+[20181128 14:10:28][87f5d58ddb554982bd5a2b44a1245f31][Info] Add start urls to scheduler, count 10.
+[20181128 14:10:28][87f5d58ddb554982bd5a2b44a1245f31][Trace] Left 10 Success 0 Error 0 Total 10 Dowload 0 Extract 0 Pipeline 0
+[20181128 14:10:34][87f5d58ddb554982bd5a2b44a1245f31][Info] Crawl: https://zz.lianjia.com/ershoufang/pg1/ success.
+[20181128 14:10:34][87f5d58ddb554982bd5a2b44a1245f31][Info] Crawl: https://zz.lianjia.com/ershoufang/pg5/ success.
+[20181128 14:10:35][87f5d58ddb554982bd5a2b44a1245f31][Trace] Left 0 Success 2 Error 0 Total 10 Dowload 1274 Extract 879 Pipeline 3604
+[20181128 14:10:35][87f5d58ddb554982bd5a2b44a1245f31][Info] Crawl: https://zz.lianjia.com/ershoufang/pg4/ success.
+[20181128 14:10:35][87f5d58ddb554982bd5a2b44a1245f31][Info] Crawl: https://zz.lianjia.com/ershoufang/pg8/ success.
+[20181128 14:10:35][87f5d58ddb554982bd5a2b44a1245f31][Info] Crawl: https://zz.lianjia.com/ershoufang/pg10/ success.
+[20181128 14:10:35][87f5d58ddb554982bd5a2b44a1245f31][Info] Crawl: https://zz.lianjia.com/ershoufang/pg9/ success.
+[20181128 14:10:35][87f5d58ddb554982bd5a2b44a1245f31][Info] Crawl: https://zz.lianjia.com/ershoufang/pg2/ success.
+[20181128 14:10:35][87f5d58ddb554982bd5a2b44a1245f31][Info] Crawl: https://zz.lianjia.com/ershoufang/pg3/ success.
+[20181128 14:10:35][87f5d58ddb554982bd5a2b44a1245f31][Trace] Left 0 Success 8 Error 0 Total 10 Dowload 1274 Extract 879 Pipeline 5311
+[20181128 14:10:35][87f5d58ddb554982bd5a2b44a1245f31][Trace] Left 0 Success 8 Error 0 Total 10 Dowload 1274 Extract 879 Pipeline 5311
+[20181128 14:10:35][87f5d58ddb554982bd5a2b44a1245f31][Info] Crawl: https://zz.lianjia.com/ershoufang/pg7/ success.
+[20181128 14:10:35][87f5d58ddb554982bd5a2b44a1245f31][Trace] Left 0 Success 8 Error 0 Total 10 Dowload 1274 Extract 879 Pipeline 5311
+[20181128 14:10:35][87f5d58ddb554982bd5a2b44a1245f31][Info] Crawl: https://zz.lianjia.com/ershoufang/pg6/ success.
+[20181128 14:10:36][87f5d58ddb554982bd5a2b44a1245f31][Trace] Left 0 Success 10 Error 0 Total 10 Dowload 1274 Extract 879 Pipeline 5583
+[20181128 14:10:47][52dd08c5a226495aad9d343a9189a6d0][Info] Build internal component...
+[20181128 14:10:47][52dd08c5a226495aad9d343a9189a6d0][Info] Add start urls to scheduler, count 2.
+[20181128 14:10:47][52dd08c5a226495aad9d343a9189a6d0][Trace] Left 2 Success 0 Error 0 Total 2 Dowload 0 Extract 0 Pipeline 0
+[20181128 14:10:49][System][Error] Execute pipeline failed [1]: System.Data.SqlClient.SqlException (0x80131904): 从数据类型 nvarchar 转换为 numeric 时出错。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 Dos.ORM.Database.DoExecuteNonQuery(DbCommand command)
+   在 Dos.ORM.Database.ExecuteNonQuery(DbCommand command)
+   在 Dos.ORM.DbSession.ExecuteNonQuery(DbCommand cmd)
+   在 Dos.ORM.DbSession.Update[TEntity](TEntity entity, WhereClip where)
+   在 Dos.ORM.DbSession.Update[TEntity](TEntity entity, Expression`1 lambdaWhere)
+   在 LearnElasticsearch.DataBase.DAL.Repository`1.Update(T entity, Expression`1 lambdaWhere) 位置 d:\code\elasticsearch\LearnElasticsearch\LearnElasticsearch\DataModel\DAL\Repository.cs:行号 259
+   在 LearnElasticsearch.Program.HouseDetailsPipe.Process(IEnumerable`1 resultItems, ISpider spider) 位置 d:\code\elasticsearch\LearnElasticsearch\LearnElasticsearch\Program.cs:行号 296
+   在 DotnetSpider.Core.Spider.<>c__DisplayClass162_1.<HandleRequest>b__0()
+   在 Polly.Policy.<>c__DisplayClass109_0.<Execute>b__0(Context ctx, CancellationToken ct) 位置 C:\projects\polly\src\Polly.Shared\Policy.cs:行号 41
+   在 Polly.RetrySyntax.<>c__DisplayClass5_1.<Retry>b__1(Context ctx, CancellationToken ct) 位置 C:\projects\polly\src\Polly.Shared\Retry\RetrySyntax.cs:行号 98
+   在 Polly.Retry.RetryEngine.Implementation[TResult](Func`3 action, Context context, CancellationToken cancellationToken, IEnumerable`1 shouldRetryExceptionPredicates, IEnumerable`1 shouldRetryResultPredicates, Func`1 policyStateFactory) 位置 C:\projects\polly\src\Polly.Shared\Retry\RetryEngine.cs:行号 31
+ClientConnectionId:e1b3733e-7d16-466e-8ae1-94ea5d22dd64
+Error Number:8114,State:5,Class:16
+[20181128 14:10:49][System][Error] Execute pipeline failed [1]: System.Data.SqlClient.SqlException (0x80131904): 从数据类型 nvarchar 转换为 numeric 时出错。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 Dos.ORM.Database.DoExecuteNonQuery(DbCommand command)
+   在 Dos.ORM.Database.ExecuteNonQuery(DbCommand command)
+   在 Dos.ORM.DbSession.ExecuteNonQuery(DbCommand cmd)
+   在 Dos.ORM.DbSession.Update[TEntity](TEntity entity, WhereClip where)
+   在 Dos.ORM.DbSession.Update[TEntity](TEntity entity, Expression`1 lambdaWhere)
+   在 LearnElasticsearch.DataBase.DAL.Repository`1.Update(T entity, Expression`1 lambdaWhere) 位置 d:\code\elasticsearch\LearnElasticsearch\LearnElasticsearch\DataModel\DAL\Repository.cs:行号 259
+   在 LearnElasticsearch.Program.HouseDetailsPipe.Process(IEnumerable`1 resultItems, ISpider spider) 位置 d:\code\elasticsearch\LearnElasticsearch\LearnElasticsearch\Program.cs:行号 296
+   在 DotnetSpider.Core.Spider.<>c__DisplayClass162_1.<HandleRequest>b__0()
+   在 Polly.Policy.<>c__DisplayClass109_0.<Execute>b__0(Context ctx, CancellationToken ct) 位置 C:\projects\polly\src\Polly.Shared\Policy.cs:行号 41
+   在 Polly.RetrySyntax.<>c__DisplayClass5_1.<Retry>b__1(Context ctx, CancellationToken ct) 位置 C:\projects\polly\src\Polly.Shared\Retry\RetrySyntax.cs:行号 98
+   在 Polly.Retry.RetryEngine.Implementation[TResult](Func`3 action, Context context, CancellationToken cancellationToken, IEnumerable`1 shouldRetryExceptionPredicates, IEnumerable`1 shouldRetryResultPredicates, Func`1 policyStateFactory) 位置 C:\projects\polly\src\Polly.Shared\Retry\RetryEngine.cs:行号 31
+ClientConnectionId:a2e8f422-8847-4e6b-b946-f4ed096fa984
+Error Number:8114,State:5,Class:16
+[20181128 14:10:49][System][Error] Execute pipeline failed [2]: System.Data.SqlClient.SqlException (0x80131904): 从数据类型 nvarchar 转换为 numeric 时出错。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 Dos.ORM.Database.DoExecuteNonQuery(DbCommand command)
+   在 Dos.ORM.Database.ExecuteNonQuery(DbCommand command)
+   在 Dos.ORM.DbSession.ExecuteNonQuery(DbCommand cmd)
+   在 Dos.ORM.DbSession.Update[TEntity](TEntity entity, WhereClip where)
+   在 Dos.ORM.DbSession.Update[TEntity](TEntity entity, Expression`1 lambdaWhere)
+   在 LearnElasticsearch.DataBase.DAL.Repository`1.Update(T entity, Expression`1 lambdaWhere) 位置 d:\code\elasticsearch\LearnElasticsearch\LearnElasticsearch\DataModel\DAL\Repository.cs:行号 259
+   在 LearnElasticsearch.Program.HouseDetailsPipe.Process(IEnumerable`1 resultItems, ISpider spider) 位置 d:\code\elasticsearch\LearnElasticsearch\LearnElasticsearch\Program.cs:行号 296
+   在 DotnetSpider.Core.Spider.<>c__DisplayClass162_1.<HandleRequest>b__0()
+   在 Polly.Policy.<>c__DisplayClass109_0.<Execute>b__0(Context ctx, CancellationToken ct) 位置 C:\projects\polly\src\Polly.Shared\Policy.cs:行号 41
+   在 Polly.RetrySyntax.<>c__DisplayClass5_1.<Retry>b__1(Context ctx, CancellationToken ct) 位置 C:\projects\polly\src\Polly.Shared\Retry\RetrySyntax.cs:行号 98
+   在 Polly.Retry.RetryEngine.Implementation[TResult](Func`3 action, Context context, CancellationToken cancellationToken, IEnumerable`1 shouldRetryExceptionPredicates, IEnumerable`1 shouldRetryResultPredicates, Func`1 policyStateFactory) 位置 C:\projects\polly\src\Polly.Shared\Retry\RetryEngine.cs:行号 31
+ClientConnectionId:a2e8f422-8847-4e6b-b946-f4ed096fa984
+Error Number:8114,State:5,Class:16
+[20181128 14:10:50][System][Error] Execute pipeline failed [2]: System.Data.SqlClient.SqlException (0x80131904): 从数据类型 nvarchar 转换为 numeric 时出错。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 Dos.ORM.Database.DoExecuteNonQuery(DbCommand command)
+   在 Dos.ORM.Database.ExecuteNonQuery(DbCommand command)
+   在 Dos.ORM.DbSession.ExecuteNonQuery(DbCommand cmd)
+   在 Dos.ORM.DbSession.Update[TEntity](TEntity entity, WhereClip where)
+   在 Dos.ORM.DbSession.Update[TEntity](TEntity entity, Expression`1 lambdaWhere)
+   在 LearnElasticsearch.DataBase.DAL.Repository`1.Update(T entity, Expression`1 lambdaWhere) 位置 d:\code\elasticsearch\LearnElasticsearch\LearnElasticsearch\DataModel\DAL\Repository.cs:行号 259
+   在 LearnElasticsearch.Program.HouseDetailsPipe.Process(IEnumerable`1 resultItems, ISpider spider) 位置 d:\code\elasticsearch\LearnElasticsearch\LearnElasticsearch\Program.cs:行号 296
+   在 DotnetSpider.Core.Spider.<>c__DisplayClass162_1.<HandleRequest>b__0()
+   在 Polly.Policy.<>c__DisplayClass109_0.<Execute>b__0(Context ctx, CancellationToken ct) 位置 C:\projects\polly\src\Polly.Shared\Policy.cs:行号 41
+   在 Polly.RetrySyntax.<>c__DisplayClass5_1.<Retry>b__1(Context ctx, CancellationToken ct) 位置 C:\projects\polly\src\Polly.Shared\Retry\RetrySyntax.cs:行号 98
+   在 Polly.Retry.RetryEngine.Implementation[TResult](Func`3 action, Context context, CancellationToken cancellationToken, IEnumerable`1 shouldRetryExceptionPredicates, IEnumerable`1 shouldRetryResultPredicates, Func`1 policyStateFactory) 位置 C:\projects\polly\src\Polly.Shared\Retry\RetryEngine.cs:行号 31
+ClientConnectionId:e1b3733e-7d16-466e-8ae1-94ea5d22dd64
+Error Number:8114,State:5,Class:16
+[20181128 14:15:06][99ba26c778334c4b9066eeb8d151ad7a][Info] Build internal component...
+[20181128 14:15:06][99ba26c778334c4b9066eeb8d151ad7a][Info] Add start urls to scheduler, count 2.
+[20181128 14:15:06][99ba26c778334c4b9066eeb8d151ad7a][Trace] Left 2 Success 0 Error 0 Total 2 Dowload 0 Extract 0 Pipeline 0
+[20181128 14:15:08][System][Error] Execute pipeline failed [1]: System.Data.SqlClient.SqlException (0x80131904): 从数据类型 nvarchar 转换为 numeric 时出错。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 Dos.ORM.Database.DoExecuteNonQuery(DbCommand command)
+   在 Dos.ORM.Database.ExecuteNonQuery(DbCommand command)
+   在 Dos.ORM.DbSession.ExecuteNonQuery(DbCommand cmd)
+   在 Dos.ORM.DbSession.Update[TEntity](TEntity entity, WhereClip where)
+   在 Dos.ORM.DbSession.Update[TEntity](TEntity entity, Expression`1 lambdaWhere)
+   在 LearnElasticsearch.DataBase.DAL.Repository`1.Update(T entity, Expression`1 lambdaWhere) 位置 d:\code\elasticsearch\LearnElasticsearch\LearnElasticsearch\DataModel\DAL\Repository.cs:行号 259
+   在 LearnElasticsearch.Program.HouseDetailsPipe.Process(IEnumerable`1 resultItems, ISpider spider) 位置 d:\code\elasticsearch\LearnElasticsearch\LearnElasticsearch\Program.cs:行号 296
+   在 DotnetSpider.Core.Spider.<>c__DisplayClass162_1.<HandleRequest>b__0()
+   在 Polly.Policy.<>c__DisplayClass109_0.<Execute>b__0(Context ctx, CancellationToken ct) 位置 C:\projects\polly\src\Polly.Shared\Policy.cs:行号 41
+   在 Polly.RetrySyntax.<>c__DisplayClass5_1.<Retry>b__1(Context ctx, CancellationToken ct) 位置 C:\projects\polly\src\Polly.Shared\Retry\RetrySyntax.cs:行号 98
+   在 Polly.Retry.RetryEngine.Implementation[TResult](Func`3 action, Context context, CancellationToken cancellationToken, IEnumerable`1 shouldRetryExceptionPredicates, IEnumerable`1 shouldRetryResultPredicates, Func`1 policyStateFactory) 位置 C:\projects\polly\src\Polly.Shared\Retry\RetryEngine.cs:行号 31
+ClientConnectionId:39945e91-962c-4632-b9c9-ad6dc9896ea5
+Error Number:8114,State:5,Class:16
+[20181128 14:15:08][System][Error] Execute pipeline failed [2]: System.Data.SqlClient.SqlException (0x80131904): 从数据类型 nvarchar 转换为 numeric 时出错。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 Dos.ORM.Database.DoExecuteNonQuery(DbCommand command)
+   在 Dos.ORM.Database.ExecuteNonQuery(DbCommand command)
+   在 Dos.ORM.DbSession.ExecuteNonQuery(DbCommand cmd)
+   在 Dos.ORM.DbSession.Update[TEntity](TEntity entity, WhereClip where)
+   在 Dos.ORM.DbSession.Update[TEntity](TEntity entity, Expression`1 lambdaWhere)
+   在 LearnElasticsearch.DataBase.DAL.Repository`1.Update(T entity, Expression`1 lambdaWhere) 位置 d:\code\elasticsearch\LearnElasticsearch\LearnElasticsearch\DataModel\DAL\Repository.cs:行号 259
+   在 LearnElasticsearch.Program.HouseDetailsPipe.Process(IEnumerable`1 resultItems, ISpider spider) 位置 d:\code\elasticsearch\LearnElasticsearch\LearnElasticsearch\Program.cs:行号 296
+   在 DotnetSpider.Core.Spider.<>c__DisplayClass162_1.<HandleRequest>b__0()
+   在 Polly.Policy.<>c__DisplayClass109_0.<Execute>b__0(Context ctx, CancellationToken ct) 位置 C:\projects\polly\src\Polly.Shared\Policy.cs:行号 41
+   在 Polly.RetrySyntax.<>c__DisplayClass5_1.<Retry>b__1(Context ctx, CancellationToken ct) 位置 C:\projects\polly\src\Polly.Shared\Retry\RetrySyntax.cs:行号 98
+   在 Polly.Retry.RetryEngine.Implementation[TResult](Func`3 action, Context context, CancellationToken cancellationToken, IEnumerable`1 shouldRetryExceptionPredicates, IEnumerable`1 shouldRetryResultPredicates, Func`1 policyStateFactory) 位置 C:\projects\polly\src\Polly.Shared\Retry\RetryEngine.cs:行号 31
+ClientConnectionId:39945e91-962c-4632-b9c9-ad6dc9896ea5
+Error Number:8114,State:5,Class:16
+[20181128 14:15:33][aff25f16f651424fa8bc23191549bb00][Info] Build internal component...
+[20181128 14:15:33][aff25f16f651424fa8bc23191549bb00][Info] Add start urls to scheduler, count 0.
+[20181128 14:15:33][aff25f16f651424fa8bc23191549bb00][Trace] Left 0 Success 0 Error 0 Total 0 Dowload 0 Extract 0 Pipeline 0
+[20181128 14:15:48][aff25f16f651424fa8bc23191549bb00][Trace] Left 0 Success 0 Error 0 Total 0 Dowload 0 Extract 0 Pipeline 0
+[20181128 14:15:48][aff25f16f651424fa8bc23191549bb00][Info] Crawl complete, cost: 15.0378601 seconds.
+[20181128 14:16:44][bfe8a65742d34f8f8193424c54bb65c9][Info] Build internal component...
+[20181128 14:16:44][bfe8a65742d34f8f8193424c54bb65c9][Info] Add start urls to scheduler, count 0.
+[20181128 14:16:44][bfe8a65742d34f8f8193424c54bb65c9][Trace] Left 0 Success 0 Error 0 Total 0 Dowload 0 Extract 0 Pipeline 0
+[20181128 14:16:59][bfe8a65742d34f8f8193424c54bb65c9][Trace] Left 0 Success 0 Error 0 Total 0 Dowload 0 Extract 0 Pipeline 0
+[20181128 14:16:59][bfe8a65742d34f8f8193424c54bb65c9][Info] Crawl complete, cost: 15.0378601 seconds.
+[20181128 14:18:14][0112cc8bb53449709140bed0d5d62977][Info] Build internal component...
+[20181128 14:18:14][0112cc8bb53449709140bed0d5d62977][Info] Add start urls to scheduler, count 10.
+[20181128 14:18:14][0112cc8bb53449709140bed0d5d62977][Trace] Left 10 Success 0 Error 0 Total 10 Dowload 0 Extract 0 Pipeline 0
+[20181128 14:18:25][0112cc8bb53449709140bed0d5d62977][Info] Crawl: https://zz.lianjia.com/ershoufang/pg2/ success.
+[20181128 14:18:25][0112cc8bb53449709140bed0d5d62977][Info] Crawl: https://zz.lianjia.com/ershoufang/pg1/ success.
+[20181128 14:18:25][0112cc8bb53449709140bed0d5d62977][Info] Crawl: https://zz.lianjia.com/ershoufang/pg3/ success.
+[20181128 14:18:25][0112cc8bb53449709140bed0d5d62977][Info] Crawl: https://zz.lianjia.com/ershoufang/pg5/ success.
+[20181128 14:18:25][0112cc8bb53449709140bed0d5d62977][Info] Crawl: https://zz.lianjia.com/ershoufang/pg4/ success.
+[20181128 14:18:25][0112cc8bb53449709140bed0d5d62977][Info] Crawl: https://zz.lianjia.com/ershoufang/pg6/ success.
+[20181128 14:18:25][0112cc8bb53449709140bed0d5d62977][Trace] Left 0 Success 6 Error 0 Total 10 Dowload 1536 Extract 5545 Pipeline 8302
+[20181128 14:18:25][0112cc8bb53449709140bed0d5d62977][Trace] Left 0 Success 6 Error 0 Total 10 Dowload 1536 Extract 5545 Pipeline 8302
+[20181128 14:18:42][1f692d831034439b914731116b773a1f][Info] Build internal component...
+[20181128 14:18:42][1f692d831034439b914731116b773a1f][Info] Add start urls to scheduler, count 2.
+[20181128 14:18:42][1f692d831034439b914731116b773a1f][Trace] Left 2 Success 0 Error 0 Total 2 Dowload 0 Extract 0 Pipeline 0
+[20181128 14:18:43][1f692d831034439b914731116b773a1f][Info] Crawl: https://zz.lianjia.com/ershoufang/104101277871.html success.
+[20181128 14:18:43][1f692d831034439b914731116b773a1f][Info] Crawl: https://zz.lianjia.com/ershoufang/104100891066.html success.
+[20181128 14:18:44][1f692d831034439b914731116b773a1f][Trace] Left 0 Success 2 Error 0 Total 2 Dowload 885 Extract 99 Pipeline 74
+[20181128 14:18:44][1f692d831034439b914731116b773a1f][Trace] Left 0 Success 2 Error 0 Total 2 Dowload 885 Extract 99 Pipeline 74
+[20181128 14:18:57][1f692d831034439b914731116b773a1f][Trace] Left 0 Success 2 Error 0 Total 2 Dowload 885 Extract 99 Pipeline 74
+[20181128 14:18:57][1f692d831034439b914731116b773a1f][Info] Crawl complete, cost: 15.1368658 seconds.
+[20181128 16:15:29][457fba092d534008aababeb5f1d8f1fd][Info] Build internal component...
+[20181128 16:15:29][457fba092d534008aababeb5f1d8f1fd][Info] Add start urls to scheduler, count 112.
+[20181128 16:15:29][457fba092d534008aababeb5f1d8f1fd][Trace] Left 112 Success 0 Error 0 Total 112 Dowload 0 Extract 0 Pipeline 0
+[20181128 16:29:11][e9b0635606e24289b2f1faebf5ee1df2][Info] Build internal component...
+[20181128 16:29:11][e9b0635606e24289b2f1faebf5ee1df2][Info] Add start urls to scheduler, count 983.
+[20181128 16:29:11][e9b0635606e24289b2f1faebf5ee1df2][Trace] Left 983 Success 0 Error 0 Total 983 Dowload 0 Extract 0 Pipeline 0
+[20181128 16:29:13][e9b0635606e24289b2f1faebf5ee1df2][Info] Crawl: https://zz.lianjia.com/ershoufang/104100860071.html success.
+[20181128 16:29:13][e9b0635606e24289b2f1faebf5ee1df2][Info] Crawl: https://zz.lianjia.com/ershoufang/104100757829.html success.
+[20181128 16:29:13][e9b0635606e24289b2f1faebf5ee1df2][Info] Crawl: https://zz.lianjia.com/ershoufang/104100837152.html success.
+[20181128 16:29:13][e9b0635606e24289b2f1faebf5ee1df2][Info] Crawl: https://zz.lianjia.com/ershoufang/104100746321.html success.
+[20181128 16:29:13][e9b0635606e24289b2f1faebf5ee1df2][Info] Crawl: https://zz.lianjia.com/ershoufang/104100947179.html success.
+[20181128 16:29:13][e9b0635606e24289b2f1faebf5ee1df2][Info] Crawl: https://zz.lianjia.com/ershoufang/104101549838.html success.
+[20181128 16:29:13][e9b0635606e24289b2f1faebf5ee1df2][Info] Crawl: https://zz.lianjia.com/ershoufang/104101191395.html success.
+[20181128 16:29:13][e9b0635606e24289b2f1faebf5ee1df2][Info] Crawl: https://zz.lianjia.com/ershoufang/104100907867.html success.
+[20181128 16:29:13][e9b0635606e24289b2f1faebf5ee1df2][Info] Crawl: https://zz.lianjia.com/ershoufang/104101419618.html success.
+[20181128 16:29:13][e9b0635606e24289b2f1faebf5ee1df2][Info] Crawl: https://zz.lianjia.com/ershoufang/104100928482.html success.
+[20181128 16:29:14][e9b0635606e24289b2f1faebf5ee1df2][Trace] Left 964 Success 10 Error 0 Total 983 Dowload 1271 Extract 895 Pipeline 644
+[20181128 16:29:15][e9b0635606e24289b2f1faebf5ee1df2][Info] Crawl: https://zz.lianjia.com/ershoufang/104101016592.html success.
+[20181128 16:29:15][e9b0635606e24289b2f1faebf5ee1df2][Info] Crawl: https://zz.lianjia.com/ershoufang/104101557021.html success.
+[20181128 16:29:15][e9b0635606e24289b2f1faebf5ee1df2][Info] Crawl: https://zz.lianjia.com/ershoufang/104100737236.html success.
+[20181128 16:29:15][e9b0635606e24289b2f1faebf5ee1df2][Info] Crawl: https://zz.lianjia.com/ershoufang/104101550490.html success.
+[20181128 16:29:15][e9b0635606e24289b2f1faebf5ee1df2][Info] Crawl: https://zz.lianjia.com/ershoufang/104100727212.html success.
+[20181128 16:29:15][e9b0635606e24289b2f1faebf5ee1df2][Info] Crawl: https://zz.lianjia.com/ershoufang/104101495656.html success.
+[20181128 16:29:15][e9b0635606e24289b2f1faebf5ee1df2][Info] Crawl: https://zz.lianjia.com/ershoufang/104101507750.html success.
+[20181128 16:29:15][e9b0635606e24289b2f1faebf5ee1df2][Info] Crawl: https://zz.lianjia.com/ershoufang/104101552167.html success.
+[20181128 16:29:15][e9b0635606e24289b2f1faebf5ee1df2][Info] Crawl: https://zz.lianjia.com/ershoufang/104101119610.html success.
+[20181128 16:29:15][e9b0635606e24289b2f1faebf5ee1df2][Info] Crawl: https://zz.lianjia.com/ershoufang/104100525611.html success.
+[20181128 16:29:16][e9b0635606e24289b2f1faebf5ee1df2][Trace] Left 954 Success 20 Error 0 Total 983 Dowload 1145 Extract 330 Pipeline 415
+[20181128 16:29:16][e9b0635606e24289b2f1faebf5ee1df2][Info] Crawl: https://zz.lianjia.com/ershoufang/104100844677.html success.
+[20181128 16:29:16][e9b0635606e24289b2f1faebf5ee1df2][Info] Crawl: https://zz.lianjia.com/ershoufang/104101067630.html success.
+[20181128 16:29:16][e9b0635606e24289b2f1faebf5ee1df2][Info] Crawl: https://zz.lianjia.com/ershoufang/104100894224.html success.
+[20181128 16:29:16][e9b0635606e24289b2f1faebf5ee1df2][Info] Crawl: https://zz.lianjia.com/ershoufang/104101110611.html success.
+[20181128 16:29:17][e9b0635606e24289b2f1faebf5ee1df2][Info] Crawl: https://zz.lianjia.com/ershoufang/104100920920.html success.
+[20181128 16:29:17][e9b0635606e24289b2f1faebf5ee1df2][Info] Crawl: https://zz.lianjia.com/ershoufang/104101177572.html success.
+[20181128 16:29:17][e9b0635606e24289b2f1faebf5ee1df2][Info] Crawl: https://zz.lianjia.com/ershoufang/104101126881.html success.
+[20181128 16:29:17][e9b0635606e24289b2f1faebf5ee1df2][Info] Crawl: https://zz.lianjia.com/ershoufang/104101170367.html success.
+[20181128 16:29:17][e9b0635606e24289b2f1faebf5ee1df2][Info] Crawl: https://zz.lianjia.com/ershoufang/104101005153.html success.
+[20181128 16:29:17][e9b0635606e24289b2f1faebf5ee1df2][Info] Crawl: https://zz.lianjia.com/ershoufang/104101028157.html success.
+[20181128 16:29:17][e9b0635606e24289b2f1faebf5ee1df2][Trace] Left 944 Success 30 Error 0 Total 983 Dowload 1005 Extract 233 Pipeline 60
+[20181128 16:29:17][e9b0635606e24289b2f1faebf5ee1df2][Info] Crawl: https://zz.lianjia.com/ershoufang/104101074582.html success.
+[20181128 16:29:17][e9b0635606e24289b2f1faebf5ee1df2][Info] Crawl: https://zz.lianjia.com/ershoufang/104100805204.html success.
+[20181128 16:29:18][e9b0635606e24289b2f1faebf5ee1df2][Info] Crawl: https://zz.lianjia.com/ershoufang/104101533912.html success.
+[20181128 16:29:18][e9b0635606e24289b2f1faebf5ee1df2][Info] Crawl: https://zz.lianjia.com/ershoufang/104101008109.html success.
+[20181128 16:29:18][e9b0635606e24289b2f1faebf5ee1df2][Info] Crawl: https://zz.lianjia.com/ershoufang/104100636563.html success.
+[20181128 16:29:18][e9b0635606e24289b2f1faebf5ee1df2][Info] Crawl: https://zz.lianjia.com/ershoufang/104101352400.html success.
+[20181128 16:29:18][e9b0635606e24289b2f1faebf5ee1df2][Info] Crawl: https://zz.lianjia.com/ershoufang/104101532107.html success.
+[20181128 16:29:18][e9b0635606e24289b2f1faebf5ee1df2][Info] Crawl: https://zz.lianjia.com/ershoufang/104100883941.html success.
+[20181128 16:29:18][e9b0635606e24289b2f1faebf5ee1df2][Info] Crawl: https://zz.lianjia.com/ershoufang/104101216286.html success.
+[20181128 16:29:18][e9b0635606e24289b2f1faebf5ee1df2][Info] Crawl: https://zz.lianjia.com/ershoufang/104100524299.html success.
+[20181128 16:29:19][e9b0635606e24289b2f1faebf5ee1df2][Trace] Left 934 Success 40 Error 0 Total 983 Dowload 849 Extract 289 Pipeline 66
+[20181128 16:29:19][e9b0635606e24289b2f1faebf5ee1df2][Info] Crawl: https://zz.lianjia.com/ershoufang/104101555353.html success.
+[20181128 16:29:19][e9b0635606e24289b2f1faebf5ee1df2][Info] Crawl: https://zz.lianjia.com/ershoufang/104101424370.html success.
+[20181128 16:29:19][e9b0635606e24289b2f1faebf5ee1df2][Info] Crawl: https://zz.lianjia.com/ershoufang/104101267987.html success.
+[20181128 16:29:19][e9b0635606e24289b2f1faebf5ee1df2][Info] Crawl: https://zz.lianjia.com/ershoufang/104101536920.html success.
+[20181128 16:29:19][e9b0635606e24289b2f1faebf5ee1df2][Info] Crawl: https://zz.lianjia.com/ershoufang/104100723850.html success.
+[20181128 16:29:19][e9b0635606e24289b2f1faebf5ee1df2][Info] Crawl: https://zz.lianjia.com/ershoufang/104100872620.html success.
+[20181128 16:29:20][e9b0635606e24289b2f1faebf5ee1df2][Info] Crawl: https://zz.lianjia.com/ershoufang/104100778725.html success.
+[20181128 16:29:20][e9b0635606e24289b2f1faebf5ee1df2][Info] Crawl: https://zz.lianjia.com/ershoufang/104101485262.html success.
+[20181128 16:29:20][e9b0635606e24289b2f1faebf5ee1df2][Info] Crawl: https://zz.lianjia.com/ershoufang/104101483691.html success.
+[20181128 16:29:20][e9b0635606e24289b2f1faebf5ee1df2][Info] Crawl: https://zz.lianjia.com/ershoufang/104101486863.html success.
+[20181128 16:29:20][e9b0635606e24289b2f1faebf5ee1df2][Info] Crawl: https://zz.lianjia.com/ershoufang/104100811396.html success.
+[20181128 16:29:20][e9b0635606e24289b2f1faebf5ee1df2][Trace] Left 924 Success 51 Error 0 Total 983 Dowload 1030 Extract 99 Pipeline 60
+[20181128 16:29:20][e9b0635606e24289b2f1faebf5ee1df2][Info] Crawl: https://zz.lianjia.com/ershoufang/104100698017.html success.
+[20181128 16:29:20][e9b0635606e24289b2f1faebf5ee1df2][Info] Crawl: https://zz.lianjia.com/ershoufang/104101467456.html success.
+[20181128 16:29:20][e9b0635606e24289b2f1faebf5ee1df2][Info] Crawl: https://zz.lianjia.com/ershoufang/104100899752.html success.
+[20181128 16:29:20][e9b0635606e24289b2f1faebf5ee1df2][Info] Crawl: https://zz.lianjia.com/ershoufang/104101466461.html success.
+[20181128 16:29:21][e9b0635606e24289b2f1faebf5ee1df2][Info] Crawl: https://zz.lianjia.com/ershoufang/104100815804.html success.
+[20181128 16:29:21][e9b0635606e24289b2f1faebf5ee1df2][Info] Crawl: https://zz.lianjia.com/ershoufang/104100800838.html success.
+[20181128 16:29:21][e9b0635606e24289b2f1faebf5ee1df2][Info] Crawl: https://zz.lianjia.com/ershoufang/104101473217.html success.
+[20181128 16:29:21][e9b0635606e24289b2f1faebf5ee1df2][Info] Crawl: https://zz.lianjia.com/ershoufang/104101462642.html success.
+[20181128 16:29:21][e9b0635606e24289b2f1faebf5ee1df2][Info] Crawl: https://zz.lianjia.com/ershoufang/104100800589.html success.
+[20181128 16:29:21][e9b0635606e24289b2f1faebf5ee1df2][Info] Crawl: https://zz.lianjia.com/ershoufang/104101472807.html success.
+[20181128 16:29:21][e9b0635606e24289b2f1faebf5ee1df2][Info] Crawl: https://zz.lianjia.com/ershoufang/104101519839.html success.
+[20181128 16:29:21][e9b0635606e24289b2f1faebf5ee1df2][Trace] Left 914 Success 62 Error 0 Total 983 Dowload 888 Extract 169 Pipeline 66
+[20181128 16:29:22][System][Error] Execute pipeline failed [1]: System.Data.SqlClient.SqlException (0x80131904): 将截断字符串或二进制数据。
+语句已终止。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 Dos.ORM.Database.DoExecuteNonQuery(DbCommand command)
+   在 Dos.ORM.Database.ExecuteNonQuery(DbCommand command)
+   在 Dos.ORM.DbSession.ExecuteNonQuery(DbCommand cmd)
+   在 Dos.ORM.DbSession.Update[TEntity](TEntity entity, WhereClip where)
+   在 Dos.ORM.DbSession.Update[TEntity](TEntity entity, Expression`1 lambdaWhere)
+   在 LearnElasticsearch.DataBase.DAL.Repository`1.Update(T entity, Expression`1 lambdaWhere) 位置 d:\code\elasticsearch\LearnElasticsearch\LearnElasticsearch\DataModel\DAL\Repository.cs:行号 268
+   在 LearnElasticsearch.Program.HouseDetailsPipe.Process(IEnumerable`1 resultItems, ISpider spider) 位置 d:\code\elasticsearch\LearnElasticsearch\LearnElasticsearch\Program.cs:行号 290
+   在 DotnetSpider.Core.Spider.<>c__DisplayClass162_1.<HandleRequest>b__0()
+   在 Polly.Policy.<>c__DisplayClass109_0.<Execute>b__0(Context ctx, CancellationToken ct) 位置 C:\projects\polly\src\Polly.Shared\Policy.cs:行号 41
+   在 Polly.RetrySyntax.<>c__DisplayClass5_1.<Retry>b__1(Context ctx, CancellationToken ct) 位置 C:\projects\polly\src\Polly.Shared\Retry\RetrySyntax.cs:行号 98
+   在 Polly.Retry.RetryEngine.Implementation[TResult](Func`3 action, Context context, CancellationToken cancellationToken, IEnumerable`1 shouldRetryExceptionPredicates, IEnumerable`1 shouldRetryResultPredicates, Func`1 policyStateFactory) 位置 C:\projects\polly\src\Polly.Shared\Retry\RetryEngine.cs:行号 31
+ClientConnectionId:c01f05d6-e0c3-4cbc-8f66-45b46665bc07
+Error Number:8152,State:2,Class:16
+[20181128 16:29:22][System][Error] Execute pipeline failed [2]: System.Data.SqlClient.SqlException (0x80131904): 将截断字符串或二进制数据。
+语句已终止。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 Dos.ORM.Database.DoExecuteNonQuery(DbCommand command)
+   在 Dos.ORM.Database.ExecuteNonQuery(DbCommand command)
+   在 Dos.ORM.DbSession.ExecuteNonQuery(DbCommand cmd)
+   在 Dos.ORM.DbSession.Update[TEntity](TEntity entity, WhereClip where)
+   在 Dos.ORM.DbSession.Update[TEntity](TEntity entity, Expression`1 lambdaWhere)
+   在 LearnElasticsearch.DataBase.DAL.Repository`1.Update(T entity, Expression`1 lambdaWhere) 位置 d:\code\elasticsearch\LearnElasticsearch\LearnElasticsearch\DataModel\DAL\Repository.cs:行号 268
+   在 LearnElasticsearch.Program.HouseDetailsPipe.Process(IEnumerable`1 resultItems, ISpider spider) 位置 d:\code\elasticsearch\LearnElasticsearch\LearnElasticsearch\Program.cs:行号 290
+   在 DotnetSpider.Core.Spider.<>c__DisplayClass162_1.<HandleRequest>b__0()
+   在 Polly.Policy.<>c__DisplayClass109_0.<Execute>b__0(Context ctx, CancellationToken ct) 位置 C:\projects\polly\src\Polly.Shared\Policy.cs:行号 41
+   在 Polly.RetrySyntax.<>c__DisplayClass5_1.<Retry>b__1(Context ctx, CancellationToken ct) 位置 C:\projects\polly\src\Polly.Shared\Retry\RetrySyntax.cs:行号 98
+   在 Polly.Retry.RetryEngine.Implementation[TResult](Func`3 action, Context context, CancellationToken cancellationToken, IEnumerable`1 shouldRetryExceptionPredicates, IEnumerable`1 shouldRetryResultPredicates, Func`1 policyStateFactory) 位置 C:\projects\polly\src\Polly.Shared\Retry\RetryEngine.cs:行号 31
+ClientConnectionId:c01f05d6-e0c3-4cbc-8f66-45b46665bc07
+Error Number:8152,State:2,Class:16
+[20181128 16:29:22][e9b0635606e24289b2f1faebf5ee1df2][Info] Crawl: https://zz.lianjia.com/ershoufang/104100752158.html success.
+[20181128 16:29:22][e9b0635606e24289b2f1faebf5ee1df2][Info] Crawl: https://zz.lianjia.com/ershoufang/104101494947.html success.
+[20181128 16:29:59][a4f2f9356a0142a483907a041322f0f1][Info] Build internal component...
+[20181128 16:29:59][a4f2f9356a0142a483907a041322f0f1][Info] Add start urls to scheduler, count 919.
+[20181128 16:29:59][a4f2f9356a0142a483907a041322f0f1][Trace] Left 919 Success 0 Error 0 Total 919 Dowload 0 Extract 0 Pipeline 0
+[20181128 16:30:01][a4f2f9356a0142a483907a041322f0f1][Info] Crawl: https://zz.lianjia.com/ershoufang/104100870072.html success.
+[20181128 16:30:02][a4f2f9356a0142a483907a041322f0f1][Info] Crawl: https://zz.lianjia.com/ershoufang/104100633226.html success.
+[20181128 16:30:02][a4f2f9356a0142a483907a041322f0f1][Info] Crawl: https://zz.lianjia.com/ershoufang/104101511380.html success.
+[20181128 16:30:02][a4f2f9356a0142a483907a041322f0f1][Info] Crawl: https://zz.lianjia.com/ershoufang/104100802470.html success.
+[20181128 16:30:02][a4f2f9356a0142a483907a041322f0f1][Info] Crawl: https://zz.lianjia.com/ershoufang/104101491260.html success.
+[20181128 16:30:02][a4f2f9356a0142a483907a041322f0f1][Info] Crawl: https://zz.lianjia.com/ershoufang/104101511980.html success.
+[20181128 16:30:02][a4f2f9356a0142a483907a041322f0f1][Info] Crawl: https://zz.lianjia.com/ershoufang/104100801996.html success.
+[20181128 16:30:02][System][Error] Execute pipeline failed [1]: System.Data.SqlClient.SqlException (0x80131904): 将截断字符串或二进制数据。
+语句已终止。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 Dos.ORM.Database.DoExecuteNonQuery(DbCommand command)
+   在 Dos.ORM.Database.ExecuteNonQuery(DbCommand command)
+   在 Dos.ORM.DbSession.ExecuteNonQuery(DbCommand cmd)
+   在 Dos.ORM.DbSession.Update[TEntity](TEntity entity, WhereClip where)
+   在 Dos.ORM.DbSession.Update[TEntity](TEntity entity, Expression`1 lambdaWhere)
+   在 LearnElasticsearch.DataBase.DAL.Repository`1.Update(T entity, Expression`1 lambdaWhere) 位置 d:\code\elasticsearch\LearnElasticsearch\LearnElasticsearch\DataModel\DAL\Repository.cs:行号 268
+   在 LearnElasticsearch.Program.HouseDetailsPipe.Process(IEnumerable`1 resultItems, ISpider spider) 位置 d:\code\elasticsearch\LearnElasticsearch\LearnElasticsearch\Program.cs:行号 290
+   在 DotnetSpider.Core.Spider.<>c__DisplayClass162_1.<HandleRequest>b__0()
+   在 Polly.Policy.<>c__DisplayClass109_0.<Execute>b__0(Context ctx, CancellationToken ct) 位置 C:\projects\polly\src\Polly.Shared\Policy.cs:行号 41
+   在 Polly.RetrySyntax.<>c__DisplayClass5_1.<Retry>b__1(Context ctx, CancellationToken ct) 位置 C:\projects\polly\src\Polly.Shared\Retry\RetrySyntax.cs:行号 98
+   在 Polly.Retry.RetryEngine.Implementation[TResult](Func`3 action, Context context, CancellationToken cancellationToken, IEnumerable`1 shouldRetryExceptionPredicates, IEnumerable`1 shouldRetryResultPredicates, Func`1 policyStateFactory) 位置 C:\projects\polly\src\Polly.Shared\Retry\RetryEngine.cs:行号 31
+ClientConnectionId:f530f339-3a0b-441e-80f9-e4b32c978f1f
+Error Number:8152,State:2,Class:16
+[20181128 16:30:02][a4f2f9356a0142a483907a041322f0f1][Info] Crawl: https://zz.lianjia.com/ershoufang/104100778813.html success.
+[20181128 16:30:02][a4f2f9356a0142a483907a041322f0f1][Info] Crawl: https://zz.lianjia.com/ershoufang/104100792295.html success.
+[20181128 16:30:02][System][Error] Execute pipeline failed [2]: System.Data.SqlClient.SqlException (0x80131904): 将截断字符串或二进制数据。
+语句已终止。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 Dos.ORM.Database.DoExecuteNonQuery(DbCommand command)
+   在 Dos.ORM.Database.ExecuteNonQuery(DbCommand command)
+   在 Dos.ORM.DbSession.ExecuteNonQuery(DbCommand cmd)
+   在 Dos.ORM.DbSession.Update[TEntity](TEntity entity, WhereClip where)
+   在 Dos.ORM.DbSession.Update[TEntity](TEntity entity, Expression`1 lambdaWhere)
+   在 LearnElasticsearch.DataBase.DAL.Repository`1.Update(T entity, Expression`1 lambdaWhere) 位置 d:\code\elasticsearch\LearnElasticsearch\LearnElasticsearch\DataModel\DAL\Repository.cs:行号 268
+   在 LearnElasticsearch.Program.HouseDetailsPipe.Process(IEnumerable`1 resultItems, ISpider spider) 位置 d:\code\elasticsearch\LearnElasticsearch\LearnElasticsearch\Program.cs:行号 290
+   在 DotnetSpider.Core.Spider.<>c__DisplayClass162_1.<HandleRequest>b__0()
+   在 Polly.Policy.<>c__DisplayClass109_0.<Execute>b__0(Context ctx, CancellationToken ct) 位置 C:\projects\polly\src\Polly.Shared\Policy.cs:行号 41
+   在 Polly.RetrySyntax.<>c__DisplayClass5_1.<Retry>b__1(Context ctx, CancellationToken ct) 位置 C:\projects\polly\src\Polly.Shared\Retry\RetrySyntax.cs:行号 98
+   在 Polly.Retry.RetryEngine.Implementation[TResult](Func`3 action, Context context, CancellationToken cancellationToken, IEnumerable`1 shouldRetryExceptionPredicates, IEnumerable`1 shouldRetryResultPredicates, Func`1 policyStateFactory) 位置 C:\projects\polly\src\Polly.Shared\Retry\RetryEngine.cs:行号 31
+ClientConnectionId:41d0d811-b730-45dc-b359-39b528f79e41
+Error Number:8152,State:2,Class:16
+[20181128 16:30:49][fd802b58853941f6b2934099bc94a4de][Info] Build internal component...
+[20181128 16:30:49][fd802b58853941f6b2934099bc94a4de][Info] Add start urls to scheduler, count 910.
+[20181128 16:30:49][fd802b58853941f6b2934099bc94a4de][Trace] Left 910 Success 0 Error 0 Total 910 Dowload 0 Extract 0 Pipeline 0
+[20181128 16:30:50][fd802b58853941f6b2934099bc94a4de][Info] Crawl: https://zz.lianjia.com/ershoufang/104100913815.html success.
+[20181128 16:30:50][fd802b58853941f6b2934099bc94a4de][Info] Crawl: https://zz.lianjia.com/ershoufang/104100918351.html success.
+[20181128 16:30:51][fd802b58853941f6b2934099bc94a4de][Info] Crawl: https://zz.lianjia.com/ershoufang/104100938249.html success.
+[20181128 16:30:51][fd802b58853941f6b2934099bc94a4de][Info] Crawl: https://zz.lianjia.com/ershoufang/104100911863.html success.
+[20181128 16:30:51][fd802b58853941f6b2934099bc94a4de][Info] Crawl: https://zz.lianjia.com/ershoufang/104100931919.html success.
+[20181128 16:30:51][fd802b58853941f6b2934099bc94a4de][Info] Crawl: https://zz.lianjia.com/ershoufang/104100941196.html success.
+[20181128 16:30:51][fd802b58853941f6b2934099bc94a4de][Info] Crawl: https://zz.lianjia.com/ershoufang/104100886810.html success.
+[20181128 16:30:51][fd802b58853941f6b2934099bc94a4de][Info] Crawl: https://zz.lianjia.com/ershoufang/104100886530.html success.
+[20181128 16:30:51][System][Error] Execute pipeline failed [1]: System.Data.SqlClient.SqlException (0x80131904): 将截断字符串或二进制数据。
+语句已终止。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 Dos.ORM.Database.DoExecuteNonQuery(DbCommand command)
+   在 Dos.ORM.Database.ExecuteNonQuery(DbCommand command)
+   在 Dos.ORM.DbSession.ExecuteNonQuery(DbCommand cmd)
+   在 Dos.ORM.DbSession.Update[TEntity](TEntity entity, WhereClip where)
+   在 Dos.ORM.DbSession.Update[TEntity](TEntity entity, Expression`1 lambdaWhere)
+   在 LearnElasticsearch.DataBase.DAL.Repository`1.Update(T entity, Expression`1 lambdaWhere) 位置 d:\code\elasticsearch\LearnElasticsearch\LearnElasticsearch\DataModel\DAL\Repository.cs:行号 268
+   在 LearnElasticsearch.Program.HouseDetailsPipe.Process(IEnumerable`1 resultItems, ISpider spider) 位置 d:\code\elasticsearch\LearnElasticsearch\LearnElasticsearch\Program.cs:行号 290
+   在 DotnetSpider.Core.Spider.<>c__DisplayClass162_1.<HandleRequest>b__0()
+   在 Polly.Policy.<>c__DisplayClass109_0.<Execute>b__0(Context ctx, CancellationToken ct) 位置 C:\projects\polly\src\Polly.Shared\Policy.cs:行号 41
+   在 Polly.RetrySyntax.<>c__DisplayClass5_1.<Retry>b__1(Context ctx, CancellationToken ct) 位置 C:\projects\polly\src\Polly.Shared\Retry\RetrySyntax.cs:行号 98
+   在 Polly.Retry.RetryEngine.Implementation[TResult](Func`3 action, Context context, CancellationToken cancellationToken, IEnumerable`1 shouldRetryExceptionPredicates, IEnumerable`1 shouldRetryResultPredicates, Func`1 policyStateFactory) 位置 C:\projects\polly\src\Polly.Shared\Retry\RetryEngine.cs:行号 31
+ClientConnectionId:c9184ab1-6463-4c7a-90fc-188fe42708ee
+Error Number:8152,State:2,Class:16
+[20181128 16:30:51][fd802b58853941f6b2934099bc94a4de][Info] Crawl: https://zz.lianjia.com/ershoufang/104100914918.html success.
+[20181128 16:30:51][System][Error] Execute pipeline failed [2]: System.Data.SqlClient.SqlException (0x80131904): 将截断字符串或二进制数据。
+语句已终止。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 Dos.ORM.Database.DoExecuteNonQuery(DbCommand command)
+   在 Dos.ORM.Database.ExecuteNonQuery(DbCommand command)
+   在 Dos.ORM.DbSession.ExecuteNonQuery(DbCommand cmd)
+   在 Dos.ORM.DbSession.Update[TEntity](TEntity entity, WhereClip where)
+   在 Dos.ORM.DbSession.Update[TEntity](TEntity entity, Expression`1 lambdaWhere)
+   在 LearnElasticsearch.DataBase.DAL.Repository`1.Update(T entity, Expression`1 lambdaWhere) 位置 d:\code\elasticsearch\LearnElasticsearch\LearnElasticsearch\DataModel\DAL\Repository.cs:行号 268
+   在 LearnElasticsearch.Program.HouseDetailsPipe.Process(IEnumerable`1 resultItems, ISpider spider) 位置 d:\code\elasticsearch\LearnElasticsearch\LearnElasticsearch\Program.cs:行号 290
+   在 DotnetSpider.Core.Spider.<>c__DisplayClass162_1.<HandleRequest>b__0()
+   在 Polly.Policy.<>c__DisplayClass109_0.<Execute>b__0(Context ctx, CancellationToken ct) 位置 C:\projects\polly\src\Polly.Shared\Policy.cs:行号 41
+   在 Polly.RetrySyntax.<>c__DisplayClass5_1.<Retry>b__1(Context ctx, CancellationToken ct) 位置 C:\projects\polly\src\Polly.Shared\Retry\RetrySyntax.cs:行号 98
+   在 Polly.Retry.RetryEngine.Implementation[TResult](Func`3 action, Context context, CancellationToken cancellationToken, IEnumerable`1 shouldRetryExceptionPredicates, IEnumerable`1 shouldRetryResultPredicates, Func`1 policyStateFactory) 位置 C:\projects\polly\src\Polly.Shared\Retry\RetryEngine.cs:行号 31
+ClientConnectionId:c9184ab1-6463-4c7a-90fc-188fe42708ee
+Error Number:8152,State:2,Class:16
+[20181128 16:52:02][9ebf947db58344d29933220498752008][Info] Build internal component...
+[20181128 16:52:02][9ebf947db58344d29933220498752008][Info] Add start urls to scheduler, count 103.
+[20181128 16:52:02][9ebf947db58344d29933220498752008][Trace] Left 103 Success 0 Error 0 Total 103 Dowload 0 Extract 0 Pipeline 0
+[20181128 16:52:04][9ebf947db58344d29933220498752008][Info] Crawl: https://zz.lianjia.com/ershoufang/104101552780.html success.
+[20181128 16:52:04][9ebf947db58344d29933220498752008][Info] Crawl: https://zz.lianjia.com/ershoufang/104100997624.html success.
+[20181128 16:52:04][9ebf947db58344d29933220498752008][Info] Crawl: https://zz.lianjia.com/ershoufang/104100769281.html success.
+[20181128 16:52:04][9ebf947db58344d29933220498752008][Info] Crawl: https://zz.lianjia.com/ershoufang/104101558496.html success.
+[20181128 16:52:04][9ebf947db58344d29933220498752008][Info] Crawl: https://zz.lianjia.com/ershoufang/104101509743.html success.
+[20181128 16:52:04][9ebf947db58344d29933220498752008][Info] Crawl: https://zz.lianjia.com/ershoufang/104100774313.html success.
+[20181128 16:52:05][9ebf947db58344d29933220498752008][Info] Crawl: https://zz.lianjia.com/ershoufang/104100527096.html success.
+[20181128 16:52:05][9ebf947db58344d29933220498752008][Info] Crawl: https://zz.lianjia.com/ershoufang/104100961167.html success.
+[20181128 16:52:05][9ebf947db58344d29933220498752008][Info] Crawl: https://zz.lianjia.com/ershoufang/104100919921.html success.
+[20181128 16:52:05][9ebf947db58344d29933220498752008][Info] Crawl: https://zz.lianjia.com/ershoufang/104100707044.html success.
+[20181128 16:52:05][9ebf947db58344d29933220498752008][Trace] Left 84 Success 10 Error 0 Total 103 Dowload 2064 Extract 374 Pipeline 428
+[20181128 16:52:06][9ebf947db58344d29933220498752008][Info] Crawl: https://zz.lianjia.com/ershoufang/104101557115.html success.
+[20181128 16:52:07][9ebf947db58344d29933220498752008][Info] Crawl: https://zz.lianjia.com/ershoufang/104101531538.html success.
+[20181128 16:52:07][9ebf947db58344d29933220498752008][Info] Crawl: https://zz.lianjia.com/ershoufang/104101166888.html success.
+[20181128 16:52:07][9ebf947db58344d29933220498752008][Info] Crawl: https://zz.lianjia.com/ershoufang/104101104657.html success.
+[20181128 16:52:07][9ebf947db58344d29933220498752008][Info] Crawl: https://zz.lianjia.com/ershoufang/104100942418.html success.
+[20181128 16:52:07][9ebf947db58344d29933220498752008][Info] Crawl: https://zz.lianjia.com/ershoufang/104100720701.html success.
+[20181128 16:52:07][9ebf947db58344d29933220498752008][Info] Crawl: https://zz.lianjia.com/ershoufang/104100604402.html success.
+[20181128 16:52:07][9ebf947db58344d29933220498752008][Info] Crawl: https://zz.lianjia.com/ershoufang/104101129614.html success.
+[20181128 16:52:07][9ebf947db58344d29933220498752008][Info] Crawl: https://zz.lianjia.com/ershoufang/104101513786.html success.
+[20181128 16:52:07][9ebf947db58344d29933220498752008][Info] Crawl: https://zz.lianjia.com/ershoufang/104101009624.html success.
+[20181128 16:52:07][9ebf947db58344d29933220498752008][Trace] Left 74 Success 20 Error 0 Total 103 Dowload 1511 Extract 381 Pipeline 60
+[20181128 16:52:07][9ebf947db58344d29933220498752008][Info] Crawl: https://zz.lianjia.com/ershoufang/104101101473.html success.
+[20181128 16:52:08][9ebf947db58344d29933220498752008][Info] Crawl: https://zz.lianjia.com/ershoufang/104100906686.html success.
+[20181128 16:52:08][9ebf947db58344d29933220498752008][Info] Crawl: https://zz.lianjia.com/ershoufang/104100890698.html success.
+[20181128 16:52:08][9ebf947db58344d29933220498752008][Info] Crawl: https://zz.lianjia.com/ershoufang/104101089791.html success.
+[20181128 16:52:08][9ebf947db58344d29933220498752008][Info] Crawl: https://zz.lianjia.com/ershoufang/104100873122.html success.
+[20181128 16:52:08][9ebf947db58344d29933220498752008][Info] Crawl: https://zz.lianjia.com/ershoufang/104101201859.html success.
+[20181128 16:52:09][9ebf947db58344d29933220498752008][Info] Crawl: https://zz.lianjia.com/ershoufang/104100806367.html success.
+[20181128 16:52:09][9ebf947db58344d29933220498752008][Info] Crawl: https://zz.lianjia.com/ershoufang/104100607851.html success.
+[20181128 16:52:09][9ebf947db58344d29933220498752008][Info] Crawl: https://zz.lianjia.com/ershoufang/104100985539.html success.
+[20181128 16:52:09][9ebf947db58344d29933220498752008][Info] Crawl: https://zz.lianjia.com/ershoufang/104100834158.html success.
+[20181128 16:52:09][9ebf947db58344d29933220498752008][Trace] Left 64 Success 30 Error 0 Total 103 Dowload 1282 Extract 359 Pipeline 281
+[20181128 16:52:09][9ebf947db58344d29933220498752008][Info] Crawl: https://zz.lianjia.com/ershoufang/104101464895.html success.
+[20181128 16:52:09][9ebf947db58344d29933220498752008][Info] Crawl: https://zz.lianjia.com/ershoufang/104100967946.html success.
+[20181128 16:52:10][9ebf947db58344d29933220498752008][Info] Crawl: https://zz.lianjia.com/ershoufang/104101299037.html success.
+[20181128 16:52:10][9ebf947db58344d29933220498752008][Info] Crawl: https://zz.lianjia.com/ershoufang/104101119883.html success.
+[20181128 16:52:10][9ebf947db58344d29933220498752008][Info] Crawl: https://zz.lianjia.com/ershoufang/104101009410.html success.
+[20181128 16:52:10][9ebf947db58344d29933220498752008][Info] Crawl: https://zz.lianjia.com/ershoufang/104101520176.html success.
+[20181128 16:52:11][9ebf947db58344d29933220498752008][Info] Crawl: https://zz.lianjia.com/ershoufang/104101100262.html success.
+[20181128 16:52:11][9ebf947db58344d29933220498752008][Info] Crawl: https://zz.lianjia.com/ershoufang/104101543040.html success.
+[20181128 16:52:11][9ebf947db58344d29933220498752008][Info] Crawl: https://zz.lianjia.com/ershoufang/104100729533.html success.
+[20181128 16:52:11][9ebf947db58344d29933220498752008][Info] Crawl: https://zz.lianjia.com/ershoufang/104100716624.html success.
+[20181128 16:52:11][9ebf947db58344d29933220498752008][Info] Crawl: https://zz.lianjia.com/ershoufang/104100709020.html success.
+[20181128 16:52:11][9ebf947db58344d29933220498752008][Trace] Left 54 Success 41 Error 0 Total 103 Dowload 1173 Extract 213 Pipeline 287
+[20181128 16:52:11][9ebf947db58344d29933220498752008][Info] Crawl: https://zz.lianjia.com/ershoufang/104100662654.html success.
+[20181128 16:52:12][9ebf947db58344d29933220498752008][Info] Crawl: https://zz.lianjia.com/ershoufang/104100604661.html success.
+[20181128 16:52:12][9ebf947db58344d29933220498752008][Info] Crawl: https://zz.lianjia.com/ershoufang/104100884918.html success.
+[20181128 16:52:12][9ebf947db58344d29933220498752008][Info] Crawl: https://zz.lianjia.com/ershoufang/104100606614.html success.
+[20181128 16:52:13][9ebf947db58344d29933220498752008][Info] Crawl: https://zz.lianjia.com/ershoufang/104100924121.html success.
+[20181128 16:52:13][9ebf947db58344d29933220498752008][Info] Crawl: https://zz.lianjia.com/ershoufang/104100712004.html success.
+[20181128 16:52:13][9ebf947db58344d29933220498752008][Info] Crawl: https://zz.lianjia.com/ershoufang/104100903684.html success.
+[20181128 16:52:13][9ebf947db58344d29933220498752008][Info] Crawl: https://zz.lianjia.com/ershoufang/104101450462.html success.
+[20181128 16:52:13][9ebf947db58344d29933220498752008][Info] Crawl: https://zz.lianjia.com/ershoufang/104101153753.html success.
+[20181128 16:52:13][9ebf947db58344d29933220498752008][Info] Crawl: https://zz.lianjia.com/ershoufang/104100821534.html success.
+[20181128 16:52:13][9ebf947db58344d29933220498752008][Info] Crawl: https://zz.lianjia.com/ershoufang/104100886282.html success.
+[20181128 16:52:13][9ebf947db58344d29933220498752008][Trace] Left 44 Success 52 Error 0 Total 103 Dowload 1324 Extract 279 Pipeline 100
+[20181128 16:52:13][9ebf947db58344d29933220498752008][Info] Crawl: https://zz.lianjia.com/ershoufang/104100728195.html success.
+[20181128 16:52:14][9ebf947db58344d29933220498752008][Info] Crawl: https://zz.lianjia.com/ershoufang/104100882151.html success.
+[20181128 16:52:14][9ebf947db58344d29933220498752008][Info] Crawl: https://zz.lianjia.com/ershoufang/104100878924.html success.
+[20181128 16:52:14][9ebf947db58344d29933220498752008][Info] Crawl: https://zz.lianjia.com/ershoufang/104100700730.html success.
+[20181128 16:52:14][9ebf947db58344d29933220498752008][Info] Crawl: https://zz.lianjia.com/ershoufang/104100819119.html success.
+[20181128 16:52:14][9ebf947db58344d29933220498752008][Info] Crawl: https://zz.lianjia.com/ershoufang/104101491468.html success.
+[20181128 16:52:14][9ebf947db58344d29933220498752008][Info] Crawl: https://zz.lianjia.com/ershoufang/104100822454.html success.
+[20181128 16:52:14][9ebf947db58344d29933220498752008][Info] Crawl: https://zz.lianjia.com/ershoufang/104100746743.html success.
+[20181128 16:52:14][9ebf947db58344d29933220498752008][Info] Crawl: https://zz.lianjia.com/ershoufang/104100774223.html success.
+[20181128 16:52:15][9ebf947db58344d29933220498752008][Trace] Left 34 Success 61 Error 0 Total 103 Dowload 1253 Extract 169 Pipeline 74
+[20181128 16:52:15][9ebf947db58344d29933220498752008][Info] Crawl: https://zz.lianjia.com/ershoufang/104100808890.html success.
+[20181128 16:52:16][9ebf947db58344d29933220498752008][Info] Crawl: https://zz.lianjia.com/ershoufang/104100862310.html success.
+[20181128 16:52:16][9ebf947db58344d29933220498752008][Info] Crawl: https://zz.lianjia.com/ershoufang/104100645168.html success.
+[20181128 16:52:16][9ebf947db58344d29933220498752008][Info] Crawl: https://zz.lianjia.com/ershoufang/104101478738.html success.
+[20181128 16:52:16][9ebf947db58344d29933220498752008][Info] Crawl: https://zz.lianjia.com/ershoufang/104100897263.html success.
+[20181128 16:52:16][9ebf947db58344d29933220498752008][Info] Crawl: https://zz.lianjia.com/ershoufang/104101014130.html success.
+[20181128 16:52:16][9ebf947db58344d29933220498752008][Info] Crawl: https://zz.lianjia.com/ershoufang/104101075878.html success.
+[20181128 16:52:16][9ebf947db58344d29933220498752008][Info] Crawl: https://zz.lianjia.com/ershoufang/104100999057.html success.
+[20181128 16:52:16][9ebf947db58344d29933220498752008][Info] Crawl: https://zz.lianjia.com/ershoufang/104101069603.html success.
+[20181128 16:52:16][9ebf947db58344d29933220498752008][Info] Crawl: https://zz.lianjia.com/ershoufang/104101064934.html success.
+[20181128 16:52:17][9ebf947db58344d29933220498752008][Trace] Left 24 Success 71 Error 0 Total 103 Dowload 1143 Extract 177 Pipeline 123
+[20181128 16:52:17][9ebf947db58344d29933220498752008][Info] Crawl: https://zz.lianjia.com/ershoufang/104100952975.html success.
+[20181128 16:52:17][9ebf947db58344d29933220498752008][Info] Crawl: https://zz.lianjia.com/ershoufang/104100913815.html success.
+[20181128 16:52:18][9ebf947db58344d29933220498752008][Warn] Download https://zz.lianjia.com/ershoufang/104100862372.html failed: 已取消一个任务。.
+[20181128 16:52:18][9ebf947db58344d29933220498752008][Info] Crawl: https://zz.lianjia.com/ershoufang/104101032331.html success.
+[20181128 16:52:18][9ebf947db58344d29933220498752008][Info] Crawl: https://zz.lianjia.com/ershoufang/104101006887.html success.
+[20181128 16:52:18][9ebf947db58344d29933220498752008][Info] Crawl: https://zz.lianjia.com/ershoufang/104101102322.html success.
+[20181128 16:52:18][9ebf947db58344d29933220498752008][Info] Crawl: https://zz.lianjia.com/ershoufang/104101029528.html success.
+[20181128 16:52:18][9ebf947db58344d29933220498752008][Info] Crawl: https://zz.lianjia.com/ershoufang/104101054559.html success.
+[20181128 16:52:18][9ebf947db58344d29933220498752008][Info] Crawl: https://zz.lianjia.com/ershoufang/104100923579.html success.
+[20181128 16:52:18][9ebf947db58344d29933220498752008][Info] Crawl: https://zz.lianjia.com/ershoufang/104101084142.html success.
+[20181128 16:52:19][9ebf947db58344d29933220498752008][Trace] Left 15 Success 80 Error 1 Total 103 Dowload 1486 Extract 210 Pipeline 130
+[20181128 16:52:19][9ebf947db58344d29933220498752008][Info] Crawl: https://zz.lianjia.com/ershoufang/104101156477.html success.
+[20181128 16:52:19][9ebf947db58344d29933220498752008][Info] Crawl: https://zz.lianjia.com/ershoufang/104101052883.html success.
+[20181128 16:52:20][9ebf947db58344d29933220498752008][Info] Crawl: https://zz.lianjia.com/ershoufang/104101152272.html success.
+[20181128 16:52:20][9ebf947db58344d29933220498752008][Info] Crawl: https://zz.lianjia.com/ershoufang/104101123465.html success.
+[20181128 16:52:20][9ebf947db58344d29933220498752008][Info] Crawl: https://zz.lianjia.com/ershoufang/104100862372.html success.
+[20181128 16:52:20][9ebf947db58344d29933220498752008][Info] Crawl: https://zz.lianjia.com/ershoufang/104101199014.html success.
+[20181128 16:52:20][9ebf947db58344d29933220498752008][Info] Crawl: https://zz.lianjia.com/ershoufang/104101167734.html success.
+[20181128 16:52:20][9ebf947db58344d29933220498752008][Info] Crawl: https://zz.lianjia.com/ershoufang/104101198255.html success.
+[20181128 16:52:20][9ebf947db58344d29933220498752008][Info] Crawl: https://zz.lianjia.com/ershoufang/104101448972.html success.
+[20181128 16:52:20][9ebf947db58344d29933220498752008][Info] Crawl: https://zz.lianjia.com/ershoufang/104101190619.html success.
+[20181128 16:52:21][9ebf947db58344d29933220498752008][Trace] Left 5 Success 90 Error 1 Total 103 Dowload 1339 Extract 297 Pipeline 161
+[20181128 16:52:21][9ebf947db58344d29933220498752008][Info] Crawl: https://zz.lianjia.com/ershoufang/104101096776.html success.
+[20181128 16:52:21][9ebf947db58344d29933220498752008][Info] Crawl: https://zz.lianjia.com/ershoufang/104101369174.html success.
+[20181128 16:52:21][9ebf947db58344d29933220498752008][Info] Crawl: https://zz.lianjia.com/ershoufang/104100874781.html success.
+[20181128 16:52:21][9ebf947db58344d29933220498752008][Info] Crawl: https://zz.lianjia.com/ershoufang/104100805845.html success.
+[20181128 16:52:22][9ebf947db58344d29933220498752008][Info] Crawl: https://zz.lianjia.com/ershoufang/104100877512.html success.
+[20181128 16:52:22][9ebf947db58344d29933220498752008][Info] Crawl: https://zz.lianjia.com/ershoufang/104100914220.html success.
+[20181128 16:52:22][9ebf947db58344d29933220498752008][Info] Crawl: https://zz.lianjia.com/ershoufang/104101063852.html success.
+[20181128 16:52:22][9ebf947db58344d29933220498752008][Info] Crawl: https://zz.lianjia.com/ershoufang/104101012915.html success.
+[20181128 16:52:22][9ebf947db58344d29933220498752008][Info] Crawl: https://zz.lianjia.com/ershoufang/104101152521.html success.
+[20181128 16:52:22][9ebf947db58344d29933220498752008][Info] Crawl: https://zz.lianjia.com/ershoufang/104100841229.html success.
+[20181128 16:52:22][9ebf947db58344d29933220498752008][Trace] Left 0 Success 100 Error 1 Total 103 Dowload 1002 Extract 187 Pipeline 57
+[20181128 16:52:22][9ebf947db58344d29933220498752008][Info] Crawl: https://zz.lianjia.com/ershoufang/104101199947.html success.
+[20181128 16:52:22][9ebf947db58344d29933220498752008][Info] Crawl: https://zz.lianjia.com/ershoufang/104101401083.html success.
+[20181128 16:52:23][9ebf947db58344d29933220498752008][Info] Crawl: https://zz.lianjia.com/ershoufang/104100888835.html success.
+[20181128 16:52:37][9ebf947db58344d29933220498752008][Trace] Left 0 Success 103 Error 1 Total 103 Dowload 1015 Extract 109 Pipeline 93
+[20181128 16:52:37][9ebf947db58344d29933220498752008][Info] Crawl complete, cost: 34.9079966 seconds.

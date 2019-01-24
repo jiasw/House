@@ -1,0 +1,108 @@
+[20180525 10:46:06][ddd1063eaf1c46b5bd2acc177969dba9][Info] Build internal component...
+[20180525 10:46:06][ddd1063eaf1c46b5bd2acc177969dba9][Info] Add start urls to scheduler, count 45.
+[20180525 10:46:06][ddd1063eaf1c46b5bd2acc177969dba9][Trace] Left 45 Success 0 Error 0 Total 45 Dowload 0 Extract 0 Pipeline 0
+[20180525 10:46:12][ddd1063eaf1c46b5bd2acc177969dba9][Info] Crawl: https://store.mall.autohome.com.cn/shop/ajaxsitemodlecontext.jtml success.
+[20180525 10:46:24][ddd1063eaf1c46b5bd2acc177969dba9][Info] Crawl: https://store.mall.autohome.com.cn/shop/ajaxsitemodlecontext.jtml success.
+[20180525 10:46:25][ddd1063eaf1c46b5bd2acc177969dba9][Info] Crawl: https://store.mall.autohome.com.cn/shop/ajaxsitemodlecontext.jtml success.
+[20180525 10:46:26][ddd1063eaf1c46b5bd2acc177969dba9][Info] Crawl: https://store.mall.autohome.com.cn/shop/ajaxsitemodlecontext.jtml success.
+[20180525 10:46:26][ddd1063eaf1c46b5bd2acc177969dba9][Info] Crawl: https://store.mall.autohome.com.cn/shop/ajaxsitemodlecontext.jtml success.
+[20180525 10:46:26][ddd1063eaf1c46b5bd2acc177969dba9][Info] Crawl: https://store.mall.autohome.com.cn/shop/ajaxsitemodlecontext.jtml success.
+[20180525 10:46:26][ddd1063eaf1c46b5bd2acc177969dba9][Info] Crawl: https://store.mall.autohome.com.cn/shop/ajaxsitemodlecontext.jtml success.
+[20180525 10:46:27][ddd1063eaf1c46b5bd2acc177969dba9][Info] Crawl: https://store.mall.autohome.com.cn/shop/ajaxsitemodlecontext.jtml success.
+[20180525 10:46:27][ddd1063eaf1c46b5bd2acc177969dba9][Info] Crawl: https://store.mall.autohome.com.cn/shop/ajaxsitemodlecontext.jtml success.
+[20180525 10:46:27][ddd1063eaf1c46b5bd2acc177969dba9][Info] Crawl: https://store.mall.autohome.com.cn/shop/ajaxsitemodlecontext.jtml success.
+[20180525 10:46:27][ddd1063eaf1c46b5bd2acc177969dba9][Info] Crawl: https://store.mall.autohome.com.cn/shop/ajaxsitemodlecontext.jtml success.
+[20180525 10:46:27][ddd1063eaf1c46b5bd2acc177969dba9][Info] Crawl: https://store.mall.autohome.com.cn/shop/ajaxsitemodlecontext.jtml success.
+[20180525 10:46:27][ddd1063eaf1c46b5bd2acc177969dba9][Trace] Left 21 Success 12 Error 0 Total 45 Dowload 133 Extract 917 Pipeline 14135
+[20180525 10:46:27][ddd1063eaf1c46b5bd2acc177969dba9][Info] Crawl: https://store.mall.autohome.com.cn/shop/ajaxsitemodlecontext.jtml success.
+[20180525 10:46:27][ddd1063eaf1c46b5bd2acc177969dba9][Info] Crawl: https://store.mall.autohome.com.cn/shop/ajaxsitemodlecontext.jtml success.
+[20180525 10:46:27][ddd1063eaf1c46b5bd2acc177969dba9][Info] Crawl: https://store.mall.autohome.com.cn/shop/ajaxsitemodlecontext.jtml success.
+[20180525 10:46:28][ddd1063eaf1c46b5bd2acc177969dba9][Info] Crawl: https://store.mall.autohome.com.cn/shop/ajaxsitemodlecontext.jtml success.
+[20180525 10:46:36][ddd1063eaf1c46b5bd2acc177969dba9][Info] Crawl: https://store.mall.autohome.com.cn/shop/ajaxsitemodlecontext.jtml success.
+[20180525 10:46:36][ddd1063eaf1c46b5bd2acc177969dba9][Info] Crawl: https://store.mall.autohome.com.cn/shop/ajaxsitemodlecontext.jtml success.
+[20180525 10:46:40][ddd1063eaf1c46b5bd2acc177969dba9][Info] Crawl: https://store.mall.autohome.com.cn/shop/ajaxsitemodlecontext.jtml success.
+[20180525 10:46:40][ddd1063eaf1c46b5bd2acc177969dba9][Info] Crawl: https://store.mall.autohome.com.cn/shop/ajaxsitemodlecontext.jtml success.
+[20180525 10:46:40][ddd1063eaf1c46b5bd2acc177969dba9][Trace] Left 11 Success 20 Error 0 Total 45 Dowload 120 Extract 894 Pipeline 11849
+[20180525 10:46:41][ddd1063eaf1c46b5bd2acc177969dba9][Info] Crawl: https://store.mall.autohome.com.cn/shop/ajaxsitemodlecontext.jtml success.
+[20180525 10:46:41][ddd1063eaf1c46b5bd2acc177969dba9][Info] Crawl: https://store.mall.autohome.com.cn/shop/ajaxsitemodlecontext.jtml success.
+[20180525 10:46:41][ddd1063eaf1c46b5bd2acc177969dba9][Info] Crawl: https://store.mall.autohome.com.cn/shop/ajaxsitemodlecontext.jtml success.
+[20180525 10:46:41][ddd1063eaf1c46b5bd2acc177969dba9][Info] Crawl: https://store.mall.autohome.com.cn/shop/ajaxsitemodlecontext.jtml success.
+[20180525 10:46:42][ddd1063eaf1c46b5bd2acc177969dba9][Info] Crawl: https://store.mall.autohome.com.cn/shop/ajaxsitemodlecontext.jtml success.
+[20180525 10:46:42][ddd1063eaf1c46b5bd2acc177969dba9][Info] Crawl: https://store.mall.autohome.com.cn/shop/ajaxsitemodlecontext.jtml success.
+[20180525 10:46:42][ddd1063eaf1c46b5bd2acc177969dba9][Info] Crawl: https://store.mall.autohome.com.cn/shop/ajaxsitemodlecontext.jtml success.
+[20180525 10:46:42][ddd1063eaf1c46b5bd2acc177969dba9][Info] Crawl: https://store.mall.autohome.com.cn/shop/ajaxsitemodlecontext.jtml success.
+[20180525 10:46:43][ddd1063eaf1c46b5bd2acc177969dba9][Info] Crawl: https://store.mall.autohome.com.cn/shop/ajaxsitemodlecontext.jtml success.
+[20180525 10:46:43][ddd1063eaf1c46b5bd2acc177969dba9][Info] Crawl: https://store.mall.autohome.com.cn/shop/ajaxsitemodlecontext.jtml success.
+[20180525 10:46:43][ddd1063eaf1c46b5bd2acc177969dba9][Trace] Left 1 Success 30 Error 0 Total 45 Dowload 127 Extract 823 Pipeline 12380
+[20180525 10:46:44][ddd1063eaf1c46b5bd2acc177969dba9][Info] Crawl: https://store.mall.autohome.com.cn/shop/ajaxsitemodlecontext.jtml success.
+[20180525 10:46:45][ddd1063eaf1c46b5bd2acc177969dba9][Info] Crawl: https://store.mall.autohome.com.cn/shop/ajaxsitemodlecontext.jtml success.
+[20180525 10:46:47][ddd1063eaf1c46b5bd2acc177969dba9][Info] Crawl: https://store.mall.autohome.com.cn/shop/ajaxsitemodlecontext.jtml success.
+[20180525 10:46:51][ddd1063eaf1c46b5bd2acc177969dba9][Info] Crawl: https://store.mall.autohome.com.cn/shop/ajaxsitemodlecontext.jtml success.
+[20180525 10:46:51][ddd1063eaf1c46b5bd2acc177969dba9][Info] Crawl: https://store.mall.autohome.com.cn/shop/ajaxsitemodlecontext.jtml success.
+[20180525 10:46:52][ddd1063eaf1c46b5bd2acc177969dba9][Info] Crawl: https://store.mall.autohome.com.cn/shop/ajaxsitemodlecontext.jtml success.
+[20180525 10:46:52][ddd1063eaf1c46b5bd2acc177969dba9][Info] Crawl: https://store.mall.autohome.com.cn/shop/ajaxsitemodlecontext.jtml success.
+[20180525 10:46:52][ddd1063eaf1c46b5bd2acc177969dba9][Info] Crawl: https://store.mall.autohome.com.cn/shop/ajaxsitemodlecontext.jtml success.
+[20180525 10:46:52][ddd1063eaf1c46b5bd2acc177969dba9][Info] Crawl: https://store.mall.autohome.com.cn/shop/ajaxsitemodlecontext.jtml success.
+[20180525 10:46:52][ddd1063eaf1c46b5bd2acc177969dba9][Info] Crawl: https://store.mall.autohome.com.cn/shop/ajaxsitemodlecontext.jtml success.
+[20180525 10:46:52][ddd1063eaf1c46b5bd2acc177969dba9][Trace] Left 0 Success 40 Error 0 Total 45 Dowload 111 Extract 987 Pipeline 9814
+[20180525 10:46:52][ddd1063eaf1c46b5bd2acc177969dba9][Info] Crawl: https://store.mall.autohome.com.cn/shop/ajaxsitemodlecontext.jtml success.
+[20180525 10:46:53][ddd1063eaf1c46b5bd2acc177969dba9][Info] Crawl: https://store.mall.autohome.com.cn/shop/ajaxsitemodlecontext.jtml success.
+[20180525 10:46:53][ddd1063eaf1c46b5bd2acc177969dba9][Info] Crawl: https://store.mall.autohome.com.cn/shop/ajaxsitemodlecontext.jtml success.
+[20180525 10:46:53][ddd1063eaf1c46b5bd2acc177969dba9][Info] Crawl: https://store.mall.autohome.com.cn/shop/ajaxsitemodlecontext.jtml success.
+[20180525 10:46:53][ddd1063eaf1c46b5bd2acc177969dba9][Info] Crawl: https://store.mall.autohome.com.cn/shop/ajaxsitemodlecontext.jtml success.
+[20180525 10:47:00][ddd1063eaf1c46b5bd2acc177969dba9][Trace] Left 0 Success 45 Error 0 Total 45 Dowload 111 Extract 987 Pipeline 8790
+[20180525 10:47:00][ddd1063eaf1c46b5bd2acc177969dba9][Info] Crawl complete, cost: 53.2000429 seconds.
+[20180525 10:49:52][77eaa1fda6574452b3c5941dce5a2c06][Info] Build internal component...
+[20180525 10:49:52][77eaa1fda6574452b3c5941dce5a2c06][Info] Add start urls to scheduler, count 45.
+[20180525 10:49:52][77eaa1fda6574452b3c5941dce5a2c06][Trace] Left 45 Success 0 Error 0 Total 45 Dowload 0 Extract 0 Pipeline 0
+[20180525 10:49:56][77eaa1fda6574452b3c5941dce5a2c06][Info] Crawl: https://store.mall.autohome.com.cn/shop/ajaxsitemodlecontext.jtml success.
+[20180525 10:50:06][77eaa1fda6574452b3c5941dce5a2c06][Info] Crawl: https://store.mall.autohome.com.cn/shop/ajaxsitemodlecontext.jtml success.
+[20180525 10:50:08][77eaa1fda6574452b3c5941dce5a2c06][Info] Crawl: https://store.mall.autohome.com.cn/shop/ajaxsitemodlecontext.jtml success.
+[20180525 10:50:08][77eaa1fda6574452b3c5941dce5a2c06][Info] Crawl: https://store.mall.autohome.com.cn/shop/ajaxsitemodlecontext.jtml success.
+[20180525 10:50:08][77eaa1fda6574452b3c5941dce5a2c06][Info] Crawl: https://store.mall.autohome.com.cn/shop/ajaxsitemodlecontext.jtml success.
+[20180525 10:50:08][77eaa1fda6574452b3c5941dce5a2c06][Info] Crawl: https://store.mall.autohome.com.cn/shop/ajaxsitemodlecontext.jtml success.
+[20180525 10:50:09][77eaa1fda6574452b3c5941dce5a2c06][Info] Crawl: https://store.mall.autohome.com.cn/shop/ajaxsitemodlecontext.jtml success.
+[20180525 10:50:09][77eaa1fda6574452b3c5941dce5a2c06][Info] Crawl: https://store.mall.autohome.com.cn/shop/ajaxsitemodlecontext.jtml success.
+[20180525 10:50:09][77eaa1fda6574452b3c5941dce5a2c06][Info] Crawl: https://store.mall.autohome.com.cn/shop/ajaxsitemodlecontext.jtml success.
+[20180525 10:50:09][77eaa1fda6574452b3c5941dce5a2c06][Info] Crawl: https://store.mall.autohome.com.cn/shop/ajaxsitemodlecontext.jtml success.
+[20180525 10:50:09][77eaa1fda6574452b3c5941dce5a2c06][Info] Crawl: https://store.mall.autohome.com.cn/shop/ajaxsitemodlecontext.jtml success.
+[20180525 10:50:09][77eaa1fda6574452b3c5941dce5a2c06][Info] Crawl: https://store.mall.autohome.com.cn/shop/ajaxsitemodlecontext.jtml success.
+[20180525 10:50:09][77eaa1fda6574452b3c5941dce5a2c06][Info] Crawl: https://store.mall.autohome.com.cn/shop/ajaxsitemodlecontext.jtml success.
+[20180525 10:50:09][77eaa1fda6574452b3c5941dce5a2c06][Trace] Left 21 Success 13 Error 0 Total 45 Dowload 96 Extract 818 Pipeline 12799
+[20180525 10:50:09][77eaa1fda6574452b3c5941dce5a2c06][Info] Crawl: https://store.mall.autohome.com.cn/shop/ajaxsitemodlecontext.jtml success.
+[20180525 10:50:09][77eaa1fda6574452b3c5941dce5a2c06][Info] Crawl: https://store.mall.autohome.com.cn/shop/ajaxsitemodlecontext.jtml success.
+[20180525 10:50:10][77eaa1fda6574452b3c5941dce5a2c06][Info] Crawl: https://store.mall.autohome.com.cn/shop/ajaxsitemodlecontext.jtml success.
+[20180525 10:50:13][77eaa1fda6574452b3c5941dce5a2c06][Info] Crawl: https://store.mall.autohome.com.cn/shop/ajaxsitemodlecontext.jtml success.
+[20180525 10:50:13][77eaa1fda6574452b3c5941dce5a2c06][Info] Crawl: https://store.mall.autohome.com.cn/shop/ajaxsitemodlecontext.jtml success.
+[20180525 10:50:16][77eaa1fda6574452b3c5941dce5a2c06][Info] Crawl: https://store.mall.autohome.com.cn/shop/ajaxsitemodlecontext.jtml success.
+[20180525 10:50:19][77eaa1fda6574452b3c5941dce5a2c06][Info] Crawl: https://store.mall.autohome.com.cn/shop/ajaxsitemodlecontext.jtml success.
+[20180525 10:50:19][77eaa1fda6574452b3c5941dce5a2c06][Trace] Left 11 Success 20 Error 0 Total 45 Dowload 139 Extract 659 Pipeline 7141
+[20180525 10:50:20][77eaa1fda6574452b3c5941dce5a2c06][Info] Crawl: https://store.mall.autohome.com.cn/shop/ajaxsitemodlecontext.jtml success.
+[20180525 10:50:20][77eaa1fda6574452b3c5941dce5a2c06][Info] Crawl: https://store.mall.autohome.com.cn/shop/ajaxsitemodlecontext.jtml success.
+[20180525 10:50:20][77eaa1fda6574452b3c5941dce5a2c06][Info] Crawl: https://store.mall.autohome.com.cn/shop/ajaxsitemodlecontext.jtml success.
+[20180525 10:50:20][77eaa1fda6574452b3c5941dce5a2c06][Info] Crawl: https://store.mall.autohome.com.cn/shop/ajaxsitemodlecontext.jtml success.
+[20180525 10:50:20][77eaa1fda6574452b3c5941dce5a2c06][Info] Crawl: https://store.mall.autohome.com.cn/shop/ajaxsitemodlecontext.jtml success.
+[20180525 10:50:21][77eaa1fda6574452b3c5941dce5a2c06][Info] Crawl: https://store.mall.autohome.com.cn/shop/ajaxsitemodlecontext.jtml success.
+[20180525 10:50:21][77eaa1fda6574452b3c5941dce5a2c06][Info] Crawl: https://store.mall.autohome.com.cn/shop/ajaxsitemodlecontext.jtml success.
+[20180525 10:50:21][77eaa1fda6574452b3c5941dce5a2c06][Info] Crawl: https://store.mall.autohome.com.cn/shop/ajaxsitemodlecontext.jtml success.
+[20180525 10:50:21][77eaa1fda6574452b3c5941dce5a2c06][Info] Crawl: https://store.mall.autohome.com.cn/shop/ajaxsitemodlecontext.jtml success.
+[20180525 10:50:21][77eaa1fda6574452b3c5941dce5a2c06][Info] Crawl: https://store.mall.autohome.com.cn/shop/ajaxsitemodlecontext.jtml success.
+[20180525 10:50:21][77eaa1fda6574452b3c5941dce5a2c06][Info] Crawl: https://store.mall.autohome.com.cn/shop/ajaxsitemodlecontext.jtml success.
+[20180525 10:50:21][77eaa1fda6574452b3c5941dce5a2c06][Trace] Left 1 Success 31 Error 0 Total 45 Dowload 157 Extract 600 Pipeline 8631
+[20180525 10:50:22][77eaa1fda6574452b3c5941dce5a2c06][Info] Crawl: https://store.mall.autohome.com.cn/shop/ajaxsitemodlecontext.jtml success.
+[20180525 10:50:22][77eaa1fda6574452b3c5941dce5a2c06][Info] Crawl: https://store.mall.autohome.com.cn/shop/ajaxsitemodlecontext.jtml success.
+[20180525 10:50:23][77eaa1fda6574452b3c5941dce5a2c06][Info] Crawl: https://store.mall.autohome.com.cn/shop/ajaxsitemodlecontext.jtml success.
+[20180525 10:50:26][77eaa1fda6574452b3c5941dce5a2c06][Info] Crawl: https://store.mall.autohome.com.cn/shop/ajaxsitemodlecontext.jtml success.
+[20180525 10:50:27][77eaa1fda6574452b3c5941dce5a2c06][Info] Crawl: https://store.mall.autohome.com.cn/shop/ajaxsitemodlecontext.jtml success.
+[20180525 10:50:27][77eaa1fda6574452b3c5941dce5a2c06][Info] Crawl: https://store.mall.autohome.com.cn/shop/ajaxsitemodlecontext.jtml success.
+[20180525 10:50:28][77eaa1fda6574452b3c5941dce5a2c06][Info] Crawl: https://store.mall.autohome.com.cn/shop/ajaxsitemodlecontext.jtml success.
+[20180525 10:50:28][77eaa1fda6574452b3c5941dce5a2c06][Info] Crawl: https://store.mall.autohome.com.cn/shop/ajaxsitemodlecontext.jtml success.
+[20180525 10:50:29][77eaa1fda6574452b3c5941dce5a2c06][Info] Crawl: https://store.mall.autohome.com.cn/shop/ajaxsitemodlecontext.jtml success.
+[20180525 10:50:29][77eaa1fda6574452b3c5941dce5a2c06][Trace] Left 0 Success 40 Error 0 Total 45 Dowload 151 Extract 1797 Pipeline 5678
+[20180525 10:50:29][77eaa1fda6574452b3c5941dce5a2c06][Info] Crawl: https://store.mall.autohome.com.cn/shop/ajaxsitemodlecontext.jtml success.
+[20180525 10:50:29][77eaa1fda6574452b3c5941dce5a2c06][Info] Crawl: https://store.mall.autohome.com.cn/shop/ajaxsitemodlecontext.jtml success.
+[20180525 10:50:29][77eaa1fda6574452b3c5941dce5a2c06][Info] Crawl: https://store.mall.autohome.com.cn/shop/ajaxsitemodlecontext.jtml success.
+[20180525 10:50:29][77eaa1fda6574452b3c5941dce5a2c06][Info] Crawl: https://store.mall.autohome.com.cn/shop/ajaxsitemodlecontext.jtml success.
+[20180525 10:50:29][77eaa1fda6574452b3c5941dce5a2c06][Info] Crawl: https://store.mall.autohome.com.cn/shop/ajaxsitemodlecontext.jtml success.
+[20180525 10:50:37][77eaa1fda6574452b3c5941dce5a2c06][Trace] Left 0 Success 45 Error 0 Total 45 Dowload 151 Extract 1797 Pipeline 6375
+[20180525 10:50:37][77eaa1fda6574452b3c5941dce5a2c06][Info] Crawl complete, cost: 45.300591 seconds.

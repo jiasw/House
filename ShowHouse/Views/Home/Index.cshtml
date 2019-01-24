@@ -1,0 +1,729 @@
+﻿@{
+    ViewBag.Title = "房源信息";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<section class="content-header">
+    <h1>
+        主页
+        <small>信息概览</small>
+    </h1>
+    <ol class="breadcrumb">
+        <li><a href="#"><i class="fa fa-dashboard"></i> 主页</a></li>
+        <li class="active">汇总</li>
+    </ol>
+</section>
+
+<section class="content">
+    <!-- Small boxes (Stat box) -->
+    <div id="app">
+        <div class="row">
+            <div class="col-lg-4 col-xs-12">
+                <!-- small box -->
+                <div class="small-box bg-aqua">
+                    <div class="inner">
+                        <h3>{{areanum}}</h3>
+
+                        <p>区域数量</p>
+                    </div>
+                    <div class="icon">
+                        <i class="ion ion-bag"></i>
+                    </div>
+                    <a href="#" class="small-box-footer">更多 <i class="fa fa-arrow-circle-right"></i></a>
+                </div>
+            </div>
+            <!-- ./col -->
+            <div class="col-lg-4 col-xs-12">
+                <!-- small box -->
+                <div class="small-box bg-green">
+                    <div class="inner">
+                        <h3>{{communitynum}}</sup></h3>
+
+                        <p>社区数量</p>
+                    </div>
+                    <div class="icon">
+                        <i class="ion ion-stats-bars"></i>
+                    </div>
+                    <a href="#" class="small-box-footer">更多 <i class="fa fa-arrow-circle-right"></i></a>
+                </div>
+            </div>
+            <!-- ./col -->
+            <div class="col-lg-4 col-xs-12">
+                <!-- small box -->
+                <div class="small-box bg-yellow">
+                    <div class="inner">
+                        <h3>{{housenum}}</h3>
+
+                        <p>房屋数量</p>
+                    </div>
+                    <div class="icon">
+                        <i class="ion ion-person-add"></i>
+                    </div>
+                    <a href="#" class="small-box-footer">更多<i class="fa fa-arrow-circle-right"></i></a>
+                </div>
+            </div>
+            <!-- ./col -->
+
+        </div>
+        <div class="row">
+            <div class="col-lg-4 col-xs-12">
+                <!-- small box -->
+                <div class="small-box bg-aqua">
+                    <div class="inner">
+                        <h3>{{maxprice}}</h3>
+
+                        <p>最高均价(元)</p>
+                    </div>
+                    <div class="icon">
+                        <i class="ion ion-bag"></i>
+                    </div>
+                    <a href="#" class="small-box-footer">更多 <i class="fa fa-arrow-circle-right"></i></a>
+                </div>
+            </div>
+            <!-- ./col -->
+            <div class="col-lg-4 col-xs-12">
+                <!-- small box -->
+                <div class="small-box bg-green">
+                    <div class="inner">
+                        <h3>{{maxpriceCount}}</sup></h3>
+
+                        <p>最高总价(万元)</p>
+                    </div>
+                    <div class="icon">
+                        <i class="ion ion-stats-bars"></i>
+                    </div>
+                    <a href="#" class="small-box-footer">更多 <i class="fa fa-arrow-circle-right"></i></a>
+                </div>
+            </div>
+            <!-- ./col -->
+            <div class="col-lg-4 col-xs-12">
+                <!-- small box -->
+                <div class="small-box bg-yellow">
+                    <div class="inner">
+                        <h3>{{maxArea}}</h3>
+
+                        <p>最高面积(m²)</p>
+                    </div>
+                    <div class="icon">
+                        <i class="ion ion-person-add"></i>
+                    </div>
+                    <a href="#" class="small-box-footer">更多<i class="fa fa-arrow-circle-right"></i></a>
+                </div>
+            </div>
+            <!-- ./col -->
+
+        </div>
+    </div>
+
+    <!-- /.row -->
+    <div class="row">
+        <!-- Left col -->
+        <section class="col-lg-7 connectedSortable ui-sortable">
+            <!-- Custom tabs (Charts with tabs)-->
+            <div class="nav-tabs-custom" style="cursor: move;">
+                <h3 class="box-title">
+                    小区销售房屋数量Top15
+                </h3>
+                <div id="container1" style="height:400px"></div>
+            </div>
+            <!-- /.nav-tabs-custom -->
+            <!-- Chat box -->
+            <div class="box box-success">
+                <div id="container3" style="height:400px"></div>
+            </div>
+            <!-- /.box (chat box) -->
+            <div class="box box-info">
+                <div id="container6" style="height:600px"></div>
+            </div>
+          
+            
+
+        </section>
+        <!-- /.Left col -->
+        <!-- right col (We are only adding the ID to make the widgets sortable)-->
+        <section class="col-lg-5 connectedSortable ui-sortable">
+
+            <!-- Map box -->
+            <div style="background-color: #7fe9f747">
+                <div id="container" style="height:500px"></div>
+
+            </div>
+            <!-- /.box -->
+            <!-- solid sales graph -->
+            <div style="margin-top:20px">
+                <div id="container2" style="height:400px"></div>
+                
+            </div>
+            
+            <div class="box box-info">
+                <div id="container4" style="height:600px"></div>
+            </div>
+        </section>
+        <!-- right col -->
+    </div>
+    <div class="row">
+        <section class="col-lg-12 connectedSortable ui-sortable">
+            <div class="box box-info">
+                <div id="container5" style="height:600px"></div>
+            </div>
+            <div class="box box-info">
+                <div id="container7" style="height:600px"></div>
+            </div>
+        </section>
+</div>
+
+</section>
+
+<script type="text/javascript">
+    var app = new Vue({
+        el: '#app',
+        data: {
+            areanum: 0,//区域数量
+            communitynum: 0,//小区数量
+            housenum:0,//房屋数量
+            maxprice:0,//最高均价
+            maxpriceCount:0,//最高总价
+            maxArea:0,//最高面积
+        },
+        methods:{
+            loadbaseCount: function () {
+                fetch("../Home/BaseCount")
+                .then(response=>response.text())
+                .then(data=>{
+                    //console.log(data);
+                let nums=data.split(",");
+                app.$data.areanum=nums[2];
+                app.$data.communitynum=nums[0];
+                app.$data.housenum=nums[1];
+                app.$data.maxprice=nums[3];
+                app.$data.maxpriceCount=nums[4];
+                app.$data.maxArea=nums[5];
+            });
+    },
+    loadareaCountBar:function(){
+        let dom = document.getElementById("container");
+        let myChart = echarts.init(dom);
+        let areapiedata={};
+
+        fetch("../Home/AreaHouseCount")
+        .then(response=>response.json())
+        .then(data=>{
+            //console.log(data);
+        let len=data.length;
+        areapiedata.legendData=[];
+        areapiedata.seriesData=[];
+        areapiedata.selected={};
+        for (let i = 0; i < len; i++) {
+            areapiedata.legendData.push(data[i].Name);
+            areapiedata.seriesData.push({
+                name:data[i].Name,
+                value:data[i].Num
+            });
+            areapiedata.selected[data[i].Name]=true;
+        }
+        let areapieoption = {
+            title : {
+                text: '房屋销售占比',
+                subtext: '数量占比',
+                x:'center'
+            },
+            tooltip : {
+                trigger: 'item',
+                formatter: "{a} <br/>{b} : {c} ({d}%)"
+            },
+            legend: {
+                type: 'scroll',
+                orient: 'vertical',
+                right: 10,
+                top: 20,
+                bottom: 20,
+                data: areapiedata.legendData,
+
+                selected: areapiedata.selected
+            },
+            series : [
+                {
+                    name: '区域名称',
+                    type: 'pie',
+                    radius : '55%',
+                    center: ['40%', '50%'],
+                    data: areapiedata.seriesData,
+                    itemStyle: {
+                        emphasis: {
+                            shadowBlur: 10,
+                            shadowOffsetX: 0,
+                            shadowColor: 'rgba(0, 0, 0, 0.5)'
+                        }
+                    }
+                }
+            ]
+        };
+        if (areapieoption && typeof areapieoption === "object") {
+            myChart.setOption(areapieoption, true);
+        }
+
+    });
+
+
+
+    },
+    loadcommonityCountBar:function(){//加载销售房屋数量最多的小区前15
+        let dom = document.getElementById("container1");
+        let myChart = echarts.init(dom);
+        let areapiedata={};
+
+        fetch("../Home/CommunityHouseCount")
+        .then(response=>response.json())
+        .then(data=>{
+            //console.log(data);
+        let len=data.length;
+        areapiedata.legendData=[];
+        areapiedata.seriesData=[];
+        for (let i = 0; i < len; i++) {
+            areapiedata.legendData.push(data[i].Name);
+            areapiedata.seriesData.push(data[i].Num);
+        }
+        let areapieoption  = {
+            color: ['#3398DB'],
+            tooltip : {
+                trigger: 'axis',
+                axisPointer : {            // 坐标轴指示器，坐标轴触发有效
+                    type : 'shadow'        // 默认为直线，可选为：'line' | 'shadow'
+                }
+            },
+            grid: {
+                left: '3%',
+                right: '4%',
+                bottom: '3%',
+                containLabel: true
+            },
+            xAxis : [
+                {
+                    type : 'category',
+                    data : areapiedata.legendData,
+                    axisTick: {
+                        alignWithLabel: true
+                    },
+                    axisLabel: {
+                        interval:0,
+                        rotate:40
+                    }
+
+                }
+            ],
+            yAxis : [
+                {
+                    type : 'value'
+                }
+            ],
+            series : [
+                {
+                    name:'直接访问',
+                    type:'bar',
+                    barWidth: '60%',
+                    data:areapiedata.seriesData
+                }
+            ]
+        };
+        if (areapieoption && typeof areapieoption === "object") {
+            myChart.setOption(areapieoption, true);
+        }
+
+    });
+    },
+    PricePie:function(){
+        let dom = document.getElementById("container2");
+        let myChart = echarts.init(dom);
+        let areapiedata={};
+        fetch("../Home/PricePie")
+        .then(response=>response.json())
+        .then(data=>{
+            //console.log(data);
+        let len=data.length;
+        areapiedata.legendData=[];
+        areapiedata.seriesData=[];
+        for (let i = 0; i < len; i++) {
+            areapiedata.legendData.push(data[i].Name);
+            areapiedata.seriesData.push({
+                name:data[i].Name,
+                value:data[i].Num
+            });
+        }
+        let areapieoption = {
+            title: {
+                text: '房屋均价占比',
+                left: 'center',
+                top: 20,
+                textStyle: {
+                    color: '#000'
+                }
+            },
+            tooltip: {
+                trigger: 'item',
+                formatter: "{a} <br/>价格区间 {b}: 房屋数量 {c} ({d}%)"
+            },
+            legend: {
+                orient: 'vertical',
+                x: 'left',
+                data:areapiedata.legendData
+            },
+            series: [
+                {
+                    name:'房屋均价',
+                    type:'pie',
+                    radius: ['50%', '70%'],
+                    avoidLabelOverlap: false,
+                    label: {
+                        normal: {
+                            show: false,
+                            position: 'center'
+                        },
+                        emphasis: {
+                            show: true,
+                            textStyle: {
+                                fontSize: '15',
+                                fontWeight: 'bold'
+                            }
+                        }
+                    },
+                    labelLine: {
+                        normal: {
+                            show: false
+                        }
+                    },
+                    data:areapiedata.seriesData
+                }
+            ]
+        };
+        if (areapieoption && typeof areapieoption === "object") {
+            myChart.setOption(areapieoption, true);
+        }
+
+    });
+    },
+    PriceCountPie:function(){
+        let dom = document.getElementById("container3");
+        let myChart = echarts.init(dom);
+        let areapiedata={};
+
+        fetch("../Home/PriceCountPie")
+        .then(response=>response.json())
+        .then(data=>{
+            //console.log(data);
+        let len=data.length;
+        areapiedata.legendData=[];
+        areapiedata.seriesData=[];
+        for (let i = 0; i < len; i++) {
+            areapiedata.legendData.push(data[i].Name);
+            areapiedata.seriesData.push({
+                name:data[i].Name,
+                value:data[i].Num
+            });
+        }
+        let areapieoption = {
+            title : {
+                text: '房屋总价占比',
+                subtext: '单位：万',
+                x:'center'
+            },
+            tooltip : {
+                trigger: 'item',
+                formatter: "{a} <br/>{b} : {c} ({d}%)"
+            },
+            legend: {
+                orient: 'vertical',
+                left: 'left',
+                data: areapiedata.legendData
+            },
+            series : [
+                {
+                    name: '总价',
+                    type: 'pie',
+                    radius : '55%',
+                    center: ['50%', '60%'],
+                    data:areapiedata.seriesData,
+                    itemStyle: {
+                        emphasis: {
+                            shadowBlur: 10,
+                            shadowOffsetX: 0,
+                            shadowColor: 'rgba(0, 0, 0, 0.5)'
+                        }
+                    }
+                }
+            ]
+        };
+        if (areapieoption && typeof areapieoption === "object") {
+            myChart.setOption(areapieoption, true);
+        }
+
+    });
+    },
+    AreaCountPie:function(){
+        let dom = document.getElementById("container4");
+        let myChart = echarts.init(dom);
+        let areapiedata={};
+        fetch("../Home/AreaPie")
+        .then(response=>response.json())
+        .then(data=>{
+        let len=data.length;
+        areapiedata.legendData=[];
+        areapiedata.seriesData=[];
+        for (let i = 0; i < len; i++) {
+            areapiedata.legendData.push(data[i].Name);
+            areapiedata.seriesData.push(data[i].Num);
+        }
+        let areapieoption = {
+            title : {
+                text: '房屋面积占比',
+                subtext: '单位：平方米',
+                x:'center'
+            },
+            color: ['#3398DB'],
+            tooltip : {
+                trigger: 'axis',
+                axisPointer : {            // 坐标轴指示器，坐标轴触发有效
+                    type : 'shadow'        // 默认为直线，可选为：'line' | 'shadow'
+                }
+            },
+            grid: {
+                left: '3%',
+                right: '4%',
+                bottom: '3%',
+                containLabel: true
+            },
+            xAxis : [
+                {
+                    type : 'category',
+                    data : areapiedata.legendData,
+                    axisTick: {
+                        alignWithLabel: true
+                    },
+                    axisLabel: {
+                        interval:0,
+                        rotate:40
+                    }
+                }
+            ],
+            yAxis : [
+                {
+                    type : 'value'
+                }
+            ],
+            series : [
+                {
+                    name:'面积',
+                    type:'bar',
+                    barWidth: '60%',
+                    data:areapiedata.seriesData
+                }
+            ]
+        };
+        if (areapieoption && typeof areapieoption === "object") {
+            myChart.setOption(areapieoption, true);
+        }
+
+    });
+    },
+    HashPriceArea:function(){
+        let dom = document.getElementById("container5");
+        let myChart = echarts.init(dom);
+        let areapiedata={};
+        fetch("../Home/PriceArea")
+        .then(response=>response.json())
+        .then(data=>{
+            let len=data.length;
+        areapiedata.legendData=[];
+        areapiedata.seriesData=[];
+        for (let i = 0; i < len; i++) {
+            areapiedata.seriesData.push([data[i].Start,data[i].End]);
+        }
+        let areapieoption = {
+            title : {
+                text: '面积均价散列图',
+                
+                x:'center'
+            },
+            tooltip : {
+                // trigger: 'axis',
+                showDelay : 0,
+                formatter : function (params) {
+                    if (params.value.length > 1) {
+                        return params.seriesName + ' :<br/>'
+                        + params.value[0] + '元 '
+                        + params.value[1] + '㎡ ';
+                    }
+                },
+                axisPointer:{
+                    show: true,
+                    type : 'cross',
+                    lineStyle: {
+                        type : 'dashed',
+                        width : 1
+                    }
+                }
+            },
+            xAxis: { name: '均价(元)',
+                scale: true
+            },
+            yAxis: {
+                name: '面积(㎡)',
+                scale: true
+            },
+            series: [ {
+                name:"面积均价",
+                type: 'scatter',
+                itemStyle: {
+                    normal: {
+                        color: "#3f51b5"
+                    }
+                },
+                
+                data: areapiedata.seriesData,
+            }]
+        };
+
+        if (areapieoption && typeof areapieoption === "object") {
+            myChart.setOption(areapieoption, true);
+        }
+
+    });
+    },
+    HashPriceCountArea:function(){
+        let dom = document.getElementById("container6");
+        let myChart = echarts.init(dom);
+        let areapiedata={};
+        fetch("../Home/PriceCountArea")
+        .then(response=>response.json())
+        .then(data=>{
+            let len=data.length;
+        areapiedata.legendData=[];
+        areapiedata.seriesData=[];
+        for (let i = 0; i < len; i++) {
+            areapiedata.seriesData.push([data[i].Start,data[i].End]);
+        }
+        let areapieoption = {
+            title : {
+                text: '面积总价散列图',
+                
+                x:'center'
+            }, tooltip : {
+                // trigger: 'axis',
+                showDelay : 0,
+                formatter : function (params) {
+                    if (params.value.length > 1) {
+                        return params.seriesName + ' :<br/>'
+                        + params.value[0] + '万元 '
+                        + params.value[1] + '㎡ ';
+                    }
+                },
+                axisPointer:{
+                    show: true,
+                    type : 'cross',
+                    lineStyle: {
+                        type : 'dashed',
+                        width : 1
+                    }
+                }
+            },
+            xAxis: { name: '面积(㎡)',
+                scale: true
+            },
+            yAxis: {
+                name: '总价(万元)',
+                scale: true
+            },
+            series: [ {
+                name:"面积总价：",
+                type: 'scatter',
+                itemStyle: {
+                    normal: {
+                        color: "#b03a5b"
+                    }
+                },
+                data: areapiedata.seriesData,
+            }]
+        };
+
+        if (areapieoption && typeof areapieoption === "object") {
+            myChart.setOption(areapieoption, true);
+        }
+
+    });
+    },
+    HashPriceCountPrice:function(){
+        let dom = document.getElementById("container7");
+        let myChart = echarts.init(dom);
+        let areapiedata={};
+        fetch("../Home/PriceCountPrice")
+        .then(response=>response.json())
+        .then(data=>{
+            let len=data.length;
+        areapiedata.legendData=[];
+        areapiedata.seriesData=[];
+        for (let i = 0; i < len; i++) {
+            areapiedata.seriesData.push([data[i].Start,data[i].End]);
+        }
+        let areapieoption = {
+            title : {
+                text: '总价均价散列图',
+                
+                x:'center'
+            },
+            tooltip : {
+                // trigger: 'axis',
+                showDelay : 0,
+                formatter : function (params) {
+                    if (params.value.length > 1) {
+                        return params.seriesName + ' :<br/>'
+                        + params.value[0] + '元 '
+                        + params.value[1] + '万元 ';
+                    }
+                },
+                axisPointer:{
+                    show: true,
+                    type : 'cross',
+                    lineStyle: {
+                        type : 'dashed',
+                        width : 1
+                    }
+                }
+            },
+            xAxis: { name: '均价(元)',
+                scale: true
+            },
+            yAxis: {
+                name: '总价(万元)',
+                scale: true
+            },
+            series: [ {
+                name:"总价均价：",
+                type: 'scatter',
+                itemStyle: {
+                    normal: {
+                        color: "#f44336"
+                    }
+                },
+                data: areapiedata.seriesData,
+            }]
+        };
+
+        if (areapieoption && typeof areapieoption === "object") {
+            myChart.setOption(areapieoption, true);
+        }
+
+    });
+    },
+    },
+    created: function () {
+        this.loadbaseCount();
+        this.loadareaCountBar();
+        this.loadcommonityCountBar();
+        this.PricePie();
+        this.PriceCountPie();
+        this.AreaCountPie();
+        this.HashPriceArea();
+        this.HashPriceCountArea();
+        this.HashPriceCountPrice();
+    }
+    });
+</script>
